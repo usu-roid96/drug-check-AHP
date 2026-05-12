@@ -1,3 +1,2239 @@
-[
-
-]
+[{ "name_jp": ""A01AA01 · Sodium Fluoride STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Duraphat · Elmex Duraphat · Fluorid · Flux · Medelmex Duraphat · Natriumfluorid · Natriumfluoridi · Sensodyne"
+{ "name_jp": ""A01AA30 · Combinations STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Elmex · Fluormex · Kombinasjoner · Xerodent"
+{ "name_jp": ""A01AB03 · Chlorhexidine STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Chlorhexamed Forte · Corsodyl · Klorheksidin · Paroex"
+{ "name_jp": ""A01AB04 · Amphotericin b STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Amfotericin b · Ampho-Moronal"
+{ "name_jp": ""A01AB09 · Miconazole STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Brentan · Daktar · Daktarin · Daktarin-Oral · Infectosoor · Mikonazol"
+{ "name_jp": ""A01AB11 · Various STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Betadine · Diverse · Myrratinktur · na Hypokloritt · Natriumhypokloritt · Nystatin-Klorheksidin"
+{ "name_jp": ""A01AB17 · Metronidazole STOMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Metronidazol"
+{ "name_jp": ""A01AB22 · Doxycycline STOMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Doksysyklin · Ligosan"
+{ "name_jp": ""A01AB23 · Minocycline STOMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Minosyklin"
+{ "name_jp": ""A01AC01 · Triamcinolone STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Triamcinolon · Volon a"
+{ "name_jp": ""A01AD01 · Epinephrine STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Adrenalin · Gingi-pak"
+{ "name_jp": ""A01AD02 · Benzydamine STOMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Actusept · Andolex · Benzydamin · Benzydamine neo-Angin · Benzydamine neo-Angin Forte · Bertolix · Gardlox · Hascosept · Hascosept Forte · Inaldin · Nagardlan · Septogard · Tantum Verde · Tantum Verde Forte · Uniben"
+{ "name_jp": ""A01AD11 · Various STOMATOLOGICAL PREPARATIONS", "status": "NP" },
+Baxofort · Calgel · Dentinox · Devipasta · Dezaftan · Diclostim · Diverse · Dolodent · Edta · Glimbax · Glyserol · Ketoangin · Metronidazol · Sachodent · Solcoseryl"
+{ "name_jp": ""A02AC01 · Calcium Carbonate DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Kalsiumkarbonat · Titralac · Zgaginstop"
+{ "name_jp": ""A02AD01 · Ordinary Salt Combinations DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Alminox · Balancid · Gastal · Maalox · Novaluzid · Ordinære Saltkombinasjoner · Peehoo Comp · Rennie · Ríflúxín"
+{ "name_jp": ""A02AH · Antacids With Sodium Bicarbonate DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Alkala · Antacida med Natriumhydrogenkarbonat · Natriumbikarbonat · Natriumhydrogencarbonat · Natriumhydrogenkarbonat · Natriumvetykarbonaatti · Natron · Samarin"
+{ "name_jp": ""A02BA01 · Cimetidine DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Cimetidin · Cimetidine · Ulcostad"
+{ "name_jp": ""A02BA02 · Ranitidine DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Ranigast · Ranimax · Ranisan · Ranitidin · Ranitidine · Ranitydyna · Solvertyl"
+{ "name_jp": ""A02BA03 · Famotidine DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Famiflux · Famogast · Famotidin · Famotidine · Famotydyna · Famotydyna Ranigast · Pepcid"
+{ "name_jp": ""A02BA04 · Nizatidine DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Nizatidin"
+{ "name_jp": ""A02BA53 · Famotidine, Combinations DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Famotidin, Kombinasjoner · Manti · Pepcid · Pepcidduo"
+{ "name_jp": ""A02BB01 · Misoprostol DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Cytotec · Misoprostol"
+{ "name_jp": ""A02BC01 · Omeprazole DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Aciniks · Agastin · Appizmit · Bioprazol · Bioprazol bio · Gasec · Goprazol · Helicid · Helicid Forte · Heligen · Lappoxo · Losec · Loseprazol · Omeboix · Omedipram · Omeprazol · Omeprazole · Omestad · Omezolin · Omezyl · Opral · Ortanol · Pedippi · Polprazol · Prazol · Prenome · Progastim · Relumo · Sagalix · Ulcozol · Ultop · Ventazol · Zemograc"
+{ "name_jp": ""A02BC02 · Pantoprazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Anesteloc · Asteloc · Contix · Controloc · Gastrostad · Gerdin · ipp · Noacid · Nolpaza · Ozzion · Pamyl · Panprazox · Panrazol · Pantoloc · Pantopraz · Pantoprazol · Pantoprazole · Pantoprazolo · Pantorena · Pantosis · Pantozol · Pantozol Controloc · Panzol · Polpanto · Ranloc · Somac"
+{ "name_jp": ""A02BC03 · Lansoprazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Gasterix · Jacoprazole · Lansopram · Lansoprazol · Lansoprazole · Lanvone · Lanzo · Lanzul · Renazol · Zalanzo · Zolt"
+{ "name_jp": ""A02BC04 · Rabeprazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Pariet · Rabeprazol · Ralic · Zulbex"
+{ "name_jp": ""A02BC05 · Esomeprazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Abigerd · Acidal · Dansiglat · Emanera · Esodec · Esogasec · Esomel · Esomeprazol · Esomeprazol Alugastrin · Esomeprazole · Esopol · Esoprax · Esopraz · Esoref · Etizol · Helides · Mesopral · Nexium · Nexizol · Prazolene · Stomezul · Texibax · Ulcerex"
+{ "name_jp": ""A02BD02 · Lansoprazole, Tetracycline and Metronidazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Lansoprazol, Tetrasyklin og Metronidazol"
+{ "name_jp": ""A02BD03 · Lansoprazole, Amoxicillin and Metronidazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Lansoprazol, Amoksicillin og Metronidazol"
+{ "name_jp": ""A02BD08 · Bismuth Subcitrate, Tetracycline and Metronidazole DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Pylera · Vismut Subsitrat, Tetrasyklin og Metronidazol"
+{ "name_jp": ""A02BX02 · Sucralfate DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Antepsin · Peptonorm · Sucralan · Sukralfat · Ulgastran"
+{ "name_jp": ""A02BX05 · Bismuth Subcitrate DRUGS FOR ACID RELATED DISORDERS", "status": "PNP" },
+Ulcamed · Vismut Subsitrat"
+{ "name_jp": ""A02BX13 · Alginic Acid DRUGS FOR ACID RELATED DISORDERS", "status": "NP" },
+Alginsyre · Claulieve · Galieve · Garbalieve · Gaviscon · Reckilieve"
+{ "name_jp": ""A03AA04 · Mebeverine DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "PNP" },
+Auroverin · Duspatal · Duspatalin · Mebelin · Mebeverin · Mebeverinhydrochlorid"
+{ "name_jp": ""A03AB02 · Glycopyrronium Bromide DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "PNP" },
+Glycopyrrolate · Glycopyrronium · Glykopyrroniumbromid · Glykopyrroniumbromidi · Glyronul · Robinul · Sialanar"
+{ "name_jp": ""A03AX13 · Silicones DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "NP" },
+Bobotic · Cuplaton · Espumisan · Espumisan Forte · Esputicon · Imogas · Imogaze · Infacol · Minifom · Silikonforbindelser · Simet · Simetikon"
+{ "name_jp": ""A03BA01 · Atropine DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "PNP" },
+Atropin · Atropine · Atropinsulfat · Atropinum Sulfuricum · Bellapan · Rafaject"
+{ "name_jp": ""A03BA03 · Hyoscyamine DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "PNP" },
+Hyoscyamin · Hyoscyamine"
+{ "name_jp": ""A03BB01 · Butylscopolamine DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "PNP" },
+Aurogastro · Bumacor · Bumofarm · Buscolysin · Buscopan · Buscopan Forte · Butylskopolamin · Scopolamine Butylbromide · Scopolan · Skopolaminbutylbromid"
+{ "name_jp": ""A03FA01 · Metoclopramide DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS", "status": "PNP" },
+Afipran · Metoclopramide · Metoclopramidi · Metoclopramidum · Metoklopramid · Olamide · Primperan"
+{ "name_jp": ""A04AA01 · Ondansetron ANTIEMETICS AND ANTINAUSEANTS", "status": "PNP" },
+Atossa · Cinveron · Emeondan · Ondansetron · Ondantriwa · Rimondan · Setrogen · Setrondan · Setronon · Tifisetron · Zofran"
+{ "name_jp": ""A04AA02 · Granisetron ANTIEMETICS AND ANTINAUSEANTS", "status": "PNP" },
+Gazoron · Granem · Granisetron · Granisym · Kytril · Sancuso"
+{ "name_jp": ""A04AA03 · Tropisetron ANTIEMETICS AND ANTINAUSEANTS", "status": "PNP" },
+Navoban · Tropisetron"
+{ "name_jp": ""A04AA05 · Palonosetron ANTIEMETICS AND ANTINAUSEANTS", "status": "PNP" },
+Aloxi · Palonosetron · Palonosetronhydrochlorid · Palonossetrom"
+{ "name_jp": ""A04AD01 · Scopolamine ANTIEMETICS AND ANTINAUSEANTS", "status": "PNP" },
+Scopoderm · Skopolamin"
+{ "name_jp": ""A05AA02 · Ursodeoxycholic Acid BILE AND LIVER THERAPY", "status": "NP" },
+Aurourso · Proursan · Urgaldex · Ursocam · Ursochol · Ursodeoksykolsyre · Ursodeoxycholic Acid · Ursodeoxycholsyre · Ursofalk · Ursogrix · Ursopol · Ursosan · Ursoxyn"
+{ "name_jp": ""A06AB02 · Bisacodyl DRUGS FOR CONSTIPATION", "status": "PNP" },
+Bisacodyl · Bisakodyl · Dulcobis · Dulcolax · Toilax"
+{ "name_jp": ""A06AB06 · Senna Glycosides DRUGS FOR CONSTIPATION", "status": "NP" },
+Pursennid · Senalax · Senefol · Senes · Sennaglykosider · Xenna"
+{ "name_jp": ""A06AB08 · Sodium Picosulfate DRUGS FOR CONSTIPATION", "status": "NP" },
+Actilax · Laxoberal · Laxoberon · Natriumpikosulfat · Orilaxal · Picorion · Pikopil"
+{ "name_jp": ""A06AB57 · Cascara, Combinations DRUGS FOR CONSTIPATION", "status": "PNP" },
+Sagrada, Kombinasjoner"
+{ "name_jp": ""A06AB58 · Sodium Picosulfate, Combinations DRUGS FOR CONSTIPATION", "status": "PNP" },
+Citrafleet · Natriumpikosulfat, Kombinasjoner · Picoprep"
+{ "name_jp": ""A06AC01 · Ispaghula (Psylla Seeds) DRUGS FOR CONSTIPATION", "status": "PNP" },
+Husk Psyllium-Frøskaller · Ispaghula (Loppefrø) · vi-Siblin"
+{ "name_jp": ""A06AC03 · Sterculia DRUGS FOR CONSTIPATION", "status": "NP" },
+Sterkulia"
+{ "name_jp": ""A06AC07 · Triticum (Wheat Fibre) DRUGS FOR CONSTIPATION", "status": "PNP" },
+Fiberform · Hvetefiber"
+{ "name_jp": ""A06AC51 · Ispaghula, Combinations DRUGS FOR CONSTIPATION", "status": "PNP" },
+Agiocur · Ispaghula, Kombinasjoner"
+{ "name_jp": ""A06AD02 · Magnesium Oxide DRUGS FOR CONSTIPATION", "status": "NP" },
+Magnesiumoksid"
+{ "name_jp": ""A06AD10 · Mineral Salts in Combination DRUGS FOR CONSTIPATION", "status": "NP" },
+Eziclen · Kombinasjoner av Mineralsalter"
+{ "name_jp": ""A06AD11 · Lactulose DRUGS FOR CONSTIPATION", "status": "NP" },
+Duphalac · Lactulos · Lactulose · Lactulosum · Lactulosum Forte · Laktufarm · Laktulose · Levolac · Medilax · Normalac"
+{ "name_jp": ""A06AD12 · Lactitol DRUGS FOR CONSTIPATION", "status": "NP" },
+Importal · Laktitol"
+{ "name_jp": ""A06AD15 · Macrogol DRUGS FOR CONSTIPATION", "status": "NP" },
+Casenlax · Forlax · Macrogol · Makrogol · Makrogoli · Olopeg · Pegorion · Pegulos · Smoothlax"
+{ "name_jp": ""A06AD17 · Sodium Phosphate DRUGS FOR CONSTIPATION", "status": "NP" },
+Coloclear · Natriumfosfat · Phosphoral"
+{ "name_jp": ""A06AD65 · Macrogol, Combinations DRUGS FOR CONSTIPATION", "status": "NP" },
+Abdomin · Aurogo · Clensia · Colonsteril · Cosmocol · Duphagol · Fortrans · Gangiden · Klean-Prep · Lacrofarm · Laxabon · Laxiriva · Macrovic · Makrogol, Kombinasjoner · Movicol · Movicol go · Moviprep · Moxalole · Plenvu · Sacrovic · Vistaprep"
+{ "name_jp": ""A06AG02 · Bisacodyl DRUGS FOR CONSTIPATION", "status": "NP" },
+Bisakodyl · Toilax"
+{ "name_jp": ""A06AG07 · Sorbitol DRUGS FOR CONSTIPATION", "status": "NP" },
+Sorbitol"
+{ "name_jp": ""A06AG10 · Docusate Sodium, Incl. Combinations DRUGS FOR CONSTIPATION", "status": "NP" },
+Dokusatnatrium, Inkl. Kombinasjoner · Glyoktyl · Klyx"
+{ "name_jp": ""A06AG11 · Sodium Lauryl Sulfoacetate, Incl. Combinations DRUGS FOR CONSTIPATION", "status": "NP" },
+Microlax · Natriumlaurylsulfoacetat, Inkl. Kombinasjoner"
+{ "name_jp": ""A06AH01 · Methylnaltrexone Bromide DRUGS FOR CONSTIPATION", "status": "PNP" },
+Metylnaltreksonbromid · Relistor"
+{ "name_jp": ""A06AX02 · Carbon Dioxide Producing Drugs DRUGS FOR CONSTIPATION", "status": "NP" },
+Karbondioksiddannende Midler · Lecicarbon"
+{ "name_jp": ""A07AA02 · Nystatin ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "NP" },
+Moronal · Mycostatin · Mykundex · Nyscandin · Nystapol · Nystatin · Nystatyna · Nystimex"
+{ "name_jp": ""A07AA06 · Paromomycin ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Gabbroral · Humatin · Paromomycin"
+{ "name_jp": ""A07AA09 · Vancomycin ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Vancocin · Vancomycin · Vancomycine · Vankomycin"
+{ "name_jp": ""A07AA12 · Fidaxomicin ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Dificlir · Fidaksomicin"
+{ "name_jp": ""A07BA01 · Medicinal Charcoal ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "NP" },
+Actidose-Aqua · Aktivt kul · Carbo Activ · Carbo Medicinalis · Carbomix · Charfarm · Kohle · Kohle-Compretten · Kolsuspension · Kull · Medisinsk Kull · Norit Carbomix · Wegiel Leczniczy"
+{ "name_jp": ""A07DA03 · Loperamide ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Auroblock · Aurostop · Dissenten · Immex · Imocur · Imodium · Imolope · Imolopera · Laremid · Lopacut · Loper · Loperamid · Loperamide · Lopex · Loritax · Salvacolina · Soluzem · Stoperan"
+{ "name_jp": ""A07DA05 · Loperamide Oxide ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Loperamidoksid"
+{ "name_jp": ""A07DA53 · Loperamide, Combinations ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Imodium Comp · Imodium Plus · Imolopesim · Loperamid, Kombinasjoner"
+{ "name_jp": ""A07EA01 · Prednisolone ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Prednisolon"
+{ "name_jp": ""A07EA02 · Hydrocortisone ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Colifoam · Cortenema · Hydrokortison"
+{ "name_jp": ""A07EA03 · Prednisone ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Prednison"
+{ "name_jp": ""A07EA06 · Budesonide ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Budekron · Budenocare · Budenofalk · Budenopar · Budesonid · Cortiment · Cortiment mmx · Entocort · Jorveza · Kinpeygo · Xirobud"
+{ "name_jp": ""A07EB01 · Cromoglicic Acid ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "NP" },
+Allergoval · Cromolyn · Lomudal · Nalcrom · Natriumkromoglikat · Pentatop"
+{ "name_jp": ""A07EC02 · Mesalazine ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Asacol · Asamax · Crohnax · Granmesa · Mesalazin · Mesavancol · Mezavant · Pentasa · Quintasa · Salaza · Salofalk"
+{ "name_jp": ""A07EC03 · Olsalazine ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Dipentum · Olsalazin"
+{ "name_jp": ""A07EC04 · Balsalazide ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "PNP" },
+Balsalazid · Colazid · Premid"
+{ "name_jp": ""A07FA02 · Saccharomyces Boulardii ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS", "status": "NP" },
+Codex · Enterol · Enterol Forte · Lakcid Entero · Perenterol Forte · Perocur · Precosa · Saccharomyces Boulardii"
+{ "name_jp": ""A08AA10 · Sibutramine ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS", "status": "PNP" },
+Sibutramin"
+{ "name_jp": ""A08AB01 · Orlistat ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS", "status": "NP" },
+Alli · Orlistat · Xenical"
+{ "name_jp": ""A09AA02 · Multienzymes (Lipase, Protease etc.) DIGESTIVES, INCL. ENZYMES", "status": "NP" },
+Creon · Kreon · Lipancrea · Micrazym · Multienzymer (Lipase, Protease etc.) · neo-Pancreatinum Forte · Pancrex · Pangrol · Pertzye"
+{ "name_jp": ""A09AB01 · Glutamic Acid Hydrochloride DIGESTIVES, INCL. ENZYMES", "status": "NP" },
+Aciglumin · Glutaminsyrehydroklorid"
+{ "name_jp": ""A10AB01 · Insulin (Human) DRUGS USED IN DIABETES", "status": "NP" },
+Actrapid · Gensulin r · Humulin · Humulin r · Inpremzia · Insulin (Human) · Insuman · Polhumin · Polhumin r"
+{ "name_jp": ""A10AB04 · Insulin Lispro DRUGS USED IN DIABETES", "status": "NP" },
+Humalog · Humalog-Humaject · Insulin Lispro · Liprolog · Lyumjev"
+{ "name_jp": ""A10AB05 · Insulin Aspart DRUGS USED IN DIABETES", "status": "NP" },
+Fiasp · Insulin Aspart · Kirsty · Novomix · Novorapid"
+{ "name_jp": ""A10AB06 · Insulin Glulisine DRUGS USED IN DIABETES", "status": "NP" },
+Apidra · Insulin Glulisin"
+{ "name_jp": ""A10AC01 · Insulin (Human) DRUGS USED IN DIABETES", "status": "NP" },
+Gensulin · Humulin · Insulatard · Insulin (Human) · Insuman · Mixtard · Polhumin · Protaphane"
+{ "name_jp": ""A10AD01 · Insulin (Human) DRUGS USED IN DIABETES", "status": "NP" },
+Actraphane · Gensulin · Humulin · Insulin (Human) · Insuman Comb · Mixtard · Polhumin"
+{ "name_jp": ""A10AD05 · Insulin Aspart DRUGS USED IN DIABETES", "status": "NP" },
+Insulin Aspart · Novomix · Truvelog"
+{ "name_jp": ""A10AE01 · Insulin (Human) DRUGS USED IN DIABETES", "status": "NP" },
+Insulin (Human)"
+{ "name_jp": ""A10AE04 · Insulin Glargine DRUGS USED IN DIABETES", "status": "NP" },
+Abasaglar · Insulin Glargin · Lantus · Ondibta · Semglee · Toujeo"
+{ "name_jp": ""A10AE05 · Insulin Detemir DRUGS USED IN DIABETES", "status": "NP" },
+Insulin Detemir · Levemir"
+{ "name_jp": ""A10AE06 · Insulin Degludec DRUGS USED IN DIABETES", "status": "NP" },
+Insulin Degludec · Tresiba"
+{ "name_jp": ""A10AE56 · Insulin Degludec and Liraglutide DRUGS USED IN DIABETES", "status": "PNP" },
+Insulin Degludec og Liraglutid · Xultophy"
+{ "name_jp": ""A10BA02 · Metformin DRUGS USED IN DIABETES", "status": "NP" },
+Abmetfina · Avamina · Diabufor · Etform · Formetic · Forminet · Glucophage · Iruka · Lyomet · Meladine · Metcrean · Metforem · Metformax · Metformin · Mitforgen · Normoton · Oramet · Ranmet · Siofor · Symformin · Thinban · Valimar · Xuvelex · Zenofor"
+{ "name_jp": ""A10BB07 · Glipizide DRUGS USED IN DIABETES", "status": "PNP" },
+Glibenese · Glipizid · Glipizide · Minodiab"
+{ "name_jp": ""A10BB12 · Glimepiride DRUGS USED IN DIABETES", "status": "PNP" },
+Amaryl · Diaril · Glibetic · Glimehexal · Glimepirid · Glimepiride · Glimeryl · Glimiprix · Glimonor · Glimorion · Glitoprel · Oltar · Priglide · Symglic"
+{ "name_jp": ""A10BD05 · Metformin and Pioglitazone DRUGS USED IN DIABETES", "status": "PNP" },
+Competact · Glubrava · Metformin og Pioglitazon"
+{ "name_jp": ""A10BD07 · Metformin and Sitagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Ansifora · Asigefort · Asitalip · Brandasit · co-Fineria · Combodiab · Depepsit · Efficib · Eprocliv · Fordiab · Glerova · Jamesi · Jansitin · Janumet · Juzimette · Lonamo · Maymetsi · Metformax · Metformin / Sitagliptin · Metsigletic · Mifomet · Ristfor · Sademlip · Sitaformil · Symetlip · Sytagliptyna + Metforminy Chlorowodorek · Sytena Plus · Velmetia"
+{ "name_jp": ""A10BD08 · Metformin and Vildagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Agartha · Alikval · Anvildis · Daltex · Diptivil · Eucreas · Gliptivil · Gluamet · Icandra · Ipinzan · Melkart · Metformin / Vildagliptin · Metformin og Vildagliptin · Pernuvi · Tutecvi · Vedfa · Veldamet · Veludamet · Vilmenio · Vimetso · Zomarist"
+{ "name_jp": ""A10BD10 · Metformin and Saxagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Komboglyze · Metformin og Saksagliptin"
+{ "name_jp": ""A10BD11 · Metformin and Linagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Autnami · Glymetia · Jentadueto · Liglifev · Linagliptin / Metformin · Marsialo · Meglithan · Metformin og Linagliptin · Nagilma"
+{ "name_jp": ""A10BD15 · Metformin and Dapagliflozin DRUGS USED IN DIABETES", "status": "PNP" },
+Dapagliflozin / Metformin · Diaflix · Ebymect · Metformin og Dapagliflozin · Mexdagry · Raskal · Xigduo"
+{ "name_jp": ""A10BD19 · Linagliptin and Empagliflozin DRUGS USED IN DIABETES", "status": "PNP" },
+Glyxambi · Linagliptin og Empagliflozin"
+{ "name_jp": ""A10BD20 · Metformin and Empagliflozin DRUGS USED IN DIABETES", "status": "PNP" },
+Appref · Empagliflozin / Metformin · Metformin og Empagliflozin · Synjardy · Ulorm"
+{ "name_jp": ""A10BD21 · Saxagliptin and Dapagliflozin DRUGS USED IN DIABETES", "status": "PNP" },
+Qtern · Saksagliptin og Dapagliflozin"
+{ "name_jp": ""A10BF01 · Acarbose DRUGS USED IN DIABETES", "status": "NP" },
+Acarbose · Adeksa · Akarbose · Glucobay"
+{ "name_jp": ""A10BF02 · Miglitol DRUGS USED IN DIABETES", "status": "PNP" },
+Miglitol"
+{ "name_jp": ""A10BG03 · Pioglitazone DRUGS USED IN DIABETES", "status": "PNP" },
+Actos · Glidipion · Paglitaz · Pioglitazon · Pioglitazone"
+{ "name_jp": ""A10BH01 · Sitagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Adimuplan · Ansifora · Frekidir · Jansitin · Januvia · Jazeta · Juzina · Lonamo · Maysiglu · Meliglix · Mifoglame · Phingroum · Ristaben · Sigletic · Simlerid · Sitagliptin · Suprovia · Symgliptin · Sytena · Tesavel · Xelevia"
+{ "name_jp": ""A10BH02 · Vildagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Agartha · Agnis · Alikval · Anvildis · Diptivil · Galvus · Gluadda · Glypvilo · Jalra · Kwikaton · Melkart · Pernuvi · Viglita · Vildagliptin · Xiliarx"
+{ "name_jp": ""A10BH03 · Saxagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Onglyza · Saksagliptin"
+{ "name_jp": ""A10BH05 · Linagliptin DRUGS USED IN DIABETES", "status": "PNP" },
+Jeligo · Liamell · Liglinra · Linagliptin · Linathan · Linatra · Lynxaram · Neloviren · Nezodia · Pligant · Rekiva · Sansik · Tingapla · Trajenta · Zyfoqam"
+{ "name_jp": ""A10BJ01 · Exenatide DRUGS USED IN DIABETES", "status": "PNP" },
+Bydureon · Byetta · Eksenatid"
+{ "name_jp": ""A10BJ02 · Liraglutide DRUGS USED IN DIABETES", "status": "PNP" },
+Byesilor · Diavic · Ejulir · Inatord · Liraglutid · Metlyra · Milmiga · Nevolat · Plyzari · Polidia · Saxenda · Triglyva · Victoza · Zegluxen"
+{ "name_jp": ""A10BJ03 · Lixisenatide DRUGS USED IN DIABETES", "status": "PNP" },
+Liksisenatid · Lyxumia"
+{ "name_jp": ""A10BJ05 · Dulaglutide DRUGS USED IN DIABETES", "status": "PNP" },
+Dulaglutid · Trulicity"
+{ "name_jp": ""A10BJ06 · Semaglutide DRUGS USED IN DIABETES", "status": "PNP" },
+Kayshild · Ozempic · Rybelsus · Semaglutid · Wegovy"
+{ "name_jp": ""A10BK01 · Dapagliflozin DRUGS USED IN DIABETES", "status": "PNP" },
+Daforbis · Dagetia · Dagrafors · Dapagliflozin · Dapagliflozyna · Dapaglifozin · Dapazyna · Diaflix · Dofliga · Edistride · Figozap · Forxiga · Odelniqva · Zedilarf"
+{ "name_jp": ""A10BK03 · Empagliflozin DRUGS USED IN DIABETES", "status": "PNP" },
+Bifoglan · Empagliflozin · Empelic · Eprekavor · Jardiance · Maslempria · Rempoqonia · Yomekray"
+{ "name_jp": ""A10BX02 · Repaglinide DRUGS USED IN DIABETES", "status": "PNP" },
+Enyglid · Novonorm · Prandin · Repaglinid · Repaglinide"
+{ "name_jp": ""A10BX03 · Nateglinide DRUGS USED IN DIABETES", "status": "PNP" },
+Nateglinid · Starlix · Trazec"
+{ "name_jp": ""A10BX16 · Tirzepatide DRUGS USED IN DIABETES", "status": "PNP" },
+Mounjaro · Tirzepatid"
+{ "name_jp": ""A11AA01 · Multivitamins and Iron VITAMINS", "status": "NP" },
+Multivitaminer og Jern"
+{ "name_jp": ""A11CA01 · Retinol (vit a) VITAMINS", "status": "NP" },
+Retinol (vit a) · Vitamin a · Vitamine a · Vitaminum a"
+{ "name_jp": ""A11CB · Vitamin a and d in Combination VITAMINS", "status": "NP" },
+Vitamins a + d"
+{ "name_jp": ""A11CC02 · Dihydrotachysterol VITAMINS", "status": "PNP" },
+Dihydrotakysterol"
+{ "name_jp": ""A11CC03 · Alfacalcidol VITAMINS", "status": "PNP" },
+Alfacalcidol · Alfacalcidol Cande · Alfadiol · Alfakalsidol · Etalpha"
+{ "name_jp": ""A11CC04 · Calcitriol VITAMINS", "status": "PNP" },
+Decostriol · Detriol · Kalsitriol · Rocaltrol"
+{ "name_jp": ""A11CC05 · Colecalciferol VITAMINS", "status": "PNP" },
+Annexxo · Apod3 · Benferol · Boncel · Calsus · Cholecalciferol · Colecalciferol · d3-Vicotrat · Decurol · Dekristol · Dekristol Forte · Detremin · Detrical · Detritin · Devikap · Diprimis · Divifarm · Divisun · Fedivelle · Fultium · Fultium-d3 · Ibuvit d3 · Jekovit d3 · Juvit d3 · Kolekalsiferol · Nycoplus d3-Vitamin · Olvit d3 · Prodywit · Solderol · Soligamma · Thorens · Vigalex · Vigalex bio · Vigalex Forte · Vigantol · Vigantoletten · Vigantolvit · Vitamin d3 · Widat"
+{ "name_jp": ""A11DA01 · Thiamine (vit b1) VITAMINS", "status": "NP" },
+b1 Vitamin · Benerva · Bevione · Neuramin · Thiamine · Thiaminhydrochlorid · Thiatum · Tiamin · Tiamin (vit b1) · Vitamin b1 · Vitamin b1-Injektopas · Vitaminum b1"
+{ "name_jp": ""A11DB · Vitamin b1 in Combination With Vitamin b6 and/or Vitamin b12 VITAMINS", "status": "NP" },
+Betanerv · Invitaxon · Milgamma · Neiratax · Neiraxin · Neurobion · Neurobion Forte · Neuromax Forte · Neurovit · Vitaminum b1 + b6 + b12 · Vitaminum b1+b6"
+{ "name_jp": ""A11EA · Vitamin b-Complex, Plain VITAMINS", "status": "NP" },
+b-Combin · Bevitrio · Multivit-b · Multivit-b Forte · Triobe · Vitamin b · Vitamin b-Kompleks, Usammensatte · Vitaminum b"
+{ "name_jp": ""A11EB · Vitamin b-Complex With Vitamin c VITAMINS", "status": "NP" },
+Cibivin · Pabrinex · Renavit · Syndrex · Vitamin b-Kompleks med Vitamin c · Vitamins b+c · Zubatmin"
+{ "name_jp": ""A11EX · Vitamin b-Complex, Other Combinations VITAMINS", "status": "NP" },
+Ketovite · Malvitona · Renavit · Vitamin b-Kompleks, Andre Kombinasjoner"
+{ "name_jp": ""A11GA01 · Ascorbic Acid (vit c) VITAMINS", "status": "NP" },
+Acidum Ascorbicum · Ascorbic Acid · Ascorbinsyre · Ascorgem · Ascorvita · Askorbinsyre (vit c) · c-Vimin · c-Vitamin · Cebion · Dropice · Ibuvit c · Juvit c · Mega c · Pascorbin · Rutinoscorbin Witamina c Forte · Vici · Vita-gem c · Vitamin c · Vitamina c · Vitaminum c"
+{ "name_jp": ""A11GB01 · Ascorbic Acid (vit c) and Calcium VITAMINS", "status": "NP" },
+Askorbinsyre (vit c) og Kalsium · Calcium + Vitamin c"
+{ "name_jp": ""A11HA02 · Pyridoxine (vit b6) VITAMINS", "status": "NP" },
+b-6 · Benadon · Pyridoksin · Pyridoksin (vit b6) · Slow-mag b6 · Vita-b6 · Vitamin b-6 · Vitamin b6 · Vitaminum b6"
+{ "name_jp": ""A11HA03 · Tocopherol (vit e) VITAMINS", "status": "NP" },
+Tokoferol (vit e) · Tokovit e · Vitamin e · Vitaminum e"
+{ "name_jp": ""A11JB · Vitamins With Minerals VITAMINS", "status": "NP" },
+Biotinozin · Vitamin b · Vitaminer med Mineraler"
+{ "name_jp": ""A11JC · Vitamins, Other Combinations VITAMINS", "status": "NP" },
+Preservision · Vitaminer, Andre Kombinasjoner"
+{ "name_jp": ""A12AA02 · Calcium Glubionate MINERAL SUPPLEMENTS", "status": "NP" },
+Kalsiumglubionat"
+{ "name_jp": ""A12AA04 · Calcium Carbonate MINERAL SUPPLEMENTS", "status": "NP" },
+Calcichew · Calcium · Calperos · Kalcipos · Kalsiumkarbonat"
+{ "name_jp": ""A12AA06 · Calcium Lactate Gluconate MINERAL SUPPLEMENTS", "status": "NP" },
+Calcium · Calcium Forte · Kalsiumlaktoglukonat"
+{ "name_jp": ""A12AA07 · Calcium Chloride MINERAL SUPPLEMENTS", "status": "NP" },
+Calcium Chloratum · Kalcicur · Kalciumklorid · Kalsiumklorid"
+{ "name_jp": ""A12AX · Calcium, Combinations With Vitamin d and/or Other Drugs MINERAL SUPPLEMENTS", "status": "PNP" },
+Bencium · Bonevum · Calcichew d3 · Calcichew d3 Forte · Calcichew d3 Opti · Calcichew-d3 Forte · Calcigran Forte · Calcium · Calcium + Cholecalciferol · Calcium / Vitamin d · Calperos · Calperos Vita-d3 · d-Calsor · Dolomit · Ideos · Kalcipos-d · Kalcipos-d Forte · Kalcipos-Vitamin d · Nycoplus Calcigran Forte · Orocal d3 · Recikalc-d"
+{ "name_jp": ""A12BA01 · Potassium Chloride MINERAL SUPPLEMENTS", "status": "NP" },
+Kaldyum · Kaleorid · Kalipoz · Kalisol · Kalitabs · Kalium · Kaliumchlorid · Kaliumklorid · kay-cee-l"
+{ "name_jp": ""A12BA02 · Potassium Citrate MINERAL SUPPLEMENTS", "status": "NP" },
+Acalka · Alkacit · Kajos · Kalium · Kaliumsitrat · Nefrocitran · Potassium Citrate · Urocit · Urocit-k"
+{ "name_jp": ""A12CB01 · Zinc Sulfate MINERAL SUPPLEMENTS", "status": "NP" },
+Sinksulfat · Solvezink · Zincteral"
+{ "name_jp": ""A12CC30 · Magnesium (Different Salts in Combination) MINERAL SUPPLEMENTS", "status": "NP" },
+Magne-Balans Plus · Magnesium · Magnesium, Blanding av Salter · Magnetrans · Magnezin · Nycoplus Magnesium"
+{ "name_jp": ""A12CE01 · Sodium Selenate MINERAL SUPPLEMENTS", "status": "NP" },
+Natriumselenat"
+{ "name_jp": ""A16AA04 · Mercaptamine OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Cystagon · Merkaptamin · Procysbi"
+{ "name_jp": ""A16AA05 · Carglumic Acid OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Carbaglu · Cargluminsyre · Karglumiinihappo · Kargluminsyre · Kwas Kargluminowy · Ucedane"
+{ "name_jp": ""A16AA06 · Betaine OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Amversio · Betain · Cystadane"
+{ "name_jp": ""A16AB02 · Imiglucerase OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Cerezyme · Imiglukerase"
+{ "name_jp": ""A16AB03 · Agalsidase Alfa OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Agalsidase Alfa · Replagal"
+{ "name_jp": ""A16AB04 · Agalsidase Beta OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Agalsidase Beta · Fabrazyme"
+{ "name_jp": ""A16AB05 · Laronidase OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Aldurazyme · Laronidase"
+{ "name_jp": ""A16AB07 · Alglucosidase Alfa OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Alglukosidase Alfa · Myozyme"
+{ "name_jp": ""A16AB08 · Galsulfase OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Galsulfase · Naglazyme"
+{ "name_jp": ""A16AB09 · Idursulfase OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Elaprase · Idursulfase"
+{ "name_jp": ""A16AX03 · Sodium Phenylbutyrate OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "PNP" },
+Ammonaps · Natriumfenylbutyrat · Pheburane"
+{ "name_jp": ""A16AX05 · Zinc Acetate OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "NP" },
+Sinkacetat · Wilzin"
+{ "name_jp": ""A16AX06 · Miglustat OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS", "status": "PNP" },
+Miglustat · Opfolda · Yargesa · Zavesca"
+{ "name_jp": ""B01AA03 · Warfarin ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Aldocumar · Marevan · Marevan Forte · Warfarin · Warfin"
+{ "name_jp": ""B01AA04 · Phenprocoumon ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Fenprokumon · Marcoumar"
+{ "name_jp": ""B01AA07 · Acenocoumarol ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Acenocumarol · Acenokumarol · Sintrom"
+{ "name_jp": ""B01AB01 · Heparin ANTITHROMBOTIC AGENTS", "status": "NP" },
+Calciparina · Heparin"
+{ "name_jp": ""B01AB02 · Antithrombin iii ANTITHROMBOTIC AGENTS", "status": "NP" },
+Anbinex · Antithrombin · Antitrombin iii · Atenativ · Kybernin"
+{ "name_jp": ""B01AB04 · Dalteparin ANTITHROMBOTIC AGENTS", "status": "NP" },
+Dalteparin · Fragmin"
+{ "name_jp": ""B01AB05 · Enoxaparin ANTITHROMBOTIC AGENTS", "status": "NP" },
+Clexane · Clexane Forte · Crusia · Enoksaparin · Enoxaparin · Enoxaparin Ledraxen · Enoxaparin Sodium · Enoxaparin Sodium Ledraxen · Ghemaxan · Inhixa · Klexane · Losmina · Neoparin · Neoparin Forte · Thorinane"
+{ "name_jp": ""B01AB06 · Nadroparin ANTITHROMBOTIC AGENTS", "status": "NP" },
+Fraxiparine · Fraxodi · Nadroparin"
+{ "name_jp": ""B01AB09 · Danaparoid ANTITHROMBOTIC AGENTS", "status": "NP" },
+Danaparoid · Orgaran"
+{ "name_jp": ""B01AB10 · Tinzaparin ANTITHROMBOTIC AGENTS", "status": "NP" },
+Innohep · Tinzaparin"
+{ "name_jp": ""B01AC04 · Clopidogrel ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Agregex · Areplex · Clopidix · Clopidogrel · Clopimar · Cloriocard · Grepid · Iscover · Klopidogrel · Maddogrel · Pegorel · Plavix · Plavocorin · Trombex · Vatoud · Vixam · Zyllt"
+{ "name_jp": ""B01AC06 · Acetylsalicylic Acid ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Abrea · Acard · Acard cor · Acecardin · Acesan · Acetylsalicylic Acid · Acetylsalicylsyre · Acetylsalisylsyre · Albyl-e · Alepton · Anacard Protect · Anopyrin · asa · Aspimag · Aspirin · Bartal · Bonacard · Cardioas · Cardiopirin · Cardioteva · Coxor · Disperin · Eubiocard · Eupirin · Hjartamagnýl · Hjercatyl · Hjerdyl · Hjertealbyl · Hjertelan · Hjertemagnyl · Kardegic · Lecardi · Neuroas · Oltrola · Pluscard · Polocard · Previocardin · Primaspan · Proficar"
+{ "name_jp": ""B01AC07 · Dipyridamole ANTITHROMBOTIC AGENTS", "status": "NP" },
+Aponova · Dipyridamol · Persantin · Pyranistole"
+{ "name_jp": ""B01AC11 · Iloprost ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Ilomedin · Iloprost · Ventavis"
+{ "name_jp": ""B01AC13 · Abciximab ANTITHROMBOTIC AGENTS", "status": "NP" },
+Abciksimab"
+{ "name_jp": ""B01AC16 · Eptifibatide ANTITHROMBOTIC AGENTS", "status": "NP" },
+Eptifibatid · Eptifibatide · Integrilin"
+{ "name_jp": ""B01AC17 · Tirofiban ANTITHROMBOTIC AGENTS", "status": "NP" },
+Aggrastat · Tirofiban"
+{ "name_jp": ""B01AC21 · Treprostinil ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Remodulin · Treposa · Treprostinil · Trepulmix · Tresuvi"
+{ "name_jp": ""B01AC22 · Prasugrel ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Bewim · Efient · Prafsia · Prasugrel · Sigrada · Ugramel"
+{ "name_jp": ""B01AC23 · Cilostazol ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Cilostazol · Cilostop · Cilozek · Decilosal · Noclaud · Stepcil"
+{ "name_jp": ""B01AC24 · Ticagrelor ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Atirabo · Atixarso · Brilique · Croalcril · Ecugra · Igzelym · Kogavant · Krusaxyl · Lacrat · Legrex · Orebriton · Ticagrelor · Ticatrom · Tigrix · Tikagrelor · Tikozek · Tilobrastil · Tiscard"
+{ "name_jp": ""B01AC30 · Combinations ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Auroclasa · Clopidogrel / Acetylsalicylic Acid · Diprasorin · Dipyridamol / Acetylsalicylsyre · Duoplavin · Kombinasjoner · Orisantin · Qydaxer"
+{ "name_jp": ""B01AD01 · Streptokinase ANTITHROMBOTIC AGENTS", "status": "NP" },
+Biostrepta · Distreptaza · Streptokinase"
+{ "name_jp": ""B01AD02 · Alteplase ANTITHROMBOTIC AGENTS", "status": "NP" },
+Actilyse · Alteplase"
+{ "name_jp": ""B01AD04 · Urokinase ANTITHROMBOTIC AGENTS", "status": "NP" },
+Urokinase"
+{ "name_jp": ""B01AD07 · Reteplase ANTITHROMBOTIC AGENTS", "status": "NP" },
+Rapilysin · Reteplase"
+{ "name_jp": ""B01AD10 · Drotrecogin Alfa (Activated) ANTITHROMBOTIC AGENTS", "status": "NP" },
+Drotrekogin Alfa (Aktivert)"
+{ "name_jp": ""B01AD11 · Tenecteplase ANTITHROMBOTIC AGENTS", "status": "NP" },
+Metalyse · Tenekteplase"
+{ "name_jp": ""B01AD12 · Protein c ANTITHROMBOTIC AGENTS", "status": "NP" },
+Ceprotin · Protein c"
+{ "name_jp": ""B01AE03 · Argatroban ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Argatroban · Novastan"
+{ "name_jp": ""B01AE07 · Dabigatran Etexilate ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Abagat · Andabra · Bigetra · Dabigatran · Dabigatran Eteksilat · Dabigatranetexilat · Danengo · Daroxomb · Daxanlo · Gribero · Mirexan · Misbadi · Prabixan · Pradaxa · Sianta · Telexer · Tuxanuva · Wasedoc · Zali"
+{ "name_jp": ""B01AF01 · Rivaroxaban ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Agublon · Axaltra · Barsovi · Bevimlar · Blomensy · Diwleiz · Dovequa · Elmardya · Enkia · Kardatuxan · Mantreda · Mibrex · Mirebax · Nabaxor · Odelo · Razarxo · Rivadia · Rivahib · Rivanoptim · Rivaroksaban · Rivarolto · Rivaroxaban · Rivaxa · Rivaxar · Rivertaxo · Rixacam · Rombidux · Runaplax · Rywaroksaban · Thinban · Vixargio · Xaboplax · Xanirva · Xarelto · Xerdoxo · Xiltess · Zarixa"
+{ "name_jp": ""B01AF02 · Apixaban ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Abatixent · Aboxoma · Apiclodem · Apiksaban · Apinoptim · Apinovia · Apixaban · Apixabanum · Apixerin · Apixlets · Apobilen · Avassan · Avoclod · Axipio · Banxiol · Baxiren · Cizbor · Elihib · Eliquis · Embavi · Erimpox · Fydoco · Modylan · Pibaxin · Picsava · Poltixa · Prubdaq · Sebuss · Sewab · Sislaf · Treftenin · Voziberin · Vyselik · Zelinared · Zvelga"
+{ "name_jp": ""B01AX05 · Fondaparinux ANTITHROMBOTIC AGENTS", "status": "PNP" },
+Arixtra · Fondaparinuks"
+{ "name_jp": ""B02AA02 · Tranexamic Acid ANTIHEMORRHAGICS", "status": "NP" },
+Caprilon · Cyklokapron · Cyklonova · Deporium · Exacyl · Haixa · Kwas Traneksamowy · Pilexam · Tracafour · Traneksamsyre · Tranexamic Acid · Tranexamsyre · Tranexkabi · Traxidot"
+{ "name_jp": ""B02AB01 · Aprotinin ANTIHEMORRHAGICS", "status": "NP" },
+Aprotinin · Trasylol"
+{ "name_jp": ""B02BA01 · Phytomenadione ANTIHEMORRHAGICS", "status": "NP" },
+Fytomenadion · ka-vit · Konakion · Menadion · Phytomenadione · Vitacon"
+{ "name_jp": ""B02BC09 · Epinephrine ANTIHEMORRHAGICS", "status": "NP" },
+Adrenalin"
+{ "name_jp": ""B02BD02 · Coagulation Factor Viii ANTIHEMORRHAGICS", "status": "NP" },
+Advate · Adynovi · Afstyla · Altuvoct · Beriate · Elocta · Emoclot · Esperoct · Haemoctin · Helixate · Immunate · Jivi · Koagulasjonsfaktor Viii · Kogenate · Kovaltry · Novoeight · Nuwiq · Octanate · Pharmavate · Refacto · Vihuma"
+{ "name_jp": ""B02BD03 · Factor Viii Inhibitor Bypassing Activity ANTIHEMORRHAGICS", "status": "NP" },
+Faktor Viii-Inhibitor Bypass-Aktivitet · Feiba"
+{ "name_jp": ""B02BD04 · Coagulation Factor ix ANTIHEMORRHAGICS", "status": "NP" },
+Alprolix · Benefix · Betafact · Idelvion · Immunine · Koagulasjonsfaktor ix · Nanofix · Octanine · Optivate · Refixia · Rixubis"
+{ "name_jp": ""B02BD06 · von Willebrand Factor and Coagulation Factor Viii in Combination ANTIHEMORRHAGICS", "status": "NP" },
+Fanhdi · Haemate · Haemwill · Voncento · Wilate · Wilnativ"
+{ "name_jp": ""B02BD08 · Coagulation Factor Viia ANTIHEMORRHAGICS", "status": "NP" },
+Cevenfacta · Koagulasjonsfaktor Viia · Novoseven"
+{ "name_jp": ""B03AA02 · Ferrous Fumarate ANTIANEMIC PREPARATIONS", "status": "PNP" },
+Jern c · Jern(ii)Fumarat"
+{ "name_jp": ""B03AA03 · Ferrous Gluconate ANTIANEMIC PREPARATIONS", "status": "PNP" },
+Ascofer · Jern(ii)Glukonat"
+{ "name_jp": ""B03AA06 · Ferrous Succinate ANTIANEMIC PREPARATIONS", "status": "PNP" },
+Jern(ii)Suksinat"
+{ "name_jp": ""B03AA07 · Ferrous Sulfate ANTIANEMIC PREPARATIONS", "status": "PNP" },
+Duroferon · Ferro · Ferromax · Jern(ii)Sulfat · Nycoplus Ferro-Retard · Retafer · Sorbifer · Tardyferon · Tardyferon-fol · Tardysol"
+{ "name_jp": ""B03AE10 · Various Combinations ANTIANEMIC PREPARATIONS", "status": "PNP" },
+Diverse Kombinasjoner · Sorbifer"
+{ "name_jp": ""B03BA01 · Cyanocobalamin ANTIANEMIC PREPARATIONS", "status": "NP" },
+b12-Vitamiini · Behepan · Betolvan · Betolvex · Betolvidon · Bevitan · Cobalaxin · Cyanocobalamin · Cyanokobalamin · Energamma · Optovite b12 · Permadoze · Vitamin b12 · Vitaminum b12"
+{ "name_jp": ""B03BA02 · Cyanocobalamin Tannin Complex ANTIANEMIC PREPARATIONS", "status": "NP" },
+Cyanokobalamintanninkompleks"
+{ "name_jp": ""B03BA03 · Hydroxocobalamin ANTIANEMIC PREPARATIONS", "status": "NP" },
+Cohemin · Hydroksokobalamin · Hydroxocobalamin · Hydroxocobalamine · Megamilbedoce · Vibeden · Vitamin b12 · Vitamin b12-Depot-Injectopas"
+{ "name_jp": ""B03BB01 · Folic Acid ANTIANEMIC PREPARATIONS", "status": "NP" },
+Acido Folico · Acidum Folicum · Acifolik · Bladex · Folacid · Folic Acid · Folik · Folimet · Foliver · Folsan · Folsyra · Folsyre · Folvite · Kwas Foliowy"
+{ "name_jp": ""B03XA01 · Erythropoietin ANTIANEMIC PREPARATIONS", "status": "NP" },
+Abseamed · Binocrit · Biopoin · Epoetin Alfa · Eporatio · Erytropoietin · Neorecormon · Retacrit · Silapo"
+{ "name_jp": ""B03XA02 · Darbepoetin Alfa ANTIANEMIC PREPARATIONS", "status": "NP" },
+Aranesp · Darbepoetin Alfa"
+{ "name_jp": ""B05AA01 · Albumin BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Albiomin · Albuman · Albumin · Albunorm · Alburex · Albutein · Crealb · Flexbumin · Fortalbia · Human Albumin · Uman Albumin"
+{ "name_jp": ""B05AA05 · Dextran BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Dekstran · Rescueflow"
+{ "name_jp": ""B05AA06 · Gelatin Agents BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Gelaspan · Gelatinforbindelser · Gelofusine"
+{ "name_jp": ""B05AA07 · Hydroxyethylstarch BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Hydroksyetylstivelse · Tetraspan · Volulyte · Voluven"
+{ "name_jp": ""B05BA01 · Amino Acids BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Aminomix · Aminoplasmal · Aminosteril n · Aminosyrer · Aminoven · Aminoven Forte · Amiped · Dipeptiven · Maapliv · Nephrotect · Primene · Vamin · Vaminolac · Vaminolact"
+{ "name_jp": ""B05BA02 · fat Emulsions BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Clinoleic · Fettemulsjoner · Intralipid · Lipidem · Lipofundin · Lipoplus · Maxivalen · Omegaven · Smoflipid"
+{ "name_jp": ""B05BA03 · Carbohydrates BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Glucos · Glucose · Glucosteril · Glucosum · Glukos · Glukose · Glukoza · Injectio Glucosi · Karbohydrater"
+{ "name_jp": ""B05BA10 · Combinations BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Aminomel · Aminoplasmal · Clinimix · Finomel · Kabiven · Kombinasjoner · Lipoflex · Mixamin Glucos · Multimel · Numeta · Nutriflex · Olimel · Omegaflex · Pediaven · Pedismof · Prematur Ernæring · Smofkabiven · Standard Ernæring · Termin Ernæring"
+{ "name_jp": ""B05BB02 · Electrolytes With Carbohydrates BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Benelyte · Elektrolyt · Elektrolytter med Karbohydrater · Glucose-na-k · Glukose · Gnak · Injectio Glucosi · Kalii Chloridum · Kalium-Natrium-Glucose · Kalium-Natrium-Glukose · Kaliumklorid-Glukose · Karbolytt · Natriumklorid Glucos · Natriumklorid-Glucos · Natriumklorid-Glucose · Natriumklorid-Glukose · Normofundin · Perusliuos-k · Plasmalyte Glucose · Potassium Chloride / Glucose · Rehydrex Glucos"
+{ "name_jp": ""B05BB03 · Trometamol BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Tribonat · Trometamol"
+{ "name_jp": ""B05BC01 · Mannitol BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Mannitol · Osmofundin"
+{ "name_jp": ""B05CA02 · Chlorhexidine BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Klorheksidin"
+{ "name_jp": ""B05DA · Isotonic Solutions BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Extraneal · Isotone Løsninger · Lockolys-Glucos · Polithera"
+{ "name_jp": ""B05DB · Hypertonic Solutions BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Balance · Bicavera · Diatoneal · Hypertone Løsninger · Lockolys-Glucos · Nutrineal · Nutrineal Aminosyrer · Physioneal"
+{ "name_jp": ""B05XA01 · Potassium Chloride BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Addex-Kaliumklorid · Kalium Chloratum · Kaliumchlorid · Kaliumklorid"
+{ "name_jp": ""B05XA04 · Ammonium Chloride BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Ammoniumklorid"
+{ "name_jp": ""B05XA05 · Magnesium Sulfate BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Addex-Magnesium · Addex-Magnesiumsulfaatti · Magnesii Sulfurici · Magnesiumsulfat · Sulfato Magnésio"
+{ "name_jp": ""B05XA06 · Potassium Phosphate, Incl. Combinations With Other Potassium Salts BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Addex-Kalium · Fosfato Monopotassico · Potassio Fosfato"
+{ "name_jp": ""B05XA14 · Sodium Glycerophosphate BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Glycophos · Natriumglyserofosfat"
+{ "name_jp": ""B05XA31 · Electrolytes in Combination With Other Drugs BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Addamel · Addaven · Addiphos · Elektrolytter i Kombinasjoner med Andre Midler · Glycophos · Junyelt · Kidtrayze · Nutritrace · Nutryelt · Peditrace · Supliven · Tracel"
+{ "name_jp": ""B05XB02 · Alanyl Glutamine BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Alanylglutamin · Dipeptiven"
+{ "name_jp": ""B05XC · Vitamins BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Cernevit · Soluvit · Viant · Viantan · Vitalipid · Vitaminer"
+{ "name_jp": ""B05XX02 · Trometamol BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Addex-Tham · Trometamol"
+{ "name_jp": ""B05ZB · Hemofiltrates BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS", "status": "NP" },
+Accusol · Biphozyl · Cifoban · Duosol · Hemofiltrasjonsvæsker · Hemosol · Multibic · Phoxilium · Prismasol · Regiocit"
+{ "name_jp": ""B06AA55 · Streptokinase, Combinations OTHER HEMATOLOGICAL AGENTS", "status": "NP" },
+Neostreptaza · Streptokinase, Kombinasjoner"
+{ "name_jp": ""B06AB · Heme Products OTHER HEMATOLOGICAL AGENTS", "status": "NP" },
+Hemprodukter · Human Hemin · Normosang"
+{ "name_jp": ""B06AB01 · Hemin OTHER HEMATOLOGICAL AGENTS", "status": "NP" },
+Hemin · Normosang"
+{ "name_jp": ""B06AC02 · Icatibant OTHER HEMATOLOGICAL AGENTS", "status": "PNP" },
+Firazyr · Icatibant · Idanuz · Ikatibant · Ikatybant"
+{ "name_jp": ""C01AA04 · Digitoxin CARDIAC THERAPY", "status": "NP" },
+Digitoksin"
+{ "name_jp": ""C01AA05 · Digoxin CARDIAC THERAPY", "status": "NP" },
+Digoksin · Digoxin · Digoxine · Lanoxin"
+{ "name_jp": ""C01BB01 · Lidocaine CARDIAC THERAPY", "status": "PNP" },
+Lidocaine · Lidocard · Lidokain · Lignocainum · Xylocard"
+{ "name_jp": ""C01CA01 · Etilefrine CARDIAC THERAPY", "status": "PNP" },
+Effortil · Etilefrin"
+{ "name_jp": ""C01CA03 · Norepinephrine CARDIAC THERAPY", "status": "NP" },
+Levonor · Mykronor · Noradrenalin · Noradrenalina · Noradrenaline · Norepinephrine · Sinora"
+{ "name_jp": ""C01CA04 · Dopamine CARDIAC THERAPY", "status": "NP" },
+Dopamin · Dopaminum · Dopmin · Neoatricon"
+{ "name_jp": ""C01CA06 · Phenylephrine CARDIAC THERAPY", "status": "PNP" },
+Biorphen · Fenylefrin · Metaoxedrin · Phenylephrine"
+{ "name_jp": ""C01CA07 · Dobutamine CARDIAC THERAPY", "status": "NP" },
+Dobutamin · Dobutamine · Dobutrex"
+{ "name_jp": ""C01CA14 · Dopexamine CARDIAC THERAPY", "status": "PNP" },
+Dopeksamin"
+{ "name_jp": ""C01CA17 · Midodrine CARDIAC THERAPY", "status": "PNP" },
+Augermid · Gutron · Hypotron · Midodrin · Midodrine"
+{ "name_jp": ""C01CA24 · Epinephrine CARDIAC THERAPY", "status": "NP" },
+Adrenalin · Adrenalin Base · Adrenalina · Adrenaline · Anapen · Emerade · Epinadren · Epipen · Eurneffy · Jext"
+{ "name_jp": ""C01CA26 · Ephedrine CARDIAC THERAPY", "status": "PNP" },
+Efedrin · Ephedrine · Ephedrini · Ephedrinum · Noradrenaline · Sebadrin"
+{ "name_jp": ""C01CE01 · Amrinone CARDIAC THERAPY", "status": "PNP" },
+Amrinon"
+{ "name_jp": ""C01CE02 · Milrinone CARDIAC THERAPY", "status": "PNP" },
+Asicor · Corotrope · Milnifarm · Milniori · Milnocor · Milrinon · Milrinone"
+{ "name_jp": ""C01DA02 · Glyceryl Trinitrate CARDIAC THERAPY", "status": "NP" },
+Deponit · Glyceroltrinitrat · Glycerylnitrat · Glyseryltrinitrat · Glytrin · Nitrocard · Nitroglicerina · Nitroglycerin · Nitrolingual · Nitromint · Nitronal · Perlinganit · Sustonit · Transiderm-Nitro"
+{ "name_jp": ""C01DA08 · Isosorbide Dinitrate CARDIAC THERAPY", "status": "NP" },
+Cardopax · Dinit · Isosorbiddinitrat · Nitrosid"
+{ "name_jp": ""C01DA14 · Isosorbide Mononitrate CARDIAC THERAPY", "status": "NP" },
+Effox · Farmidur · fem-Mono · Imdur · Isangina · Ismo · Ismox · Isomex · Isosorbide Mononitraat · Isosorbidmononitrat · Mono Mack · Mono-Cedocard · Monoket · Mononit · Olicard · Ormox · Promocard"
+{ "name_jp": ""C01EA01 · Alprostadil CARDIAC THERAPY", "status": "NP" },
+Alprostadil · Neupedix · Prostavasin · Prostin vr · Prostivas"
+{ "name_jp": ""C01EB10 · Adenosine CARDIAC THERAPY", "status": "NP" },
+Adenocor · Adenosin · Adenosine · Adenosinum"
+{ "name_jp": ""C01EB17 · Ivabradine CARDIAC THERAPY", "status": "PNP" },
+Bixebra · Corlentor · Disocor · Ivabradin · Ivabradine · Ivares · Ivohart · Iwabradyna · Procoralan · Raenom · Vadyrano"
+{ "name_jp": ""C02AC01 · Clonidine ANTIHYPERTENSIVES", "status": "NP" },
+Caruxin · Catapres-tts · Catapresan · Catapresan tts-2 · Catapressan · Clonidin · Clonidine · Clonidinhydrochlorid · Clotaxip · Iporel · Kapvay · Klonidin · Paracefan"
+{ "name_jp": ""C02AC05 · Moxonidine ANTIHYPERTENSIVES", "status": "NP" },
+Moksonidin · Moxonat · Moxonidin · Physiotens"
+{ "name_jp": ""C02CA04 · Doxazosin ANTIHYPERTENSIVES", "status": "PNP" },
+Adadox · apo-Doxan · Cardosin · Cardura · Carduran · Doksazosin · Doxablox · Doxagamma · Doxanorm · Doxar · Doxazosin · Doxazosine · Doxonex · Dozox · Kamiren · Myocard · Zoxon 1 · Zoxon 2 · Zoxon 4"
+{ "name_jp": ""C03AA01 · Bendroflumethiazide DIURETICS", "status": "PNP" },
+Bendroflumetiazid"
+{ "name_jp": ""C03AA03 · Hydrochlorothiazide DIURETICS", "status": "PNP" },
+Esidrex · Hydrex · Hydrochlorothiazide · Hydrochlorothiazidum · Hydrochlorthiazid · Hydroklortiazid · Hydromed"
+{ "name_jp": ""C03AB01 · Bendroflumethiazide and Potassium DIURETICS", "status": "PNP" },
+Bendroflumetiazid og Kalium · Bendroza · Centyl Kaliumklorid"
+{ "name_jp": ""C03CA01 · Furosemide DIURETICS", "status": "PNP" },
+Diural · Furesis · Furix · Furosemid · Furosemide · Furosemidum · Impugan · Lasix · Vesix"
+{ "name_jp": ""C03CA02 · Bumetanide DIURETICS", "status": "PNP" },
+Bumetanid · Bumetanide · Burinex"
+{ "name_jp": ""C03CC01 · Etacrynic Acid DIURETICS", "status": "PNP" },
+Etakrynsyre"
+{ "name_jp": ""C03DA04 · Eplerenone DIURETICS", "status": "PNP" },
+Eleveon · Enplerasa · Eplenocard · Eplerathen · Eplerenon · Eplerenone · Espiro · Inspra · Nonpres"
+{ "name_jp": ""C03DB01 · Amiloride DIURETICS", "status": "NP" },
+Amilorid · Amiloride · Midamor · Modamide"
+{ "name_jp": ""C03XA01 · Tolvaptan DIURETICS", "status": "PNP" },
+Gurdatol · Jinarc · Pokydy · Samsca · Tolvaptan · Tolvaptan Beta · Vaptelia · Vestolvo"
+{ "name_jp": ""C05AE01 · Glyceryl Trinitrate VASOPROTECTIVES", "status": "NP" },
+Glyseryltrinitrat · Rectogesic"
+{ "name_jp": ""C05AE02 · Isosorbide Dinitrate VASOPROTECTIVES", "status": "NP" },
+Isosorbiddinitrat"
+{ "name_jp": ""C05BA01 · Organo-Heparinoid VASOPROTECTIVES", "status": "NP" },
+Hirudoid · Hirudoid Forte · Organo-Heparinoid"
+{ "name_jp": ""C07AA03 · Pindolol BETA BLOCKING AGENTS", "status": "PNP" },
+Pindolol · Visken"
+{ "name_jp": ""C07AA05 · Propranolol BETA BLOCKING AGENTS", "status": "NP" },
+Dociton · Hemangiol · Inderal · Pranolol · Propal · Propra · Propral · Propranolol · Propranololhydrochlorid · Ranoprin"
+{ "name_jp": ""C07AA06 · Timolol BETA BLOCKING AGENTS", "status": "NP" },
+Blocadren · Timolol"
+{ "name_jp": ""C07AA07 · Sotalol BETA BLOCKING AGENTS", "status": "NP" },
+Biosotal · Sotacor · Sotahexal · Sotalol · Sotalol-Umip"
+{ "name_jp": ""C07AB02 · Metoprolol BETA BLOCKING AGENTS", "status": "NP" },
+Betaloc · Beto · Blobet · Bloxazoc · Metocar · Metocard · Metodura · Metohexal · Metomylan · Metonova · Metopocor · Metoprolin · Metoprolol · Metoprololo · Metoprololsuccinat · Metoprololtartrat · Metosuc · Metrasina · Selo-zok · Seloken · Selozok · Spesicor · Succinor"
+{ "name_jp": ""C07AB03 · Atenolol BETA BLOCKING AGENTS", "status": "NP" },
+Atenblock · Atenodan · Atenolol · Dantanol · Tenoprin · Tenormin"
+{ "name_jp": ""C07AB07 · Bisoprolol BETA BLOCKING AGENTS", "status": "PNP" },
+Bibloc · Bicardef · Bisbetol · Bisocard · Bisohexal · Bisolich · Bisoproact · Bisoprolol · Bisoprololfumarat · Bisopromerck · Bisoratio · Blocard · Borez · Cardiospir · Cardovia · Conaret · Concor · Concor cor · Corectin · Coronal · Corsib · Emconcor · Orloc · Sobycor"
+{ "name_jp": ""C07AB09 · Esmolol BETA BLOCKING AGENTS", "status": "NP" },
+Brevibloc · Esmocard · Esmolol"
+{ "name_jp": ""C07AG01 · Labetalol BETA BLOCKING AGENTS", "status": "NP" },
+Albetol · Labetalol · Trandate"
+{ "name_jp": ""C07AG02 · Carvedilol BETA BLOCKING AGENTS", "status": "PNP" },
+Atram · Avedol · Cardiol · Caridol · Carvedilol · Carveratio · Carvetrend · Coryol · Dilatrend · Hypoten · Karvedilol · Kredex · Symtrend · Vivacor"
+{ "name_jp": ""C07FB02 · Metoprolol and Felodipine BETA BLOCKING AGENTS", "status": "PNP" },
+Logimax · Logimax Forte · Metoprolol og Felodipin"
+{ "name_jp": ""C07FX03 · Metoprolol and Acetylsalicylic Acid BETA BLOCKING AGENTS", "status": "NP" },
+Metoprolol og Acetylsalisylsyre"
+{ "name_jp": ""C08CA01 · Amlodipine CALCIUM CHANNEL BLOCKERS", "status": "PNP" },
+Adipine · Agen · Aldan · Almiden · Alneta · Amló · Amlodipin · Amlodipine · Amlodistad · Amlodorion · Amlohexal · Amlomyl · Amlonor · Amlopin · Amloratio · Amlozek · Apoamlo · Cardilopin · Finamlox · Normodipine · Norvasc · Tenox · Vilpin"
+{ "name_jp": ""C08CA02 · Felodipine CALCIUM CHANNEL BLOCKERS", "status": "PNP" },
+Felodin · Felodipin · Felodipine · Plendil"
+{ "name_jp": ""C08CA03 · Isradipine CALCIUM CHANNEL BLOCKERS", "status": "PNP" },
+Isradipin"
+{ "name_jp": ""C08CA05 · Nifedipine CALCIUM CHANNEL BLOCKERS", "status": "PNP" },
+Adalat · Nifedipin · Nifedipina · Nifedipine · Nifenova"
+{ "name_jp": ""C08CA06 · Nimodipine CALCIUM CHANNEL BLOCKERS", "status": "PNP" },
+Brainal · Nimodipin · Nimodipine · Nimotop"
+{ "name_jp": ""C08CA13 · Lercanidipine CALCIUM CHANNEL BLOCKERS", "status": "PNP" },
+Jospiten · Kapizen · Karnidin · Lapress · Lecalpin · Lerakta · Lercamed · Lercan · Lercanidipin · Lercanidipine · Lercanidipinhydrochlorid · Lercastad · Lercatio · Lerkanidipin · Lernidum · Oridip · Primacor · Zanidip"
+{ "name_jp": ""C09AA01 · Captopril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Captoinhib · Captopril · Kaptopril"
+{ "name_jp": ""C09AA02 · Enalapril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "NP" },
+Aqumeldi · Benalapril · Corodil · Daren · Enacodan · Enalapril · Enalaprilat · Enalaprilmaleat · Enap · Enarenal · Linatil · Linatilsan · Prinalix · Renitec"
+{ "name_jp": ""C09AA03 · Lisinopril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "NP" },
+Aceinhib · Cardiostad · Lisihexal · Lisiliv · Lisinopril · Lisinoratio · Lisipax · Lisiprol · Lisopress · Prinivil · Ranopril · Zestril"
+{ "name_jp": ""C09AA04 · Perindopril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Arprenessa · Coversyl · Mariper · Perindanor · Perindopril · Prenessa · Prestarium · Pricoron · Prillana · Vidotin"
+{ "name_jp": ""C09AA05 · Ramipril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Alarimed · Ampril · Apoauronarami · Aporami · Axtil · Cardace · Ivipril · Pirmamil · Polpril · Ramicor · Ramíl · Ramiliv · Ramipril · Ramistad · Ramve · Triatec · Tritace · Vivace"
+{ "name_jp": ""C09AA06 · Quinapril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "NP" },
+Accupro · Acurenal · Kinapril · Pulsaren"
+{ "name_jp": ""C09AA08 · Cilazapril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Cazaprol · Cilan · Cilazapril · Inhibace · Symibace"
+{ "name_jp": ""C09AA09 · Fosinopril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Fosinopril"
+{ "name_jp": ""C09AA10 · Trandolapril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Gopten · Odrik · Prixanor · Trandolapril"
+{ "name_jp": ""C09AA13 · Moexipril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Moeksipril"
+{ "name_jp": ""C09BA02 · Enalapril and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+co-Renitec · Corodil Comp · Darazíð · Enacecor · Enalapril / Hydrochlorothiazide · Enalapril / Hydrochlorthiazid · Enalapril Comp · Enalapril Hydrochlorthiazid · Enalapril og Diuretika · Enalapril-Hydrochlorthiazid · Linatil Comp · Lirpalane · Renitec Comp · Synerpril"
+{ "name_jp": ""C09BA03 · Lisinopril and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "NP" },
+Kombinor · Lisinoplus · Lisinopril / Hydrochlorothiazide · Lisinopril / Hydrochlorthiazid · Lisinopril / Hydroklortiazid · Lisinopril og Diuretika · Lisinopril-Hydrochlorthiazid · Lisiplus · Lisiprol hct · Skopryl Plus · Toralis · Zestoretic"
+{ "name_jp": ""C09BA05 · Ramipril and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Ammorro · Ampril · Ampril hl · Cardace Comp · Lerimamed · Marilamed · Polpril Plus · Ramipril / Hydrochlorthiazid · Ramipril og Diuretika · Ramizek Inda · Ranid · Tritace"
+{ "name_jp": ""C09BA06 · Quinapril and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Kinapril og Diuretika"
+{ "name_jp": ""C09BA08 · Cilazapril and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Cazacombi · Cilazapril og Diuretika · Inhibace Plus"
+{ "name_jp": ""C09BA09 · Fosinopril and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Fosinopril og Diuretika"
+{ "name_jp": ""C09BB02 · Enalapril and Lercanidipine AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Coripren · Enalapril / Lercanidipine · Enalapril og Lerkanidipin · Lercaprel · Zanipress"
+{ "name_jp": ""C09BB04 · Perindopril and Amlodipine AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Aldan · Amlessa · Amlessini · Aramlessa · co-Prestarium · Coveram · Perindopril / Amlodipin · Perindopril / Amlodipine · Perindopril og Amlodipin · Prestozek · Vilpin"
+{ "name_jp": ""C09CA01 · Losartan AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Ancozan · Cozaar · Lakea · Loreblok · Lorista · Losacor · Losanova · Losarion · Losarstad · Losartan · Losartankalium · Losartic · Losatrix · Lozap · Myrlosar · Presartan · Presmin · Sarlopax · Xartan"
+{ "name_jp": ""C09CA02 · Eprosartan AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Eprosartan · Teveten"
+{ "name_jp": ""C09CA03 · Valsartan AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Aurovalsart · Avasart · Axudan · Bespres · Daratekan · Diovan · Dipper-Mono · Docartan · Primartan · Ramartan · Tensart · Valhelen · Valpress · Valsacor · Valsarstad · Valsartan · Valtap · Valzek · Vanatex · Walsartan"
+{ "name_jp": ""C09CA04 · Irbesartan AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Aprovel · Ifirmasta · Irbesartan · Irprestan · Karvea · Sabervel"
+{ "name_jp": ""C09CA06 · Candesartan AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "NP" },
+Atacand · Candemox · Candepres · Canderion · Candesarstad · Candesartan · Candesartancilexetil · Candexetil · Candpress · Carzap · Casaro · Kairasec · Kandesar · Kandesartan · Kandrozid · Karbis · Ranacand · Sarcanor"
+{ "name_jp": ""C09CA07 · Telmisartan AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Actelsar · Kinzalmono · Micardis · Polsart · Pritor · Telmabax · Telmark · Telmisartan · Telmisartanum · Telmix · Telmizek · Tezeo · Tolura · Toptelmi · Zanacodar"
+{ "name_jp": ""C09CA08 · Olmesartan Medoxomil AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Olimesta · Olimestra · Olmesartan · Olmesartanmedoksomil · Osaver · Osaver hct · Revival"
+{ "name_jp": ""C09DA01 · Losartan and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Ancozan Comp · Cozaar Comp · Cozaar Comp Forte · Epionira · Hypernix Comp · Hyzaar · Hyzaar Forte · Licolos Plus · Loreblok hct · Lorista · Lorista hl · Losacor hct · Losanova hct · Losarstad Comp · Losartan / Hydrochlorothiazide · Losartan / Hydroklortiazid · Losartan og Diuretika · Losatrix Comp · Lozap hct · Myrlosar Comp · Presartan · Presmin · Primotan · Sartanix"
+{ "name_jp": ""C09DA02 · Eprosartan and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Eprosartan og Diuretika · Teveten Comp"
+{ "name_jp": ""C09DA03 · Valsartan and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Almertan · Aurovalsart hct · Axudan hct · co-Bespres · co-Diovan · co-Dipper · co-Valsacor · Diovan Comp · Malartan hct · Tensart hct · Tevavaltan Comp · Vabinxo · Valomindo · Valpress Comp · Valsartan / Hydrochlorothiazide · Valsartan / Hydroklortiazid · Valsartan / Indapamide · Valsartan hct · Valsartan og Diuretika · Valsartore Comp · Valtap hct · Valtension Comp · Valteva Comp · Vanatex hct"
+{ "name_jp": ""C09DA04 · Irbesartan and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Coaprovel · Ifirmacombi · Irbesartan / Hydrochlorothiazide · Irbesartan hct · Irbesartan og Diuretika · Irprestan · Karvezide"
+{ "name_jp": ""C09DA06 · Candesartan and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Atacand Plus · Atacand zid · Candemox Comp · Candepres hct · Canderion Comp · Candesartan / Hydrochlorothiazide · Candesartan / Indapamide · Candesartan hct Beta · Candestad Comp · Candexetil Comp · Candexil · Candpress Comp · Caninda · Carzap hct · Casaro hct · Kandesartan og Diuretika · Kanpiduo · Karbicombi"
+{ "name_jp": ""C09DA07 · Telmisartan and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Actelsar hct · Gisartan · Kinzalkomb · Lesamor · Micardisplus · Mogilarta · Polsart Plus · Pritorplus · Sanluper · Telmidon · Telmisartan + hct · Telmisartan / Hydrochlorothiazide · Telmisartan / Hydrochlorthiazid · Telmisartan / Hydroklortiazid · Telmisartan hct · Telmisartan og Diuretika · Telmisartan/hct · Telmix Plus · Telmizek hct · Telmycar · Tezeo hct · Tolucombi · Tolurindo · Toptelmi hct · Ylpio · Zanacodar"
+{ "name_jp": ""C09DA08 · Olmesartan Medoxomil and Diuretics AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+co-Olimestra · Olimesta · Olmesartan / Hydrochlorothiazide · Olmesartanmedoksomil og Diuretika · Olmetec Comp · Revival Plus"
+{ "name_jp": ""C09DB01 · Valsartan and Amlodipine AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Amlodipin / Valsartan · Asbima · Avasart Plus · Bevacomb · Copalia · Dafiro · Dipperam · Exforge · Sarpin · Sartesta · Valsartan / Amlodipine · Wamlox"
+{ "name_jp": ""C09DB02 · Olmesartan Medoxomil and Amlodipine AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Elestar · Olmesartan Medoxomil / Amlodipine · Olmesartanmedoksomil og Amlodipin · Olmita · Reverantza"
+{ "name_jp": ""C09DX01 · Valsartan, Amlodipine and Hydrochlorothiazide AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Amlodipin / Valsartan/hct · Amlodypina + Walsartan + Hydrochlorotiazyd · Avasart · Copalia hct · Dafiro hct · Dipperam hct · Exforge hct · Valsartan / Amlodipine / Hydrochlorothiazide · Valsartan, Amlodipin og Hydroklortiazid · Valtricom"
+{ "name_jp": ""C09DX03 · Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Amolisa hct · Elestar hct · Olmesartan / Amlodipine / Hydrochlorothiazide"
+{ "name_jp": ""C09DX04 · Valsartan and Sacubitril AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Albaliva · Bitrisal · Culbista · Entresto · Heftens · Lumivaxon · Neparvis · Sacubitril / Valsartan · Sartesta · Valkubit · Valsartan og Sakubitril"
+{ "name_jp": ""C09XA02 · Aliskiren AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM", "status": "PNP" },
+Aliskiren · Rasilez"
+{ "name_jp": ""C10AA01 · Simvastatin LIPID MODIFYING AGENTS", "status": "PNP" },
+apo-Simva · Corr · Lipcut · Perichol · Simar · Simcovas · Simorion · Simratio · Simvacard · Simvachol · Simvagen · Simvahexal · Simvanor · Simvastatin · Simvastatín · Simvastatinum · Simvasterol · Statstad · Vasilip · Vastan · Ximve · Zocor"
+{ "name_jp": ""C10AA02 · Lovastatin LIPID MODIFYING AGENTS", "status": "PNP" },
+Liprox · Lovabeta · Lovastatin · Lovasterol · Lovastin"
+{ "name_jp": ""C10AA03 · Pravastatin LIPID MODIFYING AGENTS", "status": "PNP" },
+Pravastatin · Pravastatinnatrium · Pravator"
+{ "name_jp": ""C10AA04 · Fluvastatin LIPID MODIFYING AGENTS", "status": "PNP" },
+Fluvamyl · Fluvastasof · Fluvastatin · Lavesten · Lescol"
+{ "name_jp": ""C10AA05 · Atorvastatin LIPID MODIFYING AGENTS", "status": "PNP" },
+Atacor · Atorbir · Atoris · Atorker · Atorva · Atorvagen · Atorvastatin · Atorvasterol · Atorvox · Atostat · Atractin · Atrox · Calipra · Lambrinex · Larus · Lipistad · Lipitor · Liporion · Orbeos · Sortis · Storvas · Torvacard · Torvalipin · Tulip · Zarator"
+{ "name_jp": ""C10AA07 · Rosuvastatin LIPID MODIFYING AGENTS", "status": "PNP" },
+Aporoza · Astrium · Celmantin · Crestor · Crosuvo · Kastia · Platorel · Ridlip · Romazic · Rosanta · Rosucard · Rosudia · Rosufy · Rosunogra · Rosutrox · Rosuvastatin · Rosval · Roswera · Rovasyn · Rovatina · Sigrolem · Suvardio · Ycomwya · Zahron · Zaranta · Zirus"
+{ "name_jp": ""C10AB02 · Bezafibrate LIPID MODIFYING AGENTS", "status": "PNP" },
+Bezafibrat · Bezafibrate · Bezalip"
+{ "name_jp": ""C10AB04 · Gemfibrozil LIPID MODIFYING AGENTS", "status": "PNP" },
+Gemfibrozil · Lopid"
+{ "name_jp": ""C10AB05 · Fenofibrate LIPID MODIFYING AGENTS", "status": "PNP" },
+apo-Feno · Biofibrat · cil · Fenardin · Fenofibrat · Fenolip · Fibralipid · Grofibrat · Lipanthyl · Lipantil · Lipofene · Thylip"
+{ "name_jp": ""C10AC01 · Colestyramine LIPID MODIFYING AGENTS", "status": "NP" },
+Colestyramin · Kolestyramin · Quantalan · Questran · Resincolestiramina"
+{ "name_jp": ""C10AC02 · Colestipol LIPID MODIFYING AGENTS", "status": "NP" },
+Colestid · Colestipol · Kolestipol"
+{ "name_jp": ""C10AD02 · Nicotinic Acid LIPID MODIFYING AGENTS", "status": "NP" },
+Nikotinsyre"
+{ "name_jp": ""C10AX09 · Ezetimibe LIPID MODIFYING AGENTS", "status": "PNP" },
+Carditimib · Cildar · Coltowan · Esetin · Etibax · Exebir · Ezehron · Ezen · Ezetimib · Ezetimibe · Ezetrol · Ezoleta · Intestat · Isovurex · Lipegis · Symezet"
+{ "name_jp": ""C10AX15 · Bempedoic Acid LIPID MODIFYING AGENTS", "status": "PNP" },
+Bempedoinsyre · Nilemdo"
+{ "name_jp": ""C10BA02 · Simvastatin and Ezetimibe LIPID MODIFYING AGENTS", "status": "PNP" },
+Axocar · Ezimvalla · Inegy · Simvastatin / Ezetimibe · Vasitimb"
+{ "name_jp": ""C10BA05 · Atorvastatin and Ezetimibe LIPID MODIFYING AGENTS", "status": "PNP" },
+Atorvastatin og Ezetimib · Atozet · Coatoris · Ezetimib / Atorvastatin · Ezetimibe + Atorvastatin · Ezetimibe / Atorvastatin · Mizetam · Torvazin Plus · Tulip · Zentasta"
+{ "name_jp": ""C10BA06 · Rosuvastatin and Ezetimibe LIPID MODIFYING AGENTS", "status": "PNP" },
+Coroswera · Crosuvo Plus · Ezehron · Romazic Plus · Rosulip Plus · Rosuvastatin + Ezetimibe · Rosuvastatin / Ezetimib · Rosuvastatin / Ezetimibe · Rosuvastatin og Ezetimib · Rozesta · Suvardio Plus · Suvezen · Zenon"
+{ "name_jp": ""C10BX01 · Simvastatin and Acetylsalicylic Acid LIPID MODIFYING AGENTS", "status": "PNP" },
+Simvastatin og Acetylsalisylsyre"
+{ "name_jp": ""D01AA01 · Nystatin ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "NP" },
+Nystatin"
+{ "name_jp": ""D01AC01 · Clotrimazole ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Canesderm · Canesten · Cloderm · Clotrimazolum · Fungotac · Imazol · Imazol Plus · Klotrimazol"
+{ "name_jp": ""D01AC02 · Miconazole ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Brentan · Daktar · Daktarin · Miconal · Mikonazol"
+{ "name_jp": ""D01AC03 · Econazole ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Ekonazol · Pevaryl · Pevazol · Pevisone"
+{ "name_jp": ""D01AC08 · Ketoconazole ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Dermatin · Fungoral · Ketoconazol · Ketoconazole · Ketokonazol · Konact · Nizax Activ · Nizoral · Sinazol · Zoxin-med"
+{ "name_jp": ""D01AC10 · Bifonazole ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Bifonazol · Canespor · Steper"
+{ "name_jp": ""D01AE15 · Terbinafine ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Finigen · Fungorin · Krem Przeciwgrzybiczny Stóp · Lamisil · Lamisil Solo · Lamisilatt · Myconafine · Terbiderm · Terbilum · Terbinafin · Terbinafina · Terbinafinhydroklorid · Terbistad · Terbistada · Terclara · Tersilat · Undofen"
+{ "name_jp": ""D01AE16 · Amorolfine ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "NP" },
+Amorolak · Amorolfin · Finail · Funtrol · Loceryl · Myconolak · Perlid · Scholl · Undofen Amorolfina"
+{ "name_jp": ""D01BA02 · Terbinafine ANTIFUNGALS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Erfin · Fungorin · Lamisil · Myconafine · Terbinafin · Terbinafine · Terbisil · Zelefion"
+{ "name_jp": ""D02AA · Silicone Products EMOLLIENTS AND PROTECTIVES", "status": "NP" },
+Silikonmidler"
+{ "name_jp": ""D02AE01 · Carbamide EMOLLIENTS AND PROTECTIVES", "status": "NP" },
+Calmuril · Canoderm · Curemid · Karbamid · Karbamid Locobase"
+{ "name_jp": ""D02AF · Salicylic Acid Preparations EMOLLIENTS AND PROTECTIVES", "status": "NP" },
+Acerin · Guttaplast · Hasceral · Masc · Plaster · Salicylol · Salisylolje · Salisylsyre · Salisylsyre Locobase · Salisylsyremidler · Salisylvaselin · Salisylvaselin Glyserol · Sonol"
+{ "name_jp": ""D03AX01 · Cadexomer Iodine PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS", "status": "NP" },
+Kadeksomerjod"
+{ "name_jp": ""D04AB01 · Lidocaine ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.", "status": "PNP" },
+Allefin · Lidokain · Xylocain"
+{ "name_jp": ""D05AA · Tars ANTIPSORIATICS", "status": "PNP" },
+Inotyol · Tarmed · Tjærer"
+{ "name_jp": ""D05AX02 · Calcipotriol ANTIPSORIATICS", "status": "NP" },
+Calcipotriol · Daivonex · Kalsipotriol"
+{ "name_jp": ""D05AX52 · Calcipotriol, Combinations ANTIPSORIATICS", "status": "NP" },
+Betacal · Calcipotriol/Betamethasone · Cipotanor · Daivobet · Duosone · Enstilar · Epipotriol · Hilkota · Kalsipotriol, Kombinasjoner · Psotriol · Wynzora · Xamiol"
+{ "name_jp": ""D06AA03 · Oxytetracycline ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Oksytetrasyklin · Terramycin-Polymyxin b"
+{ "name_jp": ""D06AX01 · Fusidic Acid ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "NP" },
+Dermafusin · Fucidin · Fucidine · Fusacid · Fusidic Acid · Fusidinsyre · Hylosept · Strifus"
+{ "name_jp": ""D06AX07 · Gentamicin ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "NP" },
+Gentamicin · Infectogenta · Refobacin"
+{ "name_jp": ""D06BB04 · Podophyllotoxin ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "NP" },
+Condyline · Condylox · Podofyllotoksin · Warticon"
+{ "name_jp": ""D06BB06 · Penciclovir ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "NP" },
+Penciklovir · Vectatone · Vectavir"
+{ "name_jp": ""D06BB10 · Imiquimod ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "NP" },
+Aldara · Imikeraderm · Imiquimod · Zyclara"
+{ "name_jp": ""D06BX01 · Metronidazole ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "PNP" },
+Metronidazol · Robaz · Rosacel · Rosazol · Rozetic · Rozex"
+{ "name_jp": ""D06BX02 · Ingenol Mebutate ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE", "status": "NP" },
+Ingenolmebutat"
+{ "name_jp": ""D07AA02 · Hydrocortisone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Dermocort · Hydrocort · Hydrocortison · Hydrocortisone · Hydrocortisonum · Hydrokortison · Hydrokortyzon · Maxicortan · Mildison"
+{ "name_jp": ""D07AA03 · Prednisolone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Prednisolon"
+{ "name_jp": ""D07AB01 · Clobetasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Klobetason"
+{ "name_jp": ""D07AB02 · Hydrocortisone Butyrate CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Alfason · Bucort · Hydrokortisonbutyrat · Laticort · Locoid"
+{ "name_jp": ""D07AB07 · Fluprednidene CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Flupredniden"
+{ "name_jp": ""D07AB08 · Desonide CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Apolar · Desonid · Locatop · Zotinar"
+{ "name_jp": ""D07AB09 · Triamcinolone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Triamcinolon"
+{ "name_jp": ""D07AB10 · Alclometasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Afloderm · Alklometason"
+{ "name_jp": ""D07AC01 · Betamethasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Bekuval · Beloderm · Bemeson · Bemetson · Betagalen · Betametason · Betamethason · Betnovat · Betnovate · Bettamousse · Diproderm · Diprolene · Soderm"
+{ "name_jp": ""D07AC03 · Desoximetasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Desoksymetason · Desoximetason · Desoximetasone"
+{ "name_jp": ""D07AC04 · Fluocinolone Acetonide CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Flucinar · Fluocinolonacetonid · Synalar"
+{ "name_jp": ""D07AC13 · Mometasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Demoson · Edelan · Elitasone · Elocom · Elocon · Elopar · Elosone · Eztom · Ivoxel · Momecutan · Mometason · Mometasonfuroat · Mometaxon · Ovison · Ovixan"
+{ "name_jp": ""D07AC17 · Fluticasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Cutivate · Flixoderm · Fluticrem · Flutikason · Flutivate"
+{ "name_jp": ""D07AC18 · Prednicarbate CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Prednikarbat"
+{ "name_jp": ""D07AD01 · Clobetasol CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Clarelux · Clobederm · Clobetasol · Clobetasolpropionat · Clobetaxon · Clobex · Closol · Dermovat · Dermovate · Infilea · Klobetasol · Novate"
+{ "name_jp": ""D07BB03 · Triamcinolone and Antiseptics CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Triamcinolon og Antiseptika"
+{ "name_jp": ""D07BC01 · Betamethasone and Antiseptics CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Betametason og Antiseptika · Betnovate c · Lotriderm"
+{ "name_jp": ""D07CA01 · Hydrocortisone and Antibiotics CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Fucidin-Hydrocortison · Fusacid · Fusidinsyre / Hydrocortisonacetat · Hydrocortison Terramycin · Hydrokortison og Antibiotika · Oxycort · Pimafucort · Terra-Cortril · Terracort"
+{ "name_jp": ""D07CC01 · Betamethasone and Antibiotics CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Addicort · Bedicort · Beloderm · Belogent · Betametason og Antibiotika · Betnovate · Dermisil · Diprobase · Diprogenta · Fucibet · Fucicort · Fusicutan Plus · Fusidinsyre / Betamethason · Fusidinsyre / Betamethasonvalerat · Gebetil · Triderm"
+{ "name_jp": ""D07XA01 · Hydrocortisone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Hydrokortison · Pantyson"
+{ "name_jp": ""D07XA02 · Prednisolone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Alpicort · Alpicort e · Prednisolon"
+{ "name_jp": ""D07XB02 · Triamcinolone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Triamcinolon"
+{ "name_jp": ""D07XC01 · Betamethasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Bedicort Salic · Belosalic · Betametason · Betamethason / Salicylsyre · Diprosalic · Diprosalinova · Salbetan · Triderm"
+{ "name_jp": ""D07XC02 · Desoximetasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Desoksymetason"
+{ "name_jp": ""D07XC03 · Mometasone CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Mometason"
+{ "name_jp": ""D08AC02 · Chlorhexidine ANTISEPTICS AND DISINFECTANTS", "status": "NP" },
+Bepanthen Plus · Chlorhexidin · Cristalmina · Descutan · Hibiscrub · Hibitane · Hibiwash · Hydrex · Klorheksidin · Klorhexidin · Klorhexidinsprit · Lacudex · Umbipro"
+{ "name_jp": ""D08AX01 · Hydrogen Peroxide ANTISEPTICS AND DISINFECTANTS", "status": "NP" },
+Hydrogenperoksid · Microcid · Peroxygel · Woda Utleniona · Wodoru Nadtlenek"
+{ "name_jp": ""D09AA02 · Fusidic Acid MEDICATED DRESSINGS", "status": "NP" },
+Fusidinsyre"
+{ "name_jp": ""D09AB01 · Zinc Bandage Without Supplements MEDICATED DRESSINGS", "status": "NP" },
+Sinkbandasjer Uten Tilsetninger · Zipzoc"
+{ "name_jp": ""D10AD01 · Tretinoin ANTI-ACNE PREPARATIONS", "status": "PNP" },
+Avitcid · Cordes · Retirides · Tretinoin"
+{ "name_jp": ""D10AD03 · Adapalene ANTI-ACNE PREPARATIONS", "status": "PNP" },
+Acnelec · Adapalen · Differin · Differine · Redap"
+{ "name_jp": ""D10AE01 · Benzoyl Peroxide ANTI-ACNE PREPARATIONS", "status": "NP" },
+Akneroxid · Basiron · Benzacne · Benzoylperoksid · Cutacnyl"
+{ "name_jp": ""D10AF01 · Clindamycin ANTI-ACNE PREPARATIONS", "status": "PNP" },
+Clindacne · Clindalin · Clindamycine · Dalacin · Klindacin · Klindamycin · Normaclin"
+{ "name_jp": ""D10AF51 · Clindamycin, Combinations ANTI-ACNE PREPARATIONS", "status": "PNP" },
+Acnatac · Benzacne · Clindonix · Clindoxyl · Clinzoyl · Duac · Duocutan · Indoxyl · Klindamycin, Kombinasjoner"
+{ "name_jp": ""D10AF52 · Erythromycin, Combinations ANTI-ACNE PREPARATIONS", "status": "PNP" },
+Aknemycin Plus · Erytromycin, Kombinasjoner · Zineryt"
+{ "name_jp": ""D11AC03 · Selenium Compounds OTHER DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Selenforbindelser · Selsun"
+{ "name_jp": ""D11AC08 · Sulfur Compounds OTHER DERMATOLOGICAL PREPARATIONS", "status": "NP" },
+Svovelforbindelser"
+{ "name_jp": ""D11AH01 · Tacrolimus OTHER DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Dermitopic · Protopic · Tacrolimus · Tacrolimusum · Tacronova · Takrolimus · Takrozem"
+{ "name_jp": ""D11AH02 · Pimecrolimus OTHER DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Elidel · Pimecrolimus"
+{ "name_jp": ""D11AX16 · Eflornithine OTHER DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Eflornitin · Vaniqa"
+{ "name_jp": ""D11AX18 · Diclofenac OTHER DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Diklofenak · Medulan · Solacutan · Solaraze"
+{ "name_jp": ""D11AX22 · Ivermectin OTHER DERMATOLOGICAL PREPARATIONS", "status": "PNP" },
+Ivermectin · Ivermektin · Rosesolute · Soolantra · Vesarco · Yverfast"
+{ "name_jp": ""G01AA10 · Clindamycin GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS", "status": "PNP" },
+Clindamycin · Clindavag · Dalacin · Dalacin c · Klindamycin · Symbactin"
+{ "name_jp": ""G01AF01 · Metronidazole GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS", "status": "PNP" },
+Arilin · Flagyl · Flagyl Comp · Metronidazol · Vilantrin · Zidoval"
+{ "name_jp": ""G02AD02 · Dinoprostone OTHER GYNECOLOGICALS", "status": "PNP" },
+Cervidil · Dinoproston · Minprostin · Prepidil · Propess · Prostin e2"
+{ "name_jp": ""G02AD03 · Gemeprost OTHER GYNECOLOGICALS", "status": "PNP" },
+Gemeprost"
+{ "name_jp": ""G02AD04 · Carboprost OTHER GYNECOLOGICALS", "status": "PNP" },
+Carboprost · Karboprost · Prostin · Prostin 15m · Prostinfenem"
+{ "name_jp": ""G02BA02 · Plastic iud With Copper OTHER GYNECOLOGICALS", "status": "NP" },
+Plastspiraler med Kopper"
+{ "name_jp": ""G02CB01 · Bromocriptine OTHER GYNECOLOGICALS", "status": "PNP" },
+Bromergon · Bromocorn · Bromokriptin · Parlodel · Pravidel"
+{ "name_jp": ""G02CB03 · Cabergoline OTHER GYNECOLOGICALS", "status": "PNP" },
+Cabenex · Cabergolin · Dostinex · Kabergolin"
+{ "name_jp": ""G02CX · Other Gynecologicals OTHER GYNECOLOGICALS", "status": "NP" },
+Andre Gynekologiske Midler · Femonia · Ladiva · Lynkuet"
+{ "name_jp": ""G02CX01 · Atosiban OTHER GYNECOLOGICALS", "status": "PNP" },
+Atosiban · Tractocile"
+{ "name_jp": ""G02CX06 · Fezolinetant OTHER GYNECOLOGICALS", "status": "PNP" },
+Fezolinetant · Veoza"
+{ "name_jp": ""G03BA03 · Testosterone SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM", "status": "PNP" },
+Androtop · Depotesto · Livensa · Nebido · Omnadren · Sustanon · Testavan · Testogel · Testonur · Testosteron · Testosteron-Depot · Testosterone · Testosteronum · Testosteronundekanoat · Testoviron-Depot · Tostran · Tozaron · Undestor · Vestilora"
+{ "name_jp": ""G04BC · Urinary Concrement Solvents UROLOGICALS", "status": "NP" },
+Litocid · Midler til Oppløsning av Nyrestein · Rowatinex"
+{ "name_jp": ""G04BD04 · Oxybutynin UROLOGICALS", "status": "PNP" },
+Ditropan · Drexynin · Dridase · Driptane · Kentera · Oksybutynin · Oxybutynin · Oxybutynine · Oxybutyninum · Uralex · Velariq · Vesoxx"
+{ "name_jp": ""G04BD07 · Tolterodine UROLOGICALS", "status": "PNP" },
+Defur · Detrusitol · Ranolteril · Titlodine · Toldix · Tolterodin · Tolterodine · Tolterodinetartraat · Tolterodintartrat · Tolzurin · Urimper · Uroflow"
+{ "name_jp": ""G04BD08 · Solifenacin UROLOGICALS", "status": "PNP" },
+Adablok · Afenix · Anturin · Asolfena · Aurosolin · Belaristo · Beloflow · Nifelox · Silamil · Solifenacin · Solifenacinsuccinat · Solifurin · Solinco · Soliteva · Soreca · Urocare · Uronorm · Veloxsol · Vesicare · Vesisol · Vesoligo · Zevesin"
+{ "name_jp": ""G04BD10 · Darifenacin UROLOGICALS", "status": "PNP" },
+Darifenacin · Emselex"
+{ "name_jp": ""G04BD11 · Fesoterodine UROLOGICALS", "status": "PNP" },
+Fesotaz · Fesoterodin · Fesoterodine · Toviaz"
+{ "name_jp": ""G04BD12 · Mirabegron UROLOGICALS", "status": "PNP" },
+Begirax · Betmiga · Iretig · Minkonti · Mirabegron"
+{ "name_jp": ""G04BE01 · Alprostadil UROLOGICALS", "status": "NP" },
+Alprostadil · Caverject · Muse · Vitaros"
+{ "name_jp": ""G04BE03 · Sildenafil UROLOGICALS", "status": "PNP" },
+Actigra · Actigra Forte · Azurvig · Balcoga · Doppelsil · Ervasil · Falsigra · Granpidam · Intensil · Inventum · Lekap · Maxigra · Maxon · Maxon Forte · Mensil · Menup · Menup Forte · Mysildecard · Orisild · Permen · Permen Forte · Princex · Remidia · Revastad · Revatio · Sempavox · Silandyl · Silcontrol · Sildenafil · Sildenafilum · Silderos · Silungo · Valinger · Valinger Forte · Viagra · Vizarsin · Xirect · Xirect Forte"
+{ "name_jp": ""G04BE07 · Apomorphine UROLOGICALS", "status": "PNP" },
+Apomorfin"
+{ "name_jp": ""G04BE08 · Tadalafil UROLOGICALS", "status": "PNP" },
+Adalift · Adcirca · Akyris · Cialis · Erlis · Gerocilan · Halltada · Menero · Profitadal · Pultadev · Quator · Tadacontrol · Tadalafil · Tadalafil Beta · Tadalafil Durofil · Tadalafil Maxigra · Tadalafil Maxon · Tadamen · Tadaxin · Tadilecto · Tadulan · Talmanco"
+{ "name_jp": ""G04BX01 · Magnesium Hydroxide UROLOGICALS", "status": "NP" },
+Emgesan · Magnesium · Magnesiumhydroksid"
+{ "name_jp": ""G04CA02 · Tamsulosin UROLOGICALS", "status": "PNP" },
+Adatam · apo-Tamis · Bazetham · Bladasin · Expros · Fokusin · Miktosan · omi-tam · Omnic · Omnicare · Omnistad · Omsal · Promictan · Prostamnic · Ranlosin · Suprostiv · Symlosin · Tamictor · Tamiron · Tamispras · Tamsact · Tamsiger · Tamsu-Anlini · Tamsucinfa · Tamsudil · Tamsugaran · Tamsugen · Tamsulogen · Tamsulosiinihydrokloridi · Tamsulosin · Tamsulosinhydrochlorid · Tamsumin · Tamsunic · Tamsupli · Tamsurion · Tamsuvilla · Tamur · Tanyz · Tanyz Eras · Uprox · Urostad"
+{ "name_jp": ""G04CA03 · Terazosin UROLOGICALS", "status": "PNP" },
+Heitrin · Hytrin · Kornam · Sinalfa · Terablock · Terazosin"
+{ "name_jp": ""G04CA52 · Tamsulosin and Dutasteride UROLOGICALS", "status": "PNP" },
+Adatam · Denerid · Duitam · Duodart · Duotam · Duta Tamsaxiro · Dutamsine · Dutamsol · Dutaprostam · Dutastem · Dutatex · Dutrozen · Findarts · Hydutam · Landulosin · Marumax · Prostaduo · Tamsulosin / Dutasteride · Twinpros · Unisol"
+{ "name_jp": ""G04CA53 · Tamsulosin and Solifenacin UROLOGICALS", "status": "PNP" },
+Beplasot · Foxalite · Mingerlan · Ranlosin · Solipax · Solitombo · Soltamcin · Tamispras · Tamsulosin / Solifenacin · Tamsulosin og Solifenacin · Tamsunorm · Urisotam · Urizia"
+{ "name_jp": ""G04CB02 · Dutasteride UROLOGICALS", "status": "PNP" },
+Adadut · Avodart · Davoster · Deridust · Dutafin · Dutamsol · Dutasterid · Dutasteride · Dutazyr · Dutester · Dutrys · Findarts · Geroladut · Lanadut"
+{ "name_jp": ""H01AA02 · Tetracosactide PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "NP" },
+Synacthen · Tetrakosaktid"
+{ "name_jp": ""H01AC01 · Somatropin PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "PNP" },
+Genotropin · Norditropin · Nutropinaq · Omnitrope · Saizen · Somatropin · Zomacton"
+{ "name_jp": ""H01BA02 · Desmopressin PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "NP" },
+Adin · Desmogalen · Desmopressin · Desmopressinacetat · Desmopressine · Dursea · Midese · Minirin · Minirinmelt · Mitaclau · Nestod · Nocdurna · Nocutil · Octostim · Tunient · Veluna"
+{ "name_jp": ""H01BB02 · Oxytocin PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "NP" },
+Oksytocin · Oxytocin · Pitocin · Syntocinon"
+{ "name_jp": ""H01CB02 · Octreotide PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "PNP" },
+Mycapssa · Octreoanne · Octreotid · Octreotide · Oczyesa · Okteva · Oktreotid · Sandostatin"
+{ "name_jp": ""H01CB03 · Lanreotide PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "PNP" },
+Ipstyl · Lanreotid · Lanreotide · Myrelez · Somatuline"
+{ "name_jp": ""H01CC01 · Ganirelix PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "PNP" },
+Fyremadel · Ganireliks · Ganirelix · Orgalutran · Ovamex"
+{ "name_jp": ""H01CC02 · Cetrorelix PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES", "status": "PNP" },
+Cetroreliks · Cetrotide"
+{ "name_jp": ""H02AB01 · Betamethasone CORTICOSTEROIDS FOR SYSTEMIC USE", "status": "PNP" },
+Bentelan · Betametason · Betametasone · Betamethasone · Betapred · Celestan · Celeston · Celestone · Diprofos · Diprophos · Diprospan"
+{ "name_jp": ""H02AB06 · Prednisolone CORTICOSTEROIDS FOR SYSTEMIC USE", "status": "PNP" },
+Decortin · di-Adreson Aquosum · di-Adreson-f Aquosum · Encortolon · Okrido · Predasol · Prednisolon · Prednisolone · Prednisolut · Sirodrol · Soluble Prednisolone · Solupred · Spiricort · Sterosol"
+{ "name_jp": ""H02AB08 · Triamcinolone CORTICOSTEROIDS FOR SYSTEMIC USE", "status": "PNP" },
+Hexatrione · Kenacort-a · Kenacort-t · Kenalog · Lederlon · Lederspan · Polcortolon · Triam · Triamcinolon · Triamcinolonacetonid · Triamhexal · Trica · Volon · Volon a"
+{ "name_jp": ""H03AA01 · Levothyroxine Sodium THYROID THERAPY", "status": "NP" },
+Althyxin · Eferox · Eltroxin · Euthyrox · l-Thyrox · l-Thyroxin · l-Thyroxin-na · l-Thyroxine · Letrox · Levaxin · Levirox · Levothyroxine · Levothyroxinnatrium · Levotyroksinnatrium · Medithyrox · Striroxin · Thyrofix · Thyroxin · Tirosint · Tirosintsol"
+{ "name_jp": ""H03AA02 · Liothyronine Sodium THYROID THERAPY", "status": "NP" },
+Cytomel · Liothyronin · Liothyronine · Liotyroninnatrium · Thybon"
+{ "name_jp": ""H03AA03 · Combinations of Levothyroxine and Liothyronine THYROID THERAPY", "status": "NP" },
+Levotyroksin og Liotyronin i Kombinasjoner · Novothyral"
+{ "name_jp": ""H03BA02 · Propylthiouracil THYROID THERAPY", "status": "PNP" },
+Propycil · Propyltiouracil · Thyrosan"
+{ "name_jp": ""H04AA01 · Glucagon PANCREATIC HORMONES", "status": "NP" },
+Baqsimi · Glucagen · Glucagon · Glukagon · Ogluo"
+{ "name_jp": ""H05BA01 · Calcitonin (Salmon Synthetic) CALCIUM HOMEOSTASIS", "status": "PNP" },
+Calcitonin · Laksekalsitonin · Laksekalsitonin, Syntetisk · Miacalcic"
+{ "name_jp": ""H05BX01 · Cinacalcet CALCIUM HOMEOSTASIS", "status": "PNP" },
+Cinacalcet · Cinakalset · Micalcet · Mimpara · Sinafex"
+{ "name_jp": ""J01AA01 · Demeclocycline ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Demeklosyklin"
+{ "name_jp": ""J01AA02 · Doxycycline ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Doksycyklin · Doksysyklin · Doximed · Doximycin · Doxitin · Doxycyclin · Doxycycline · Doxycyclinum · Doxycyklin · Doxyferm · Doxylin · Doxyprim · Efracea · Oracea · Unidox · Vibracina · Vibradox · Vibramycin"
+{ "name_jp": ""J01AA04 · Lymecycline ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Lymecyclin · Lymecycline · Lymelysal · Lymesyklin · Tetralysal"
+{ "name_jp": ""J01AA07 · Tetracycline ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Oricyclin · Tetracyclin · Tetracycline · Tetracyclinum · Tetracyklin · Tetrasyklin"
+{ "name_jp": ""J01AA12 · Tigecycline ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Tigecycline · Tigesyklin · Tygacil"
+{ "name_jp": ""J01CA01 · Ampicillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+a-pen · Ampicillin · Ampitar · Amroliv · Doktacillin · Rotacin"
+{ "name_jp": ""J01CA04 · Amoxicillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Ageniprim · Amoksicillin · Amorion · Amotaks · Amotaks dis · Amoxar · Amoxicilina · Amoxicillin · Amoxicilline · Amoxil · Amoxin · Amoxonor · Clamox · Duomox · Hiconcil · Imacillin · Imadrax · Imaxi · Ospamox · Velamox"
+{ "name_jp": ""J01CA06 · Bacampicillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Bakampicillin"
+{ "name_jp": ""J01CA12 · Piperacillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Piperacillin"
+{ "name_jp": ""J01CE01 · Benzylpenicillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Bensylpenicillin · Benzylpenicillin · Benzylpenicillinnatrium · Penicillinum Crystallisatum · Penicryl"
+{ "name_jp": ""J01CE02 · Phenoxymethylpenicillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Actacillin · Apocillin · Fenoksymetylpenicillin · Fenoximetylpenicillin · Fenoxymethylpenicilline · Kåvepenin · Ospen · Pancillin · Penhexal · Penon · Phenoxymethylpenicillin · Phenoxymethylpenicillinkalium · Polcylin · Primcillin · Priminova · Primve · v-pen · Weifapenin"
+{ "name_jp": ""J01CF02 · Cloxacillin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Cloxacillin · Kloksacillin · Syntarpen"
+{ "name_jp": ""J01CR02 · Amoxicillin and Beta-Lactamase Inhibitor ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Amoclan · Amoclav · Amoksicillin og Beta-Laktamasehemmer · Amoksiklav · Amorion Comp · Amoxicillin + Clavulanic Acid · Amoxicillin / Clavulanic Acid · Amoxicillin / Clavulansyre · Amoxicillin Comp · Amoxicillina Acido Clavulanico · Amoxicilline / Clavulaanzuur · Amoxiclav · Amoxin Comp · Amylan · Aucilak · Auglavin · Augmentin · Auroamoxi · Baxumil · Betaklav · Bioclavid · Clavuzop · co-Amoxiclav · Hiconcil · Klaximol · Medoclav · Penlac · Polamoklav · Ramoclav · Spectracillin · Spektramox · Taromentin · Xilmac"
+{ "name_jp": ""J01CR05 · Piperacillin and Beta-Lactamase Inhibitor ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+pip/taz · Piperacillin / Tazobactam · Piperacillin og Beta-Laktamasehemmer · Tazocin"
+{ "name_jp": ""J01DB01 · Cefalexin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefaleksin · Cefaleksyna · Kefalex · Kefexin · Keflex · Xefal"
+{ "name_jp": ""J01DB03 · Cefalotin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefalotin"
+{ "name_jp": ""J01DB05 · Cefadroxil ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefadroksil · Duracef · Valdocef"
+{ "name_jp": ""J01DC01 · Cefoxitin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefoksitin · Cefoxitin"
+{ "name_jp": ""J01DC02 · Cefuroxime ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Aprokam · Biofuroksym · Bioracef · Cefirion · Cefox · Cefudoc · Cefurax · Cefuroksim · Cefuroxim · Cefuroxime · Cefuroxime Axetil · Ceroxim · Furocef · Kefzero · Tacefur · Tarsime · Xorimax · Zamur · Zinacef · Zinnat · Zinoxx · Zyntax"
+{ "name_jp": ""J01DC08 · Loracarbef ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Lorakarbef"
+{ "name_jp": ""J01DD01 · Cefotaxime ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Biotaksym · Cefotaksim · Cefotaxim · Cefotaxime · Tarcefoksym"
+{ "name_jp": ""J01DD02 · Ceftazidime ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Biotum · Ceftazidim · Ceftazidima · Ceftazidime · Fortum · Glazidim"
+{ "name_jp": ""J01DD04 · Ceftriaxone ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Biotrakson · Cefotrix · Ceftriakson · Ceftriaxon · Ceftriaxona · Ceftriaxone · Rocephalin Lidocain · Tartriakson"
+{ "name_jp": ""J01DD08 · Cefixime ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefiksim · Cefixim · Cefixime · Cetix · Infecto-Opticef · Xifia"
+{ "name_jp": ""J01DD13 · Cefpodoxime ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefpodoksim"
+{ "name_jp": ""J01DD14 · Ceftibuten ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Ceftibuten"
+{ "name_jp": ""J01DE01 · Cefepime ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cefepim · Cefepime"
+{ "name_jp": ""J01DF01 · Aztreonam ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Azactam · Aztreonam · Cayston"
+{ "name_jp": ""J01DH02 · Meropenem ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Merinfec · Merocarb · Meronem · Meropenem · Nableran"
+{ "name_jp": ""J01DH03 · Ertapenem ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Ertapenem · Invanz"
+{ "name_jp": ""J01DH51 · Imipenem and Cilastatin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Andatin · Imipenem + Cilastatin · Imipenem + Cylastatyna · Imipenem / Cilastatin · Imipenem og Cilastatin"
+{ "name_jp": ""J01DI02 · Ceftaroline Fosamil ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Ceftarolin Fosamil · Zinforo"
+{ "name_jp": ""J01FA02 · Spiramycin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Rovamicina · Rovamycine · Spiramycin"
+{ "name_jp": ""J01FA10 · Azithromycin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Abiazyt · Amzolynic · Azibiot · Azimycin · Azithromycin · Azitrolek · Azitromax · Azitromicina · Azitromycin · Azitrox · Azycyna · Bactrazol · Macromax · Nobaxin · Sumamed · Zithromax · Zitromax"
+{ "name_jp": ""J01GB01 · Tobramycin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Bramitob · Nebcina · Tobi · Tobramycin · Tobramycinsulfat · Tobramycyna · Vantobra"
+{ "name_jp": ""J01GB03 · Gentamicin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Garamycin · Gensumycin · Gentacoll · Gentamicin · Gentamycin · Hexamycin"
+{ "name_jp": ""J01GB06 · Amikacin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Amikacin · Amikafarm · Arikayce · Biklin · Biodacyna"
+{ "name_jp": ""J01GB07 · Netilmicin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Netilmicin"
+{ "name_jp": ""J01MA01 · Ofloxacin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Ofloksacin · Oflox · Ofloxacin · Tarivid"
+{ "name_jp": ""J01MA02 · Ciprofloxacin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cifin · Ciphin · Ciprinol · Ciprofloksacin · Ciprofloxacin · Cipronex · Cipropol · Ciproxin · Proxacin · Síprox"
+{ "name_jp": ""J01MA06 · Norfloxacin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Nolicin · Norfloksacin"
+{ "name_jp": ""J01MA12 · Levofloxacin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Levalox · Levocin · Levofloksacin · Levofloxacin · Levonic · Levoxa · Oroflocina · Quinsair · Tavanic · Xyvelam"
+{ "name_jp": ""J01MA14 · Moxifloxacin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Avelox · Floxitrat · Kimoks · Moksifloksacin · Moloxin · Moxifloxacin · Moxifloxacina · Moxinea · Moxiva · Rivomoxi"
+{ "name_jp": ""J01XA01 · Vancomycin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Bactocin · Edicin · Vancomycin · Vancomycinum · Vancosan · Vankomycin"
+{ "name_jp": ""J01XA02 · Teicoplanin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Targocid · Teicopix · Teicoplanin · Teikoplanin · Teikoplanina"
+{ "name_jp": ""J01XB01 · Colistin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Colistimethate · Colistimethatnatrium · Colistimethatum Natricum · Colistin · Colivia · Colobreathe · Kólistímetat Natríum · Kolistimetatnatrium · Kolistin · Promixin · Tadim"
+{ "name_jp": ""J01XC01 · Fusidic Acid ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Fucidin · Fucidine · Fusidinsyre · Natriumfusidat"
+{ "name_jp": ""J01XD01 · Metronidazole ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Metronidazol · Metronidazole"
+{ "name_jp": ""J01XD02 · Tinidazole ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Tinidazol · Tinidazolum"
+{ "name_jp": ""J01XX01 · Fosfomycin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Afastural · Fosfomycin · Fosfomycyna · Infectofos · Monural · Monuril · Monurol · Symural"
+{ "name_jp": ""J01XX05 · Methenamine ANTIBACTERIALS FOR SYSTEMIC USE", "status": "NP" },
+Altaromin · Haiprex · Hiprex · Metenamin · Methenamine Hippurate"
+{ "name_jp": ""J01XX08 · Linezolid ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Dilizolen · Linezolid · Zyvoxid"
+{ "name_jp": ""J01XX09 · Daptomycin ANTIBACTERIALS FOR SYSTEMIC USE", "status": "PNP" },
+Cubicin · Daptomycin · Xelltempra"
+{ "name_jp": ""J02AA01 · Amphotericin b ANTIMYCOTICS FOR SYSTEMIC USE", "status": "PNP" },
+Abelcet · Ambisome · Amfotericin b · Amphotericin b · Amphotericinum b Liposomalna · Fungizone"
+{ "name_jp": ""J02AX01 · Flucytosine ANTIMYCOTICS FOR SYSTEMIC USE", "status": "PNP" },
+Ancotil · Flucytosin · Flucytosine"
+{ "name_jp": ""J02AX04 · Caspofungin ANTIMYCOTICS FOR SYSTEMIC USE", "status": "PNP" },
+Cancidas · Casmyg · Caspofungin · Dalvocans · Fornega · Kaspofungin"
+{ "name_jp": ""J02AX05 · Micafungin ANTIMYCOTICS FOR SYSTEMIC USE", "status": "PNP" },
+Micafungin · Mikafungin · Mycamine · Mykafungina"
+{ "name_jp": ""J02AX06 · Anidulafungin ANTIMYCOTICS FOR SYSTEMIC USE", "status": "PNP" },
+Anidulafungin · Anidulafungina · Ecalta"
+{ "name_jp": ""J04AA01 · 4-Aminosalicylic Acid ANTIMYCOBACTERIALS", "status": "PNP" },
+Aminosalisylsyre · Granupas"
+{ "name_jp": ""J04AB01 · Cycloserine ANTIMYCOBACTERIALS", "status": "PNP" },
+Cycloserine · Cykloserin"
+{ "name_jp": ""J04AK01 · Pyrazinamide ANTIMYCOBACTERIALS", "status": "PNP" },
+Pyrazinamid · Pyrazinamide · Tisamid"
+{ "name_jp": ""J04AK02 · Ethambutol ANTIMYCOBACTERIALS", "status": "NP" },
+emb · Etambutol · Ethambutol · Etibi · Myambutol"
+{ "name_jp": ""J04AK05 · Bedaquiline ANTIMYCOBACTERIALS", "status": "PNP" },
+Bedakvilin · Sirturo"
+{ "name_jp": ""J04AK06 · Delamanid ANTIMYCOBACTERIALS", "status": "PNP" },
+Delamanid · Deltyba"
+{ "name_jp": ""J05AB01 · Aciclovir ANTIVIRALS FOR SYSTEMIC USE", "status": "NP" },
+Aciclodan · Aciclovir · Aciklovir · Acix · Aclovir · Acyclostad · Acyclovir · Acyklowir · Acyrax · Hascovir · Hevipoint · Heviran · Invirum · Virono · Zovirax"
+{ "name_jp": ""J05AB06 · Ganciclovir ANTIVIRALS FOR SYSTEMIC USE", "status": "NP" },
+Cymevene · Ganciclovir · Ganciklovir"
+{ "name_jp": ""J05AB09 · Famciclovir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Famciclovir · Famciklovir · Famvir"
+{ "name_jp": ""J05AB11 · Valaciclovir ANTIVIRALS FOR SYSTEMIC USE", "status": "NP" },
+Flushnil · Vaciclor · Valablis · Valablis Forte · Valaciclovir · Valaciklovir · Valavir · Valorin · Valtrex · Zelitrex"
+{ "name_jp": ""J05AB12 · Cidofovir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Cidofovir"
+{ "name_jp": ""J05AB14 · Valganciclovir ANTIVIRALS FOR SYSTEMIC USE", "status": "NP" },
+Ceglar · Valcyclox · Valcyte · Valganciclovir · Valganciklovir · Valhit"
+{ "name_jp": ""J05AD01 · Foscarnet ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Foscarnet · Foscarnet Sodium Hexahydrate · Foskarnet · Foskarnetnatriumheksahydrat · Virafosc"
+{ "name_jp": ""J05AF01 · Zidovudine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Retrovir · Zidovudin · Zidovudine"
+{ "name_jp": ""J05AF02 · Didanosine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Didanosin"
+{ "name_jp": ""J05AF03 · Zalcitabine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Zalcitabin"
+{ "name_jp": ""J05AF05 · Lamivudine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Epivir · Lamivudin · Lamivudine · Zeffix"
+{ "name_jp": ""J05AF06 · Abacavir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Abacavir · Abakavir · Ziagen"
+{ "name_jp": ""J05AF07 · Tenofovir Disoproxil ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Ictady · Tenofovir · Tenofovirdisoproksil · Viread · Virofob"
+{ "name_jp": ""J05AF08 · Adefovir Dipivoxil ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Adefovirdipivoksil · Hepsera"
+{ "name_jp": ""J05AF09 · Emtricitabine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Emtricitabin · Emtriva"
+{ "name_jp": ""J05AF11 · Telbivudine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Sebivo · Telbivudin"
+{ "name_jp": ""J05AG05 · Rilpivirine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Edurant · Rekambys · Rilpivirin"
+{ "name_jp": ""J05AH01 · Zanamivir ANTIVIRALS FOR SYSTEMIC USE", "status": "NP" },
+Dectova · Relenza · Zanamivir"
+{ "name_jp": ""J05AH02 · Oseltamivir ANTIVIRALS FOR SYSTEMIC USE", "status": "NP" },
+Ebilfumin · Griptavir · Oseltamivir · Oseltix · Segosana · Tamiflu · Tamivil · Viseltam"
+{ "name_jp": ""J05AJ01 · Raltegravir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Isentress · Raltegravir · Taltevyr"
+{ "name_jp": ""J05AJ03 · Dolutegravir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Dolutegravir · Tivicay"
+{ "name_jp": ""J05AP01 · Ribavirin ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Rebetol · Ribavirin"
+{ "name_jp": ""J05AP08 · Sofosbuvir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Sofosbuvir · Sovaldi"
+{ "name_jp": ""J05AP54 · Elbasvir and Grazoprevir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Elbasvir og Grazoprevir · Zepatier"
+{ "name_jp": ""J05AR01 · Zidovudine and Lamivudine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Combivir · Lazivir · Zidovudine / Lamivudine"
+{ "name_jp": ""J05AR02 · Lamivudine and Abacavir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Kivexa · Lamivudine / Abacavir · Lamivudine / Abakavir"
+{ "name_jp": ""J05AR03 · Tenofovir Disoproxil and Emtricitabine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Dunotrisin · Oremten · Tenofovir / Emtricitabine · Truvada"
+{ "name_jp": ""J05AR04 · Zidovudine, Lamivudine and Abacavir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Trizivir · Zidovudin, Lamivudin og Abakavir"
+{ "name_jp": ""J05AR08 · Emtricitabine, Tenofovir Disoproxil and Rilpivirine ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Emtricitabine / Tenofovir / Rilpivirin · Eviplera"
+{ "name_jp": ""J05AR13 · Lamivudine, Abacavir and Dolutegravir ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Lamivudin, Abakavir og Dolutegravir · Triumeq"
+{ "name_jp": ""J05AX07 · Enfuvirtide ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Enfuvirtid · Fuzeon"
+{ "name_jp": ""J05AX09 · Maraviroc ANTIVIRALS FOR SYSTEMIC USE", "status": "PNP" },
+Celsentri · Maravirok"
+{ "name_jp": ""J06BA01 · Immunoglobulins, Normal Human, for Extravascular adm. IMMUNE SERA AND IMMUNOGLOBULINS", "status": "NP" },
+Beriglobin · Cutaquig · Cuvitru · Gammanorm · Hizentra · Hyqvia · Xembify"
+{ "name_jp": ""J06BA02 · Immunoglobulins, Normal Human, for Intravascular adm. IMMUNE SERA AND IMMUNOGLOBULINS", "status": "NP" },
+Deqsiga · Flebogamma · Gammagard · Gamunex · ig Vena · Intratect · Iqymune · Kiovig · Nanogam · Octagam · Optiglobin · Panzyga · Pentaglobin · Privigen"
+{ "name_jp": ""J06BB01 · Anti-d (rh) Immunoglobulin IMMUNE SERA AND IMMUNOGLOBULINS", "status": "NP" },
+Gamma Anty-d · Immunglobulin mot rh-Immunisering · Rhesonativ · Rhophylac"
+{ "name_jp": ""J06BB04 · Hepatitis b Immunoglobulin IMMUNE SERA AND IMMUNOGLOBULINS", "status": "NP" },
+Gamma Anty-hbs · Hepatect · Immunglobulin mot Hepatitt b · Novabig · Uman big · Umanbig · Venbig · Zutectra"
+{ "name_jp": ""J06BD01 · Palivizumab IMMUNE SERA AND IMMUNOGLOBULINS", "status": "NP" },
+Palivizumab · Synagis"
+{ "name_jp": ""J07AE01 · Cholera, Inactivated, Whole Cell VACCINES", "status": "PNP" },
+Dukoral · Kolera, Inaktivert, Helcelle"
+{ "name_jp": ""J07AE02 · Cholera, Live Attenuated VACCINES", "status": "PNP" },
+Kolera, Levende, Svekket · Vaxchora"
+{ "name_jp": ""J07AG01 · Haemophilus Influenzae b, Purified Antigen Conjugated VACCINES", "status": "PNP" },
+act-hib"
+{ "name_jp": ""J07AH07 · Meningococcus c, Purified Polysaccharides Antigen Conjugated VACCINES", "status": "PNP" },
+Neisvac-c"
+{ "name_jp": ""J07AH08 · Meningococcus a,c,y,w-135, Tetravalent Purified Polysaccharides Antigen Conjugated VACCINES", "status": "PNP" },
+Menquadfi · Menveo · Nimenrix"
+{ "name_jp": ""J07AH09 · Meningococcus b, Multicomponent Vaccine VACCINES", "status": "PNP" },
+Bexsero · Meningokokk b, Mulitkomponent Vaksine · Trumenba"
+{ "name_jp": ""J07AJ52 · Pertussis, Purified Antigen, Combinations With Toxoids VACCINES", "status": "PNP" },
+Adacel · Boostrix · Ditekibooster · Tdap · Tdapbooster · Triaxis"
+{ "name_jp": ""J07AL01 · Pneumococcus, Purified Polysaccharides Antigen VACCINES", "status": "PNP" },
+Pneumokokk, Renset Polysakkarid Antigen · Pneumovax"
+{ "name_jp": ""J07AL02 · Pneumococcus, Purified Polysaccharides Antigen Conjugated VACCINES", "status": "PNP" },
+Capvaxive · Prevenar · Vaxneuvance"
+{ "name_jp": ""J07AL52 · Pneumococcus Purified Polysaccharides Antigen and Haemophilus Influenzae, Conjugated VACCINES", "status": "PNP" },
+Synflorix"
+{ "name_jp": ""J07AM01 · Tetanus Toxoid VACCINES", "status": "PNP" },
+Tetana · Tetanustoksoid · Tetanusvaccine · Tetavax"
+{ "name_jp": ""J07AM51 · Tetanus Toxoid, Combinations With Diphtheria Toxoid VACCINES", "status": "PNP" },
+Clodivac · Ditebooster · dt-Szczepionka Bloniczo-Tezcowa · Tetanustoksoid, Kombinasjoner med Difteritoksoid"
+{ "name_jp": ""J07AN01 · Tuberculosis, Live Attenuated VACCINES", "status": "PNP" },
+bcg · bcg-Vaksine · Tuberkulose, Levende, Svekket"
+{ "name_jp": ""J07AP01 · Typhoid, Oral, Live Attenuated VACCINES", "status": "PNP" },
+Tyfoid, Oral, Levende, Svekket · Vivotif"
+{ "name_jp": ""J07AP03 · Typhoid, Purified Polysaccharide Antigen VACCINES", "status": "PNP" },
+Tyfoid, Renset Polysakkarid Antigen · Typhim vi"
+{ "name_jp": ""J07BA01 · Encephalitis, Tick Borne, Inactivated, Whole Virus VACCINES", "status": "PNP" },
+Encefalitt, Skogflåttbåren, Inaktivert Helvirus · Encepur · Encepur k · Encepur Lapset · Fsme-Immun · Ticovac"
+{ "name_jp": ""J07BA02 · Encephalitis, Japanese, Inactivated, Whole Virus VACCINES", "status": "PNP" },
+Ixiaro · Japanese Encephalitis Vaccine"
+{ "name_jp": ""J07BB02 · Influenza, Inactivated, Split Virus or Surface Antigen VACCINES", "status": "PNP" },
+Adjupanrix · Aflunov · Celldemic · Efluelda · Fluad · Fluarix · Flucelvax · Focetria · Foclivia · Incellipan · Influvac · Influvactetra · Optaflu · Pandemrix · Prepandemic Influenza Vaccine · Supemtek · Vaxigrip · Vaxigriptetra · Zoonotic"
+{ "name_jp": ""J07BB03 · Influenza, Live Attenuated VACCINES", "status": "PNP" },
+Fluenz · Influensa, Levende, Svekket · Pandemic"
+{ "name_jp": ""J07BC01 · Hepatitis b, Purified Antigen VACCINES", "status": "PNP" },
+Engerix b · Engerix-b · Euvax b · Fendrix · Hbvaxpro · Hepatitt b, Renset Antigen · Heplisav b · Prehevbri"
+{ "name_jp": ""J07BC02 · Hepatitis a, Inactivated, Whole Virus VACCINES", "status": "PNP" },
+Avaxim · Havrix · Hepatitt a, Inaktivert, Helvirus · Vaqta"
+{ "name_jp": ""J07BC20 · Combinations VACCINES", "status": "PNP" },
+Ambirix · Kombinasjoner · Twinrix"
+{ "name_jp": ""J07BD52 · Measles, Combinations With Mumps and Rubella, Live Attenuated VACCINES", "status": "PNP" },
+m-Rvaxpro · Priorix"
+{ "name_jp": ""J07BF03 · Poliomyelitis, Trivalent, Inactivated, Whole Virus VACCINES", "status": "PNP" },
+Imovax Polio · Picovax · Poliomyelitt, Trivalent, Inaktivert Helvirus · Poliovaccine · Veropol"
+{ "name_jp": ""J07BG01 · Rabies, Inactivated, Whole Virus VACCINES", "status": "PNP" },
+Rabies Vaccine · Rabipur · Verorab"
+{ "name_jp": ""J07BH01 · Rota Virus, Live Attenuated VACCINES", "status": "PNP" },
+Rotarix · Rotavirus, Levende, Svekket"
+{ "name_jp": ""J07BH02 · Rota Virus, Pentavalent, Live, Reassorted VACCINES", "status": "PNP" },
+Rotateq · Rotavirus, Femverdig, Levende, Assorterte"
+{ "name_jp": ""J07BK01 · Varicella, Live Attenuated VACCINES", "status": "PNP" },
+Varicella, Levende, Svekket · Varilrix · Varivax"
+{ "name_jp": ""J07BK02 · Zoster, Live Attenuated VACCINES", "status": "PNP" },
+Zostavax · Zoster, Levende Svekket"
+{ "name_jp": ""J07BK03 · Zoster, Purified Antigen VACCINES", "status": "PNP" },
+Shingrix · Zoster, Renset Antigen"
+{ "name_jp": ""J07BM01 · Papillomavirus (Human Types 6, 11, 16, 18) VACCINES", "status": "PNP" },
+Gardasil · Papillomavirus (Human Type 6,11,16,18) · Silgard"
+{ "name_jp": ""J07BM02 · Papillomavirus (Human Types 16, 18) VACCINES", "status": "PNP" },
+Cervarix · Papillomavirus (Human Type 16,18)"
+{ "name_jp": ""J07BM03 · Papillomavirus (Human Types 6, 11, 16, 18, 31, 33, 45, 52, 58) VACCINES", "status": "PNP" },
+Gardasil"
+{ "name_jp": ""J07BN01 · Covid-19, rna-Based Vaccine VACCINES", "status": "PNP" },
+Comirnaty · Covid-19, rna-Basert Vaksine · Kostaive · Mnexspike · Spikevax"
+{ "name_jp": ""J07BN04 · Covid-19, Protein Subunit VACCINES", "status": "PNP" },
+Bimervax · Covid-19, Proteinsubenhet · Nuvaxovid"
+{ "name_jp": ""J07BX01 · Smallpox and Monkeypox Vaccines VACCINES", "status": "PNP" },
+Imvanex · Jynneos · Koppe- og Apekoppevaksiner"
+{ "name_jp": ""J07BX04 · Dengue Virus Vaccines VACCINES", "status": "PNP" },
+Denguevirusvaksiner · Dengvaxia · Qdenga"
+{ "name_jp": ""J07BX05 · Respiratory Syncytial Virus Vaccines VACCINES", "status": "PNP" },
+Abrysvo · Arexvy · Mresvia · Respiratoriske Syncytialvirusvaksiner"
+{ "name_jp": ""J07BX07 · Chikungunya Vaccines VACCINES", "status": "PNP" },
+Ixchiq"
+{ "name_jp": ""J07CA02 · Diphtheria-Pertussis-Poliomyelitis-Tetanus VACCINES", "status": "PNP" },
+Adacel Polio · Boostrix · Difteri-Kikhoste-Poliomyelitt-Tetanus · Infanrix · Pentaxim · Repevax · Tetravac · Tetraxim"
+{ "name_jp": ""J07CA06 · Diphtheria-Haemophilus Influenzae b-Pertussis-Poliomyelitis-Tetanus VACCINES", "status": "PNP" },
+Infanrix · Pentavac"
+{ "name_jp": ""L01AA02 · Chlorambucil ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Klorambucil · Leukeran"
+{ "name_jp": ""L01AA03 · Melphalan ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Alkeran · Melfalan · Melphalan · Phelinun"
+{ "name_jp": ""L01AA05 · Chlormethine ANTINEOPLASTIC AGENTS", "status": "NP" },
+Klormetin · Ledaga"
+{ "name_jp": ""L01AA09 · Bendamustine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Bendamedac · Bendamustin · Bendamustine · Bendamustinhydrochlorid · Bendamustyna · Clybenic · Crolym · Jiskyn · Kleileuk · Levact"
+{ "name_jp": ""L01AD02 · Lomustine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Ceenu · Gleostine · Lomustin · Lomustine"
+{ "name_jp": ""L01AX03 · Temozolomide ANTINEOPLASTIC AGENTS", "status": "NP" },
+Temodal · Temomedac · Temozolomid · Temozolomide"
+{ "name_jp": ""L01AX04 · Dacarbazine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Dacarbazine · Dakarbazin · Detimedac"
+{ "name_jp": ""L01BA01 · Methotrexate ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Ebetrex · Jylamvo · Methotrexat · Methotrexat-gry · Methotrexate · Metoject · Metotreksat · Metotressato"
+{ "name_jp": ""L01BA04 · Pemetrexed ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Alimta · Armisarte · Ciambra · Pemetreksed · Pemetrexed"
+{ "name_jp": ""L01BB02 · Mercaptopurine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Mercaptopurin · Mercaptopurine · Mercaptopurinum · Merkaptopurin · Puri-Nethol · Purimmun · Xaluprine"
+{ "name_jp": ""L01BB03 · Tioguanine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Lanvis · Tioguanin · Tioguanine"
+{ "name_jp": ""L01BB04 · Cladribine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Biodribin · Kladribin · Leuject · Litak"
+{ "name_jp": ""L01BB05 · Fludarabine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Fludara · Fludarabin · Fludarabine · Fludarabinphosphat"
+{ "name_jp": ""L01BB06 · Clofarabine ANTINEOPLASTIC AGENTS", "status": "NP" },
+Clofarabine · Evoltra · Ivozall · Klofarabin"
+{ "name_jp": ""L01BB07 · Nelarabine ANTINEOPLASTIC AGENTS", "status": "NP" },
+Atriance · Nelarabin"
+{ "name_jp": ""L01BC01 · Cytarabine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Alexan · Cytarabin · Cytarabina · Cytarabine · Cytosar"
+{ "name_jp": ""L01BC02 · Fluorouracil ANTINEOPLASTIC AGENTS", "status": "NP" },
+5-Fluorouracil · Efudix · Fluorouracil · Flúoróúracil · Fluorouracile · Tolak · Tolerak"
+{ "name_jp": ""L01BC03 · Tegafur ANTINEOPLASTIC AGENTS", "status": "NP" },
+Tegafur"
+{ "name_jp": ""L01BC05 · Gemcitabine ANTINEOPLASTIC AGENTS", "status": "NP" },
+Gemcit · Gemcitabin · Gemcitabine · Gemcitabinum · Gemkabi · Gemsol · Gemstada · Gitrabin"
+{ "name_jp": ""L01BC06 · Capecitabine ANTINEOPLASTIC AGENTS", "status": "NP" },
+Capecitabin · Capecitabine · Capecitabinum · Ecansya · Kapecitabin · Xeloda"
+{ "name_jp": ""L01BC07 · Azacitidine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Azacitidin · Azacitidine · Azculem · Azida · Etraga · Gerodaza · Onureg · Rendazvi · Vidaza · Zassida"
+{ "name_jp": ""L01CA01 · Vinblastine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Velbe · Vinblastin"
+{ "name_jp": ""L01CA02 · Vincristine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Cellcristin · Oncovin · Vincristine · Vinkristin"
+{ "name_jp": ""L01CA03 · Vindesine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Eldisine · Vindesin"
+{ "name_jp": ""L01CA04 · Vinorelbine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Navelbine · Navirel · Neocitec · Vinorelbin · Vinorelbina · Vinorelbine"
+{ "name_jp": ""L01CA05 · Vinflunine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Javlor · Vinflunin"
+{ "name_jp": ""L01CB01 · Etoposide ANTINEOPLASTIC AGENTS", "status": "PNP" },
+eto-Cell · eto-gry · Etopophos · Etoposid · Etoposide · Etoposido · Etópósíð · Etopozyd · Vepesid"
+{ "name_jp": ""L01CD02 · Docetaxel ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Docetaksel · Docetaxel · Taxotere · Tolnexa"
+{ "name_jp": ""L01CE01 · Topotecan ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Hycamtin · Potactasol · Topotecan · Topotecanum · Topotekan"
+{ "name_jp": ""L01CE02 · Irinotecan ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Campto · Irinotecan · Irinotekan · Onivyde"
+{ "name_jp": ""L01CX01 · Trabectedin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Trabectedin · Trabektedin · Yondelis"
+{ "name_jp": ""L01DA01 · Dactinomycin ANTINEOPLASTIC AGENTS", "status": "NP" },
+Daktinomycin · Lyovac-Cosmegen"
+{ "name_jp": ""L01DB01 · Doxorubicin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Adriamycin · Adriblastina · Caelyx · Celdoxome · Doksorubicin · Doxorubicin · Doxorubicinum · Myocet · Zolsketil"
+{ "name_jp": ""L01DB02 · Daunorubicin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Cerubidin · Cerubidine · Daunorubicin"
+{ "name_jp": ""L01DB03 · Epirubicin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Epimedac · Epirubicin · Farmorubicin"
+{ "name_jp": ""L01DB06 · Idarubicin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Idarubicin · Idarubicinhydrochlorid · Zavedos"
+{ "name_jp": ""L01DB07 · Mitoxantrone ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Mitoksantron · Mitoxantron"
+{ "name_jp": ""L01DC01 · Bleomycin ANTINEOPLASTIC AGENTS", "status": "NP" },
+Bleomedac · Bleomycin · Bleomycyna"
+{ "name_jp": ""L01DC03 · Mitomycin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Mitomycin"
+{ "name_jp": ""L01EA01 · Imatinib ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Bimatix · Glivec · Imakrebin · Imatinib · Leuzek · Meaxin · Nibix"
+{ "name_jp": ""L01EG02 · Everolimus ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Afinitor · Everolimus · Votubia"
+{ "name_jp": ""L01EJ01 · Ruxolitinib ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Jakavi · Jakulya · Ruksolitinib · Ruxolitinib"
+{ "name_jp": ""L01EX01 · Sunitinib ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Asikreba · Klertis · Subinit · Suganet · Sunitinib · Sunitynib · Sutent · Teurlata · Zesuva"
+{ "name_jp": ""L01EX02 · Sorafenib ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Nexavar · Sorafenib"
+{ "name_jp": ""L01EX03 · Pazopanib ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Pazopanib · Votrient"
+{ "name_jp": ""L01FA01 · Rituximab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Blitzima · Ituxredi · Mabthera · Rituksimab · Rixathon · Riximyo · Ruxience · Truxima"
+{ "name_jp": ""L01FA02 · Ofatumumab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Ofatumumab"
+{ "name_jp": ""L01FD01 · Trastuzumab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Dazublys · Herceptin · Herwenda · Herzuma · Kanjinti · Ogivri · Ontruzant · Trastuzumab · Trazimera · Tuznue · Zercepac"
+{ "name_jp": ""L01FE01 · Cetuximab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Cetuksimab · Erbitux"
+{ "name_jp": ""L01FE02 · Panitumumab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Panitumumab · Vectibix"
+{ "name_jp": ""L01FG01 · Bevacizumab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Abevmy · Alymsys · Avastin · Avzivi · Aybintio · Bevacizumab · Mvasi · Onbevzi · Oyavas · Vegzelma · Zirabev"
+{ "name_jp": ""L01FX03 · Catumaxomab ANTINEOPLASTIC AGENTS", "status": "NP" },
+Catumaksomab · Korjuny"
+{ "name_jp": ""L01XA01 · Cisplatin ANTINEOPLASTIC AGENTS", "status": "NP" },
+Cisplatin · Cisplatinum"
+{ "name_jp": ""L01XA02 · Carboplatin ANTINEOPLASTIC AGENTS", "status": "NP" },
+Carbomedac · Carboplatin · Karboplatin"
+{ "name_jp": ""L01XA03 · Oxaliplatin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Oksaliplatin · Oxaliplatin · Oxaliplatinum"
+{ "name_jp": ""L01XD03 · Methyl Aminolevulinate ANTINEOPLASTIC AGENTS", "status": "NP" },
+Metvix · Metylaminolevulinat"
+{ "name_jp": ""L01XX02 · Asparaginase ANTINEOPLASTIC AGENTS", "status": "NP" },
+Asparaginase · Enrylaze · Erwinase · Spectrila"
+{ "name_jp": ""L01XX05 · Hydroxycarbamide ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Hydrea · Hydroksykarbamid · Hydroxycarbamid · Hydroxyurea · Oribamide · Siklos · Xromi"
+{ "name_jp": ""L01XX11 · Estramustine ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Estramustin"
+{ "name_jp": ""L01XX33 · Celecoxib ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Celekoksib"
+{ "name_jp": ""L01XX35 · Anagrelide ANTINEOPLASTIC AGENTS", "status": "NP" },
+Anagrelid · Anagrelide · Grenalvon · Thromboreductin · Xagrid"
+{ "name_jp": ""L01XX41 · Eribulin ANTINEOPLASTIC AGENTS", "status": "PNP" },
+Eribulin · Halaven · Mevlyq · Sclarint"
+{ "name_jp": ""L02AA02 · Polyestradiol Phosphate ENDOCRINE THERAPY", "status": "PNP" },
+Polyøstradiolfosfat"
+{ "name_jp": ""L02BA03 · Fulvestrant ENDOCRINE THERAPY", "status": "PNP" },
+Faslodex · Fulvestrant · Fulwestrant · Vastaloma"
+{ "name_jp": ""L02BG03 · Anastrozole ENDOCRINE THERAPY", "status": "PNP" },
+Anastelb · Anastrozol · Anastrozole · Anazol · apo-Nastrol · Arimidex · Atrozol · Egistrozol"
+{ "name_jp": ""L02BG04 · Letrozole ENDOCRINE THERAPY", "status": "PNP" },
+Aromek · Clarzole · Etruzil · Femar · Lametta · Letrolan · Letromal · Letrozol · Letrozole · Letrozolum · Lortanda"
+{ "name_jp": ""L02BX02 · Degarelix ENDOCRINE THERAPY", "status": "PNP" },
+Degareliks · Degarelix · Firmagon"
+{ "name_jp": ""L03AA02 · Filgrastim IMMUNOSTIMULANTS", "status": "NP" },
+Accofil · Filgrastim · Grastofil · Neupogen · Nivestim · Ratiograstim · Tevagrastim · Zarzio · Zefylti"
+{ "name_jp": ""L03AA03 · Molgramostim IMMUNOSTIMULANTS", "status": "NP" },
+Molgramostim"
+{ "name_jp": ""L03AA10 · Lenograstim IMMUNOSTIMULANTS", "status": "NP" },
+Lenograstim"
+{ "name_jp": ""L03AA13 · Pegfilgrastim IMMUNOSTIMULANTS", "status": "NP" },
+Cegfila · Dyrupeg · Fulphila · Grasustek · Neulasta · Nyvepria · Pegfilgrastim · Pelgraz · Pelmeg · Stimufend · Vivlipeg · Ziextenzo"
+{ "name_jp": ""L03AB01 · Interferon Alfa Natural IMMUNOSTIMULANTS", "status": "PNP" },
+Naturlig Interferon Alfa"
+{ "name_jp": ""L03AB03 · Interferon Gamma IMMUNOSTIMULANTS", "status": "PNP" },
+Imukin · Interferon Gamma"
+{ "name_jp": ""L03AB04 · Interferon Alfa-2a IMMUNOSTIMULANTS", "status": "PNP" },
+Interferon Alfa-2a"
+{ "name_jp": ""L03AB07 · Interferon Beta-1a IMMUNOSTIMULANTS", "status": "PNP" },
+Avonex · Interferon Beta-1a · Rebif"
+{ "name_jp": ""L03AB08 · Interferon Beta-1b IMMUNOSTIMULANTS", "status": "PNP" },
+Betaferon · Extavia · Interferon Beta-1b"
+{ "name_jp": ""L03AB11 · Peginterferon Alfa-2a IMMUNOSTIMULANTS", "status": "PNP" },
+Pegasys · Peginterferon Alfa-2a"
+{ "name_jp": ""L03AX14 · Histamine Dihydrochloride IMMUNOSTIMULANTS", "status": "PNP" },
+Ceplene · Histamindihydroklorid"
+{ "name_jp": ""L03AX15 · Mifamurtide IMMUNOSTIMULANTS", "status": "PNP" },
+Mepact · Mifamurtid"
+{ "name_jp": ""L03AX16 · Plerixafor IMMUNOSTIMULANTS", "status": "PNP" },
+Mozobil · Pleriksafor · Plerixafor"
+{ "name_jp": ""L04AA04 · Antithymocyte Immunoglobulin (Rabbit) IMMUNOSUPPRESSANTS", "status": "PNP" },
+Antitymocyttimmunglobulin (Kanin) · Grafalon · Thymoglobuline"
+{ "name_jp": ""L04AA06 · Mycophenolic Acid IMMUNOSUPPRESSANTS", "status": "PNP" },
+Cellcept · Marelim · Myastad · Myclausen · Mycofenolsýra · Mycofit · Mycophenolate · Mycophenolatemofetil · Mycophenolatmofetil · Mycophenolsyre · Myfenax · Myfortic · Mykofenolan Mofetylu · Mykofenolat · Mykofenolatmofetil · Mykofenolsyre"
+{ "name_jp": ""L04AA24 · Abatacept IMMUNOSUPPRESSANTS", "status": "PNP" },
+Abatacept · Orencia"
+{ "name_jp": ""L04AA28 · Belatacept IMMUNOSUPPRESSANTS", "status": "PNP" },
+Belatacept · Nulojix"
+{ "name_jp": ""L04AB01 · Etanercept IMMUNOSUPPRESSANTS", "status": "PNP" },
+Benepali · Enbrel · Erelzi · Etanercept · Fubelv · Nepexto"
+{ "name_jp": ""L04AB02 · Infliximab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Flixabi · Inflectra · Infliksimab · Remicade · Remsima · Zessly"
+{ "name_jp": ""L04AB04 · Adalimumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Adalimumab · Amgevita · Amsparity · Hefiya · Hukyndra · Hulio · Humira · Hyrimoz · Idacio · Imraldi · Libmyris · Yuflyma"
+{ "name_jp": ""L04AB05 · Certolizumab Pegol IMMUNOSUPPRESSANTS", "status": "PNP" },
+Certolizumab Pegol · Cimzia"
+{ "name_jp": ""L04AB06 · Golimumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Gobivaz · Golimumab · Gotenfia · Simponi"
+{ "name_jp": ""L04AC01 · Daclizumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Daklizumab"
+{ "name_jp": ""L04AC02 · Basiliximab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Basiliksimab · Simulect"
+{ "name_jp": ""L04AC03 · Anakinra IMMUNOSUPPRESSANTS", "status": "PNP" },
+Anakinra · Kineret"
+{ "name_jp": ""L04AC05 · Ustekinumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Absimky · Eksunbi · Fymskina · Imuldosa · Otulfi · Pyzchiva · Qoyvolma · Stelara · Steqeyma · Usgena · Usrenty · Ustekinumab · Usymro · Uzpruvo · Wezenla · Yesintek"
+{ "name_jp": ""L04AC07 · Tocilizumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Avtozma · Roactemra · Tocilizumab · Tofidence · Tuyory · Tyenne"
+{ "name_jp": ""L04AC08 · Canakinumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Ilaris · Kanakinumab"
+{ "name_jp": ""L04AC11 · Siltuximab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Siltuksimab · Sylvant"
+{ "name_jp": ""L04AD01 · Ciclosporin IMMUNOSUPPRESSANTS", "status": "PNP" },
+Ciklosporin · Ciqorin · Cyclaid · Equoral · Menelri · Sandimmun · Sandimmun Neoral · Vevizye"
+{ "name_jp": ""L04AD02 · Tacrolimus IMMUNOSUPPRESSANTS", "status": "PNP" },
+Adport · Advagraf · Dailiport · Envarsus · Modigraf · Prograf · Roltisa · Tacforius · Tacni · Tacrolimus · Takrolimus"
+{ "name_jp": ""L04AE01 · Fingolimod IMMUNOSUPPRESSANTS", "status": "PNP" },
+Areleptan · Bonaxon · Chantico · Efigalo · Fimodigo · Fingod · Fingolimod · Finrina · Gaxenim · Gilenya · Gilycora · Golpimec"
+{ "name_jp": ""L04AG01 · Muromonab-cd3 IMMUNOSUPPRESSANTS", "status": "PNP" },
+Muromonab-cd3"
+{ "name_jp": ""L04AG03 · Natalizumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Imaavy · Natalizumab · Tyruko · Tysabri"
+{ "name_jp": ""L04AG04 · Belimumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Belimumab · Benlysta"
+{ "name_jp": ""L04AG05 · Vedolizumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Entyvio · Vedolizumab"
+{ "name_jp": ""L04AG06 · Alemtuzumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Alemtuzumab · Lemtrada"
+{ "name_jp": ""L04AH01 · Sirolimus IMMUNOSUPPRESSANTS", "status": "PNP" },
+Hyftor · Rapamune · Sirolimus"
+{ "name_jp": ""L04AH02 · Everolimus IMMUNOSUPPRESSANTS", "status": "PNP" },
+Aderolio · Certican · Everolimus"
+{ "name_jp": ""L04AJ01 · Eculizumab IMMUNOSUPPRESSANTS", "status": "PNP" },
+Bekemv · Ekulizumab · Epysqli · Soliris"
+{ "name_jp": ""L04AK01 · Leflunomide IMMUNOSUPPRESSANTS", "status": "PNP" },
+Arava · Leflunomid · Leflunomide"
+{ "name_jp": ""L04AK02 · Teriflunomide IMMUNOSUPPRESSANTS", "status": "PNP" },
+Aubagio · Bozilos · Clefirem · Feple · Tergio · Teriflunomid · Teriflunomide · Theditrax · Tifay"
+{ "name_jp": ""L04AX01 · Azathioprine IMMUNOSUPPRESSANTS", "status": "PNP" },
+Azathioprin · Azathioprine · Azatioprin · Imuran · Imurel · Jayempi"
+{ "name_jp": ""L04AX02 · Thalidomide IMMUNOSUPPRESSANTS", "status": "PNP" },
+Talidomid · Thalidomid · Thalidomide"
+{ "name_jp": ""L04AX03 · Methotrexate IMMUNOSUPPRESSANTS", "status": "PNP" },
+Ebetrex · Ebetrexat · Emthexate · Injexate · Jylamvo · Metex · Methofill · Methotrexat · Methotrexate · Metoject · Metojectpen · Metotab · Metotreksat · Namaxir · Nordimet · Trexan · Tullex"
+{ "name_jp": ""L04AX04 · Lenalidomide IMMUNOSUPPRESSANTS", "status": "PNP" },
+Cortedal · Ferulinor · Kleder · Lenalidomid · Lenalidomide · Lignaron · Linorion · Polalid · Revlimid · Zelvina"
+{ "name_jp": ""L04AX05 · Pirfenidone IMMUNOSUPPRESSANTS", "status": "PNP" },
+Esbriet · Fredalix · Pirfenair · Pirfenidon · Pirfenidone"
+{ "name_jp": ""L04AX06 · Pomalidomide IMMUNOSUPPRESSANTS", "status": "PNP" },
+Imnovid · Pomalidomid · Pomalidomide"
+{ "name_jp": ""M01AB01 · Indometacin ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Indocid · Indometacin · Indometacine · Indoxen · Metindol"
+{ "name_jp": ""M01AB05 · Diclofenac ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Akis · Cataflam · Diclac · Diclaner · Diclo · Dicloberl · Diclodan · Dicloduo · Diclofenac · Diclofenacnatrium · Diclomax · Diclomex · Diclon · Diclopar · Dicloratio · Dicloren · Dicloreum · Diclosup · Dicuno · Diklofenak · Dimax · Flectorgo · Majamil · Modifenac · Motifene · Naklofen · Olfen · Olfen Hydrozel · Viclonor · Voltaren · Voltaren Acti · Voltaren Acti Forte · Voltaren Forte · Voltarol"
+{ "name_jp": ""M01AB15 · Ketorolac ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Caloket · Ketorolac · Ketorolac Trometamol · Ketorolak · Ketromol · Toradol"
+{ "name_jp": ""M01AB55 · Diclofenac, Combinations ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Arthrotec · Arthrotec Forte · Dicloduo · Diclovit · Diklofenak, Kombinasjoner · Diotem"
+{ "name_jp": ""M01AC01 · Piroxicam ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Brexidol · Feldene · Flamexin · Piroksikam · Piroxicam"
+{ "name_jp": ""M01AC02 · Tenoxicam ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Tenoksikam"
+{ "name_jp": ""M01AC05 · Lornoxicam ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Lornoksikam · Lornoxicam · Xefo"
+{ "name_jp": ""M01AC06 · Meloxicam ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Aglan · Aspicam · Aspicam bio · Difortan · Duplicam · mel · Melobax · Meloksam · Meloksikam · Meloxicam · Meloxistad · Mobic · Moilec · Movalis · Movatec · Opokan · Opokan-Forte · Remolexam · Trosicam"
+{ "name_jp": ""M01AE01 · Ibuprofen ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Algovil · Alvofen · Axoprofen · Axoprofen Forte · Babyfen · Babyfen Forte · Brufen · Burana · Burana Slow · Burana-Caps · Buscofem · Byfonen · Ibenal · Ibenal Forte · Ibetin · Ibudon · Ibufast Forte · Ibufen · Íbúfen · Ibufen Forte · Ibugard · Ibulinecaps · Ibum · Ibum Forte · Ibum Supermax · Ibumax · Ibumax Forte · Ibumax Lysin · Ibumetin · Ibunid Forte · Ibupar · Ibupar Forte · Ibuprex · Ibuprofen · Ibuprofen Forte · Ibuprofen-Lysin · Ibuprom · Ibuprom Forte · Iburapid · Iburion · Ibusal · Ibutabs · Ibutact · Ibuteva · Ibutrix · Ibutrixen · Ibuver · Ibux · Ibuxal · Ibuxal Forte · Ibuxin · Ibuxin-Caps · Ipren · Kidofen · Lizymax · Metafen Ibuprofen · mig · mig Forte · Modafen · Niebolix · Nureflex · Nurofen · Nuroflex · Paduden · Paduden Forte · Spedifen · Tefin"
+{ "name_jp": ""M01AE02 · Naproxen ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Aleve · Anapran · apo-Napro · Aponapro · Bonyl · Dololibre · Miranax · Nalgesin · Nalgesin Forte · Napren-e · Napritum · Napro · Naproksen · Naprometin · Napromex · Naproxen · Naproxen-e · Naxii · Pronaxen · Proxan"
+{ "name_jp": ""M01AE03 · Ketoprofen ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+bi-Profenid · Febrofen · Keto · Ketoflix · Ketokaps · Ketolek · Ketonal · Ketonal Forte · Ketoprex · Ketoprex Forte · Ketoprofen · Ketorin · Okitask · Orudis · Profenid · Refastin"
+{ "name_jp": ""M01AE14 · Dexibuprofen ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Deksibuprofen · Dexibuprofen · Seractil · Seractiv"
+{ "name_jp": ""M01AE17 · Dexketoprofen ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Auxilen · Dekenor · Deksketoprofen · Dektac · Delprofex · Dexak · Dexketoprofen · Dexketoprofen Ketoflix · Dextin · Ketesse · Metafen Dexketoprofen · Skudexa"
+{ "name_jp": ""M01AE51 · Ibuprofen, Combinations ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Acatar · Apap · Apselan Plus · Burana-c · Gexiro · ibu-spa · Ibum · Ibumax-c · Ibunoven · Ibuprofen / Paracetamol · Ibuprofen, Kombinasjoner · Ibuprom · Inflanor Plus · Kidofen · Metafen · Modafen · Nurofen · Nurofen Plus · Nurofen Ultima · Parapró · Zatoki · Zatotabs"
+{ "name_jp": ""M01AE52 · Naproxen and Esomeprazole ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Emoxen · Emoxenduo · Esonalgen · Naproxen / Esomeprazole · Vamtexar · Vimovo"
+{ "name_jp": ""M01AH01 · Celecoxib ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Aclexa · Celbic · Celebra · Celebrex · Celecoxib · Celekoksib · Cloxabix · Elecoxel · Zelsiglat"
+{ "name_jp": ""M01AH04 · Parecoxib ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Dynastat · Parecoxib · Parekoksib"
+{ "name_jp": ""M01AH05 · Etoricoxib ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Arcoxia · Coxerit · Coxient · Coxitex · Coxydyna · Doloxib · Edolox · Egidon · Etoricoxib · Etorikoksib · Etuxor · Kostarox · Roticox · Xaleba"
+{ "name_jp": ""M01AX01 · Nabumetone ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Nabumeton · Nabuton · Relifex"
+{ "name_jp": ""M01AX05 · Glucosamine ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "NP" },
+Arthryl · Dolenio · Donacom · Flexove · Glucofarm · Glucomed · Glucosamin · Glukosamin · Revadol · Samin"
+{ "name_jp": ""M01CB01 · Sodium Aurothiomalate ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Natriumaurotiomalat"
+{ "name_jp": ""M01CB03 · Auranofin ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "PNP" },
+Auranofin · Ridaura"
+{ "name_jp": ""M01CC01 · Penicillamine ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS", "status": "NP" },
+Cuprenil · Cupripen · Metalcaptase · Penicillamin"
+{ "name_jp": ""M02AA10 · Ketoprofen TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN", "status": "NP" },
+Effekton Ketoprofen · Fastum · Ketonal · Ketoprofen · Ketoprofenum Fastum · Ketospray Forte · Opokan-Keto · Orudis · Ultrafastin"
+{ "name_jp": ""M02AA13 · Ibuprofen TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN", "status": "NP" },
+Buranagel · dip Rilif · Dolgit · Ibum · Ibument · Ibuprofen · Ibuprom · Ibured · Ibured Forte · Ibutop · Ibux · Metafen Forte · Nurofen"
+{ "name_jp": ""M02AA15 · Diclofenac TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN", "status": "PNP" },
+Adarostin · Diclac Forte · Diclac Lipogel · Dicloduo · Diclofenac · Diclofenac Sodium · Diclogel · Diclomax Mobilat · Diclospray · Diclotica · Dicloziaja · Diklofenak · Diklofenakdietylamin · Diky · Dolofest · Felogel · Flector · Itami · Majamil · mel · Olfen · Spraymik · Veral · Voltaren · Voltaren Forte · Voltarol · Voltarol Forte"
+{ "name_jp": ""M02AC · Preparations With Salicylic Acid Derivatives TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN", "status": "NP" },
+dip Rozgrzewajacy · Midler med Innhold av Salisyrederivater · Mobilat · Reparil"
+{ "name_jp": ""M03AB01 · Suxamethonium MUSCLE RELAXANTS", "status": "NP" },
+Chlorsuccillin · Lysthenon · Sukolin · Suksametonium · Suxamethonium · Suxameton"
+{ "name_jp": ""M03AC01 · Pancuronium MUSCLE RELAXANTS", "status": "PNP" },
+Pancuronium · Pankuronium"
+{ "name_jp": ""M03AC03 · Vecuronium MUSCLE RELAXANTS", "status": "PNP" },
+Ekuronium · Vecuronium"
+{ "name_jp": ""M03AC04 · Atracurium MUSCLE RELAXANTS", "status": "PNP" },
+Atracurium · Atrakurium · Tracrium"
+{ "name_jp": ""M03AC09 · Rocuronium Bromide MUSCLE RELAXANTS", "status": "NP" },
+Esmeron · Rocuronium · Rokuroniumbromid · Roqurum"
+{ "name_jp": ""M03AC10 · Mivacurium Chloride MUSCLE RELAXANTS", "status": "NP" },
+Mivacron · Mivacurium · Mivakuriumklorid"
+{ "name_jp": ""M03AC11 · Cisatracurium MUSCLE RELAXANTS", "status": "NP" },
+Cisatracurium · Cisatrakurium · Nimbex"
+{ "name_jp": ""M03AX01 · Botulinum Toxin MUSCLE RELAXANTS", "status": "PNP" },
+Alluzience · Azzalure · Bocouture · Botox · Botulinumtoksin · Dysport · Letybo · Myobloc · Neurobloc · Nuceiva · Relfydess · Vistabel · Xeomin"
+{ "name_jp": ""M03BA03 · Methocarbamol MUSCLE RELAXANTS", "status": "PNP" },
+Methocarbamol · Metokarbamol · Ortoton"
+{ "name_jp": ""M03BB03 · Chlorzoxazone MUSCLE RELAXANTS", "status": "PNP" },
+Klorzoksason · Klorzoxazon · Paraflex"
+{ "name_jp": ""M03BX01 · Baclofen MUSCLE RELAXANTS", "status": "PNP" },
+Baclofen · Baklofen · Gablofen · Leodizcol · Lionova · Lioresal · Zapifen"
+{ "name_jp": ""M04AA01 · Allopurinol ANTIGOUT PREPARATIONS", "status": "PNP" },
+Adnamil · Allonol · Allopur · Allopurinol · Allorin · Allospes · Allupol · Apurin · Argadopin · Auricid · Dnor · Milurit · Zyloric"
+{ "name_jp": ""M04AA03 · Febuxostat ANTIGOUT PREPARATIONS", "status": "PNP" },
+Adenuric · Denofix · Elstabya · Febuksostat · Febuxostat · Prohidna · Uloric"
+{ "name_jp": ""M04AB01 · Probenecid ANTIGOUT PREPARATIONS", "status": "PNP" },
+Probecid · Probenecid"
+{ "name_jp": ""M04AC01 · Colchicine ANTIGOUT PREPARATIONS", "status": "PNP" },
+Colchianova · Colchican · Colchicin · Colchicine · Colchicum · Colrefuz · Kolkisin"
+{ "name_jp": ""M05BA01 · Etidronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Etidronsyre"
+{ "name_jp": ""M05BA02 · Clodronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Klodronsyre"
+{ "name_jp": ""M05BA03 · Pamidronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Pamidronatdinatrium · Pamidronsyre · Pamifos"
+{ "name_jp": ""M05BA04 · Alendronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Adronat · Alendran · Alendrogen · Alendronat · Alendronic Acid · Alendroninezuur · Alendronsyre · Alensol · Binosto · Fosamax · Ostacid · Ostemax · Ostenil · Ostolek · Sedron"
+{ "name_jp": ""M05BA05 · Tiludronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Tiludronsyre"
+{ "name_jp": ""M05BA06 · Ibandronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Baxogar · Bondronat · Bonviva · Clastec · Iasibon · Ibamyl · Ibandronat · Ibandronate · Ibandronic Acid · Ibandronsyre · Kefort · Osagrand · Ossica"
+{ "name_jp": ""M05BA07 · Risedronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Actonel · Karadronat · Norifaz · Optinate · Risdronostad · Risedronat · Risedronate · Risedronatnatrium · Risedronsyre · Risendros · Risepallin · Risostad · Vionate · Yarisen"
+{ "name_jp": ""M05BA08 · Zoledronic Acid DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Aclasta · Aszora · Osporil · Tsoledronihappo · Zerlinda · Zobiore · Zoledo · Zoledronic Acid · Zoledronsyre · Zolestad · Zometa · Zomikos"
+{ "name_jp": ""M05BB01 · Etidronic Acid and Calcium, Sequential DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Etidronsyre og Kalsium, Sekvensielle"
+{ "name_jp": ""M05BC01 · Dibotermin Alfa DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Dibotermin Alfa · Inductos"
+{ "name_jp": ""M05BX03 · Strontium Ranelate DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Protelos · Strontiumranelat"
+{ "name_jp": ""M05BX04 · Denosumab DRUGS FOR TREATMENT OF BONE DISEASES", "status": "NP" },
+Acvybra · Bildyos · Bilprevda · Bomyntra · Conexxence · Degevma · Denbrayce · Denosumab · Enwylma · Evfraxy · Izamby · Jubbonti · Jubereq · Junod · Kefdensis · Obodence · Osenvelt · Osqay · Osvyrti · Ponlimsi · Prolia · Rolcya · Stoboclo · Vevzuo · Wyost · Xbonzy · Xbryk · Xgeva · Yaxwer · Zadenvi · Zvogra"
+{ "name_jp": ""M09AB02 · Collagenase Clostridium Histolyticum OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM", "status": "NP" },
+Kollagenase Klostridum Histolyticum · Xiaflex"
+{ "name_jp": ""M09AX01 · Hyaluronic Acid OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM", "status": "NP" },
+Hyalgan · Hyaluronsyre · Hyaluroprol · Natrii Hyaluronas"
+{ "name_jp": ""N01AB04 · Enflurane ANESTHETICS", "status": "PNP" },
+Enfluran"
+{ "name_jp": ""N01AB06 · Isoflurane ANESTHETICS", "status": "PNP" },
+Aerrane · Isofluran · Sedaconda · Suprane"
+{ "name_jp": ""N01AB07 · Desflurane ANESTHETICS", "status": "PNP" },
+Desfluraani · Desfluran · Desflurane · Suprane"
+{ "name_jp": ""N01AB08 · Sevoflurane ANESTHETICS", "status": "PNP" },
+Sevofluran · Sevoflurane · Sevorane · Sojourn"
+{ "name_jp": ""N01AH01 · Fentanyl ANESTHETICS", "status": "PNP" },
+Fentanyl · Fentanyyli · Haldid · Leptanal"
+{ "name_jp": ""N01AH02 · Alfentanil ANESTHETICS", "status": "PNP" },
+Alfentanil · Rapifen"
+{ "name_jp": ""N01AH03 · Sufentanil ANESTHETICS", "status": "PNP" },
+Dzuveo · Sofentil · Sufenta · Sufenta Forte · Sufentanil · Zalviso"
+{ "name_jp": ""N01AH06 · Remifentanil ANESTHETICS", "status": "PNP" },
+Remifentanil · Ultiva"
+{ "name_jp": ""N01AX10 · Propofol ANESTHETICS", "status": "NP" },
+Diprivan · Disoprivan · Plofed · Profast · Propofol · Propofol-Lipuro · Propolipid · Provive"
+{ "name_jp": ""N01AX13 · Nitrous Oxide ANESTHETICS", "status": "PNP" },
+Dinitrogenoksid · Dinitrogenoxid · Ilokaasu · Lyfjatvíköfnunarefnisoxíð · Lystgass · Niontix · Podtlenek Azotu · Podtlenek Azotu n2o"
+{ "name_jp": ""N01BA04 · Chloroprocaine ANESTHETICS", "status": "PNP" },
+Ampres · Klorprokain · Nesacaine-mpf"
+{ "name_jp": ""N01BB01 · Bupivacaine ANESTHETICS", "status": "NP" },
+Bicain · Bicain Pond · Bupivacain · Bupivacaine · Bupivacaini · Bupivakain · Exparel · Hevicain · Marcain · Marcaine · Pankaine · Sanergy"
+{ "name_jp": ""N01BB02 · Lidocaine ANESTHETICS", "status": "PNP" },
+Bobodent · Bravera · Bupivacainum · Dynexan · Esliva · Instillido · Lidbree · Lidocain · Lidocain-Welk · Lidocaine · Lidocaini · Lidodan · Lidokain · Lignocain · Lignocainum · Lignosol · Lignox · Lydagriks · Nanolipo · Versatis · Xylocain · Xylocaine · Xylodont · Xyloneural Forte"
+{ "name_jp": ""N01BB03 · Mepivacaine ANESTHETICS", "status": "PNP" },
+Carbocain · Mecain · Mepidental · Mepidont · Mepivakain · Mepivastesin · Scandivin · Scandonest"
+{ "name_jp": ""N01BB04 · Prilocaine ANESTHETICS", "status": "NP" },
+Prilokain · Prilotekal · Takipril"
+{ "name_jp": ""N01BB08 · Articaine ANESTHETICS", "status": "PNP" },
+Artikain"
+{ "name_jp": ""N01BB09 · Ropivacaine ANESTHETICS", "status": "PNP" },
+Ropimol · Ropivacain · Ropivacaine · Ropivacainhydrochlorid · Ropivakain"
+{ "name_jp": ""N01BB10 · Levobupivacaine ANESTHETICS", "status": "PNP" },
+Levobupivacaine · Levobupivakain"
+{ "name_jp": ""N01BB51 · Bupivacaine, Combinations ANESTHETICS", "status": "PNP" },
+Apiyaq · Bupicain Adrenaline · Bupisen Adrenalina · Bupivacain Epinephrin · Bupivakain, Kombinasjoner · Marcain Adrenalin · Marcain-Adrenalin · Marcaine - Adrenaline · Marcaine Adrenaline"
+{ "name_jp": ""N01BB52 · Lidocaine, Combinations ANESTHETICS", "status": "PNP" },
+Anesderm · Calgel · Emla · Instillagel · Lident · Lidocaine / Adrenaline · Lidokain, Kombinasjoner · Lidokain-Nafazolin · Lignocainum · Pliaglis · Pliapel · Ralydan · Rapydan · Xion · Xylanaest Epinephrin · Xylocain Adrenalin · Xylocaine / Adrenaline · Xylocaine Epinephrine · Xylodont"
+{ "name_jp": ""N01BB53 · Mepivacaine, Combinations ANESTHETICS", "status": "PNP" },
+Carbocain Adrenalin · Carbocain-Adrenalin · Carbosen Adrenalina · Mepidont · Mepivakain, Kombinasjoner · Scandonest-Adrenalin"
+{ "name_jp": ""N01BB54 · Prilocaine, Combinations ANESTHETICS", "status": "PNP" },
+Citanest Octapressin · Prilokain, Kombinasjoner"
+{ "name_jp": ""N01BB58 · Articaine, Combinations ANESTHETICS", "status": "PNP" },
+Artident · Artikain, Kombinasjoner · Citocartin · Dentocaine · Norardent · Orabloc · Septanest · Septanest Adrenalina · Septocaine · Septocaine Forte · Sopira Citocartin · Ubistesin · Ubistesin Forte"
+{ "name_jp": ""N01BX04 · Capsaicin ANESTHETICS", "status": "PNP" },
+Capsaicin · Capsina · Qutenza"
+{ "name_jp": ""N02AA01 · Morphine ANALGESICS", "status": "NP" },
+Compensan · Contalgin · Depolan · Dolcontin · Doltard · Malfin · Maracex · Molnex · Morfin · Morfina · Morfine · Morfinsulfat · Morphin · Morphine · Morphini Sulfas · Morphinsulfat · mst Continus · Oramorph · Sendolor · Sevre-Long · Sevredol · Vendal"
+{ "name_jp": ""N02AA03 · Hydromorphone ANALGESICS", "status": "PNP" },
+Hydofon · Hydromorfon · Hydromorphone · Hydromorphonhydrochlorid · Palladon · Palladone"
+{ "name_jp": ""N02AA05 · Oxycodone ANALGESICS", "status": "PNP" },
+Accordeon · Codilek · Coxynon · Lindoxa · Oksykodon · Oxanest · Oxikodon · Oxycodon · Oxycodone · Oxycodonhydrochlorid · Oxycontin · Oxycorion · Oxydolor · Oxylan · Oxymera · Oxynorm · Oxyratio · Reltebon · Xancodal"
+{ "name_jp": ""N02AA55 · Oxycodone and Naloxone ANALGESICS", "status": "PNP" },
+Duoxona · Oksykodon og Nalokson · Oxycodone / Naloxone · Oxyduo · Oxylaxon · Oxynador · Tanonalla · Targin · Targiniq · Xanconalon"
+{ "name_jp": ""N02AA59 · Codeine, Combinations Excl. Psycholeptics ANALGESICS", "status": "PNP" },
+Efferalgan Codeine · Kodein, Kombinasjoner Ekskl. Psykoleptika"
+{ "name_jp": ""N02AB01 · Ketobemidone ANALGESICS", "status": "PNP" },
+Ketobemidon"
+{ "name_jp": ""N02AB02 · Pethidine ANALGESICS", "status": "NP" },
+Dolcontral · Pethidin · Pethidine · Petidin"
+{ "name_jp": ""N02AB03 · Fentanyl ANALGESICS", "status": "PNP" },
+Abstral · Actiq · Aurofena · Cynril · Durogesic · Effentora · Fenta · Fentanyl · Instanyl · Lafene · Matrifen · Pecfent · Sublifen · Submena · Vellofent"
+{ "name_jp": ""N02AE01 · Buprenorphine ANALGESICS", "status": "NP" },
+Bugnanto · Bunondol · Bunorfin · Buprefarm · Bupremyl · Buprenorfin · Buprenorphin · Buprenorphine · Butrans · Melodyn · Norspan · Norvipren · Subutex · Temgesic · Transtec"
+{ "name_jp": ""N02AF02 · Nalbuphine ANALGESICS", "status": "PNP" },
+Nalbufin · Nalpain"
+{ "name_jp": ""N02AG04 · Hydromorphone and Antispasmodics ANALGESICS", "status": "PNP" },
+Hydromorfon og Spasmolytika"
+{ "name_jp": ""N02AJ06 · Codeine and Paracetamol ANALGESICS", "status": "PNP" },
+Altermol · Efferalgan Codeine · Klipal · Kodein / Paracetamol · Kodein og Paracetamol · Kodipar · Panacod · Paracetamol / Codeine · Paralgin Forte · Paralgin Major · Paramax-cod · Parkódín · Parkódín Forte · Pinex Comp · Pinex Forte · Talvosilen · Talvosilen Forte · Ultracod"
+{ "name_jp": ""N02AX02 · Tramadol ANALGESICS", "status": "PNP" },
+Dolatramyl · Dolol · Gemadol · Mandolgin · Nobligan · Poltram · Tadol · Tradolan · Tradonal · Tramadol · Tramadolhydrochlorid · Tramagetic · Tramal · Tramium · Tramól-l · Tramundin · Zytram"
+{ "name_jp": ""N02AX06 · Tapentadol ANALGESICS", "status": "PNP" },
+Adoben · Binatta · Palexia · Tadomon · Tapentadol"
+{ "name_jp": ""N02BA01 · Acetylsalicylic Acid ANALGESICS", "status": "NP" },
+Acetilsalicilato · Acetylsalicylsäure · Acetylsalisylsyre · Acide Acetylsalicylique · Acido Acetilsalicilico · Alka-Seltzer · Aspirin · Bonapiryna · Disperin · Disprin · Etopiryna · Eupirin · Gripblocker · Inyesprin · Magnyl · Maxipirin · Polopiryna · Ultrapiryna · Ultrapiryna Forte"
+{ "name_jp": ""N02BA11 · Diflunisal ANALGESICS", "status": "NP" },
+Attrogy · Diflunisal"
+{ "name_jp": ""N02BA51 · Acetylsalicylic Acid, Combinations Excl. Psycholeptics ANALGESICS", "status": "NP" },
+Antygrypin · Ascalcin Plus · Aspirin c · Aspirin c Forte · Coffepirine · Dampiryna · Etopiryna · Etopiryna Kontrol · Excedrin Migrastop · Finrexin · Flucontrol Symptom · Gripex · Kopiryna · Maxipirin c · Migromin · Polopiryna c · Polopiryna c Plus · Przeziebienie i Grypa · Ring · Treo · Treotabs · Triplo · Ultrapiryna c · Ultrapiryna Plus · Upsarin c"
+{ "name_jp": ""N02BE01 · Paracetamol ANALGESICS", "status": "PNP" },
+Acenol · Acenol Forte · Acetamol · Apap · Apap Forte · Apenal · Apotel · Arax · Arax Forte · Calpol · Dolorin · Efferalgan · Efferalgan Forte · Excedrin · Fervex · Fervex Forte · Feverinex · Gemipar · Infacetamol · Kabimol · Megapar · Megapar Forte · Metafen · Mexalen · Pamol · Panacit · Panadol · Panapar · Panaprex · Panodil · Para-Tabs · Paracet · Paracetamol · Paracetamol Forte · Paracetamolum · Paradol · Paramax · Paramax Forte · Paramig · Paratabs · Paravit · Pedicetamol · Pinex · Tapamol · Theraflu · Therimin"
+{ "name_jp": ""N02BE05 · Propacetamol ANALGESICS", "status": "PNP" },
+Propacetamol"
+{ "name_jp": ""N02BF01 · Gabapentin ANALGESICS", "status": "PNP" },
+Gabafarm · Gabagen · Gabaliquid Geriasan · Gabamed · Gabapenstad · Gabapentin · Gabaprozap · Gabaratio · Gabatifin · Gabrion · Neurisol · Neurontin · Shaktatin"
+{ "name_jp": ""N02BF02 · Pregabalin ANALGESICS", "status": "PNP" },
+Brieka · Lyribastad · Lyrica · Naxalgan · Pentegin · Pragiola · Preato · Pregabalin · Pregacam · Pregamid · Prelexa · Prelynca"
+{ "name_jp": ""N02BG08 · Ziconotide ANALGESICS", "status": "PNP" },
+Prialt · Zikonotid"
+{ "name_jp": ""N02BG10 · Cannabinoids ANALGESICS", "status": "PNP" },
+Adven · Astrum · Balanced · Bedica · Bediol · Bedrobinol · Bedrocan · Bedrolite · Cannabinoider · Cannabis oil Curaleaf · cbd · Hexacan · Sativex · thc"
+{ "name_jp": ""N02CC01 · Sumatriptan ANALGESICS", "status": "PNP" },
+Apomigra · Cinie · Frimig · Imigran · Migtan · Oriptan · Sumamigren · Sumanor · Sumatriptan · Sumigra · Sumore"
+{ "name_jp": ""N02CC02 · Naratriptan ANALGESICS", "status": "PNP" },
+Naramig · Naratriptan"
+{ "name_jp": ""N02CC03 · Zolmitriptan ANALGESICS", "status": "PNP" },
+Zolmiles · Zolmistad · Zolmitriptan · Zomig"
+{ "name_jp": ""N02CC04 · Rizatriptan ANALGESICS", "status": "PNP" },
+Clurizcare · Maxalt · Migrenofen · Rizapax · Rizasmelt · Rizastad · Rizatriptan · Rizatrix"
+{ "name_jp": ""N02CC05 · Almotriptan ANALGESICS", "status": "PNP" },
+Almogran · Almotriptan · Almozen · Dezamigren · Nomigren · Trymigan"
+{ "name_jp": ""N02CC06 · Eletriptan ANALGESICS", "status": "PNP" },
+Eletriptan · Relert · Relpax"
+{ "name_jp": ""N02CX02 · Clonidine ANALGESICS", "status": "NP" },
+Carexarit · Clonidine · Clopressan · Klonidin · Vempadix"
+{ "name_jp": ""N03AE01 · Clonazepam ANTIEPILEPTICS", "status": "PNP" },
+Clonazepam · Clonazepam Auden · Clonazepamum · Iqtopam · Klonafen · Klonazepam · Rivatril · Rivotril"
+{ "name_jp": ""N03AG04 · Vigabatrin ANTIEPILEPTICS", "status": "PNP" },
+Kigabeq · Sabril · Sabrilex · Vigabatrin"
+{ "name_jp": ""N03AX09 · Lamotrigine ANTIEPILEPTICS", "status": "PNP" },
+Epitrigine · Lamictal · Lamilept · Lamitrin · Lamodisp · Lamonor · Lamoprim · Lamotab · Lamotrigin · Lamotrix · Lanotok · Symla"
+{ "name_jp": ""N03AX14 · Levetiracetam ANTIEPILEPTICS", "status": "PNP" },
+Cezarius · Keppra · Kevesy · Larofec · Lepsitam · Levebon · Levetiracetam · Matever · Normeg · Polkepral · Pterocyn · Spritam · Tilamir · Trund · Vetira"
+{ "name_jp": ""N03AX15 · Zonisamide ANTIEPILEPTICS", "status": "PNP" },
+Zonegran · Zonisamid · Zonisamide · Zonisamidum"
+{ "name_jp": ""N03AX18 · Lacosamide ANTIEPILEPTICS", "status": "PNP" },
+Josamec · Lackepila · Lacosamid · Lacosamide · Lakosamid · Seizpat · Trelema · Vimpat · Zilibra"
+{ "name_jp": ""N03AX21 · Retigabine ANTIEPILEPTICS", "status": "PNP" },
+Retigabin"
+{ "name_jp": ""N04BA02 · Levodopa and Decarboxylase Inhibitor ANTI-PARKINSON DRUGS", "status": "PNP" },
+Bopazir · Carbidopa / Levodopa · Dopamar · Duodopa · Flexilev · Levocarb-gry · Levodop · Levodopa / Benserazid · Levodopa / Benserazide · Levodopa / Carbidopa · Levodopa og Dekarboksylasehemmer · Levodopa-Benserazid · Madopar · Nakom · Onerji · Parkador · Precifit · Sinemet · Sinemet Plus · Xevoben"
+{ "name_jp": ""N04BA03 · Levodopa, Decarboxylase Inhibitor and Comt Inhibitor ANTI-PARKINSON DRUGS", "status": "PNP" },
+Corbilta · Lecigon · Levodopa / Carbidopa / Entacapone · Levodopa Carbidopa Entacapone · Levodopa, Dekarboksylasehemmer og Comt-Hemmer · Pentiro · Stalevo"
+{ "name_jp": ""N04BC01 · Bromocriptine ANTI-PARKINSON DRUGS", "status": "PNP" },
+Bromokriptin · Parlodel"
+{ "name_jp": ""N04BC04 · Ropinirole ANTI-PARKINSON DRUGS", "status": "PNP" },
+Adartrel · Aparxon · Aporopin · Aropilo · Aztarol · Ceurolex · Nironovo · Polpix · Raponer · Repirol · Requip · Requip-Modutab · Rolpryna · Ropinirol · Ropinirole · Ropinor · Ropinostad · Ropodrin · Tremonix"
+{ "name_jp": ""N04BC05 · Pramipexole ANTI-PARKINSON DRUGS", "status": "PNP" },
+Glepark · Mariprax · Mirapexin · Oprymea · Pramipeksol · Pramipexol · Pramipexole · Sifrol"
+{ "name_jp": ""N04BC06 · Cabergoline ANTI-PARKINSON DRUGS", "status": "PNP" },
+Cabaser · Cabergolin · Kabergolin"
+{ "name_jp": ""N04BC07 · Apomorphine ANTI-PARKINSON DRUGS", "status": "PNP" },
+apo-go · Apogo · Apomorfin · Apomorphine · Britaject · Dacepton"
+{ "name_jp": ""N04BC09 · Rotigotine ANTI-PARKINSON DRUGS", "status": "PNP" },
+Kinparlev · Neupro · Rotigotin · Rotigotine"
+{ "name_jp": ""N04BD01 · Selegiline ANTI-PARKINSON DRUGS", "status": "PNP" },
+Eldepryl · Jumex · Segan · Selegilin · Selgres"
+{ "name_jp": ""N04BD02 · Rasagiline ANTI-PARKINSON DRUGS", "status": "PNP" },
+Asanix · Azilect · Ralago · Rasabon · Rasagilin · Rasagilina · Rasagiline"
+{ "name_jp": ""N04BX02 · Entacapone ANTI-PARKINSON DRUGS", "status": "PNP" },
+Comtan · Comtess · Entacapone · Entakapon"
+{ "name_jp": ""N05AA01 · Chlorpromazine PSYCHOLEPTICS", "status": "NP" },
+Chlorpromazine · Fenactil · Klorpromazin · Largactil"
+{ "name_jp": ""N05AA02 · Levomepromazine PSYCHOLEPTICS", "status": "NP" },
+Levomentis · Levomepromazin · Levomepromazine · Methoprazine · Nozinan · Tisercin"
+{ "name_jp": ""N05AB01 · Dixyrazine PSYCHOLEPTICS", "status": "PNP" },
+Diksyrazin"
+{ "name_jp": ""N05AB02 · Fluphenazine PSYCHOLEPTICS", "status": "NP" },
+Flufenazin · Fluphenazine · Modecate"
+{ "name_jp": ""N05AB03 · Perphenazine PSYCHOLEPTICS", "status": "PNP" },
+Peratsin · Perfenazin · Perphenazin · Trilafon"
+{ "name_jp": ""N05AB04 · Prochlorperazine PSYCHOLEPTICS", "status": "NP" },
+Chloropernazinum · Compro · Prochlorperazine · Proklorperazin · Stemetil"
+{ "name_jp": ""N05AB06 · Trifluoperazine PSYCHOLEPTICS", "status": "PNP" },
+Trifluoperazin"
+{ "name_jp": ""N05AD01 · Haloperidol PSYCHOLEPTICS", "status": "PNP" },
+Decaldol · Haldol · Haloperidol · Serenase"
+{ "name_jp": ""N05AD08 · Droperidol PSYCHOLEPTICS", "status": "PNP" },
+Dehydrobenzperidol · Dridol · Droperidol"
+{ "name_jp": ""N05AE03 · Sertindole PSYCHOLEPTICS", "status": "PNP" },
+Serdolect · Sertindol"
+{ "name_jp": ""N05AE04 · Ziprasidone PSYCHOLEPTICS", "status": "PNP" },
+Zeldox · Zipranova · Ziprasidon · Ziprasidone · Zypsila"
+{ "name_jp": ""N05AF01 · Flupentixol PSYCHOLEPTICS", "status": "PNP" },
+Fluanxol · Flupentiksol"
+{ "name_jp": ""N05AF03 · Chlorprothixene PSYCHOLEPTICS", "status": "PNP" },
+Chlorprothixen · Klorprotiksen · Truxal"
+{ "name_jp": ""N05AF05 · Zuclopenthixol PSYCHOLEPTICS", "status": "PNP" },
+Cisordinol · Cisordinol-Acutard · Clopixol · Clopixol-Depot · Zuklopentiksol"
+{ "name_jp": ""N05AH02 · Clozapine PSYCHOLEPTICS", "status": "PNP" },
+Ayupil · Clopizam · Cloprinex · Clozapin · Clozapine · Froidir · Klozapin · Klozapol · Leponex · Paxifar · Prizapin · Symcloza · Zaponex"
+{ "name_jp": ""N05AH03 · Olanzapine PSYCHOLEPTICS", "status": "PNP" },
+Anzorin · Egolanza · Farpenta · Kynapine · Nykob · Olanzapin · Olanzapina · Olanzapine · Olanzaran · Olanzin · Olazax · Olpinat · Olzapin · Ranofren · Zalasta · Zolafren · Zolaxa · Zopridoxin · Zylena · Zypadhera · Zyprexa"
+{ "name_jp": ""N05AH04 · Quetiapine PSYCHOLEPTICS", "status": "PNP" },
+Alcreno · Antoreq · Apotiapina · Biquetan · Bonogren · Etiagen · Kefrenex · Ketilept · Ketipinor · Ketrel · Kvelux · Kventiax · Kvetiapin · Kwetaplex · Kwetina · Kwexyma · Pinexet · Qetimed · Quentiax · Questax · Quetiapin · Quetiapina · Quetiapine · Seroquel · Setinin · Stadaquel · Symquel · Zenaxel"
+{ "name_jp": ""N05AL01 · Sulpiride PSYCHOLEPTICS", "status": "PNP" },
+Dogmatil · Sulpirid · Sulpiryd · Suprium"
+{ "name_jp": ""N05AL05 · Amisulpride PSYCHOLEPTICS", "status": "PNP" },
+Aktiprol · Amipryd · Amisan · Amisulprid · Amisulpryd · Aposuprid · Masultab · Solian · Symamis"
+{ "name_jp": ""N05AN01 · Lithium PSYCHOLEPTICS", "status": "NP" },
+Carblit · Hypnorex · li-Liquid · Litarex · Lithionit · Lithium · Lithium Carbonicum · Litio Carbonato · Litium · Litiumkarbonat · Lito · Priadel"
+{ "name_jp": ""N05AX12 · Aripiprazole PSYCHOLEPTICS", "status": "PNP" },
+Abilify · Abilium · Apiprax · Apra · Aribit · Aricogan · Aripilek · Aripiprazol · Aripiprazole · Aripsan · Arpixor · Arpoya · Aryfrenix · Arypiprazol · Aryzalera · Asduter · Explemed · Sisikabili · Tractiva"
+{ "name_jp": ""N05AX13 · Paliperidone PSYCHOLEPTICS", "status": "PNP" },
+Byannli · Denepra · Dopelir · Egoropal · Invega · Lodixeon · Niapelf · Palifren · Paliperidon · Paliperidone · Palix · Palmeux · Parnido · Poltraxin · Pratyria · Psokadron · Psylipax · Trevicta · Xeplion"
+{ "name_jp": ""N05BA01 · Diazepam PSYCHOLEPTICS", "status": "PNP" },
+Apozepam · Diapam · Diazepam · Diazepam-Lipuro · Medipam · Neorelium · Relanium · Relsed · Stesolid · Valium · Vival"
+{ "name_jp": ""N05BA04 · Oxazepam PSYCHOLEPTICS", "status": "PNP" },
+Delipam · Oksazepam · Opamox · Oxabenz · Oxamin · Oxapax · Oxazepam · Sobril"
+{ "name_jp": ""N05BA06 · Lorazepam PSYCHOLEPTICS", "status": "PNP" },
+Lirezid · Lorabex · Lorafen · Lorazepam · Rativor · Tavor · Temelor · Temesta"
+{ "name_jp": ""N05BA12 · Alprazolam PSYCHOLEPTICS", "status": "PNP" },
+Afobam · Alpragen · Alpraxil · Alprazolam · Alprox · Neurol · Tafil · Xanax · Xanor · Zomiren"
+{ "name_jp": ""N05BB01 · Hydroxyzine PSYCHOLEPTICS", "status": "PNP" },
+Atarax · Comfortin · Hydroksyzin · Hydroxyzine · Hydroxyzinhydrochlorid · Hydroxyzinum"
+{ "name_jp": ""N05BE01 · Buspirone PSYCHOLEPTICS", "status": "PNP" },
+Anksilon · Buripal · Busp · Buspiron · Buspirone · Spamilan"
+{ "name_jp": ""N05CC01 · Chloral Hydrate PSYCHOLEPTICS", "status": "PNP" },
+Kloralhydrat"
+{ "name_jp": ""N05CD05 · Triazolam PSYCHOLEPTICS", "status": "PNP" },
+Halcion · Triazolam"
+{ "name_jp": ""N05CD08 · Midazolam PSYCHOLEPTICS", "status": "PNP" },
+Buccolam · Dormicum · Epistatus · Medirom · Midanium · Midazolam · Midazolamum · Miprosed · Mizormic · Nozelam · Ozalin · Ozased · Senozam · Soloxelam"
+{ "name_jp": ""N05CF01 · Zopiclone PSYCHOLEPTICS", "status": "PNP" },
+Apodream · Dobroson · Imomed · Imovane · Imozop · Senzop · Somnols · Sonlax · Sonrest · Zopiclon · Zopiclone · Zopiklon · Zopinox · Zopitin"
+{ "name_jp": ""N05CF02 · Zolpidem PSYCHOLEPTICS", "status": "PNP" },
+apo-Zolpin · Apozolpin · Edluar · Hypnogen · Nasen · Noxizol · Onirex · Polsen · Sanval · Somnor · Stella · Stilnoct · Stilnox · Zolcare · Zolpic · Zolpidem · Zolpidemtartrat · Zolpigen · Zolsana · Zonoct"
+{ "name_jp": ""N05CF03 · Zaleplon PSYCHOLEPTICS", "status": "PNP" },
+Morfeo · Zaleplon"
+{ "name_jp": ""N05CH01 · Melatonin PSYCHOLEPTICS", "status": "PNP" },
+Ceyesta · Circadin · Dagravit · Kidmel · Lestinora · Mecastrin · Melabiorytm · Melanoc · Melasolaren · Melatal · Melatonin · Melatonina · Mellozzan · Noxarem · Orimelan · Roter · Senaxa · Sental · Slenyto · Syncropine · Voquily"
+{ "name_jp": ""N05CM06 · Propiomazine PSYCHOLEPTICS", "status": "NP" },
+Propavan · Propiomazin"
+{ "name_jp": ""N06AA04 · Clomipramine PSYCHOANALEPTICS", "status": "PNP" },
+Anafranil · Klomipramin"
+{ "name_jp": ""N06AA09 · Amitriptyline PSYCHOANALEPTICS", "status": "PNP" },
+Amitriptylin · Amitriptyline · Amitriptylinum · Saroten · Sarotex · Triptyl"
+{ "name_jp": ""N06AA10 · Nortriptyline PSYCHOANALEPTICS", "status": "PNP" },
+Noritren · Nortriptylin · Nortriptyline"
+{ "name_jp": ""N06AA21 · Maprotiline PSYCHOANALEPTICS", "status": "PNP" },
+Ludiomil · Maprotilin"
+{ "name_jp": ""N06AB03 · Fluoxetine PSYCHOANALEPTICS", "status": "NP" },
+Andepin · Bioxetin · Fluoksetin · Fluoksetyna · Fluoxeren · Fluoxetin · Flúoxetín · Fluoxetina · Fluoxetine · Fluxemed · Fluzap · Fontex · Hoanaca · Seromex · Seronil"
+{ "name_jp": ""N06AB04 · Citalopram PSYCHOANALEPTICS", "status": "PNP" },
+Aurex · Cipramil · Citabax · Cital · Citalopram · Citaxin · Citronil · Loxopram · Oropram · Pram · Sepram"
+{ "name_jp": ""N06AB05 · Paroxetine PSYCHOANALEPTICS", "status": "PNP" },
+Arketis · Euplix · Optipar · Parogen · Paroksetin · Paroxar · Paroxegen · Paroxetin · Paroxetine · Paroxinor · Paxetin · Paxicur · Paxtin · Rexetin · Seroxat · Xetanor · Zakkinter"
+{ "name_jp": ""N06AB06 · Sertraline PSYCHOANALEPTICS", "status": "PNP" },
+Apiolin · Aposerta · Asentra · Asertin · Miravil · Sastium · Sertagen · Sertral · Sertralin · Sertralina · Sertraline · Sertramyl · Sertranorm · Sertrix · Sertrone · Setaloft · Stimuloton · Zoloft · Zotral"
+{ "name_jp": ""N06AB08 · Fluvoxamine PSYCHOANALEPTICS", "status": "PNP" },
+Dumirox · Fevarin · Fluvoksamin · Fluvosol"
+{ "name_jp": ""N06AB10 · Escitalopram PSYCHOANALEPTICS", "status": "PNP" },
+Aciprex · Apoescitaxin · Betesda · Cipralex · Depralin · Elicea · Escipram · Escitalopram · Escitil · Esopram · Esscitaxin · Lexapro · Mozarin · Nexpram · Oroes · Pralex · Pramatis · Servenon · Symescital"
+{ "name_jp": ""N06AG02 · Moclobemide PSYCHOANALEPTICS", "status": "PNP" },
+Aurorix · Manerix · Mobemid · Moclobemid · Moclostad · Moklar · Moklobemid"
+{ "name_jp": ""N06AX02 · Tryptophan PSYCHOANALEPTICS", "status": "PNP" },
+l-Tryptophan · Tryptofan"
+{ "name_jp": ""N06AX03 · Mianserin PSYCHOANALEPTICS", "status": "PNP" },
+Deprexolet · Lerivon · Miansec · Miansegen · Mianserin · Mianserinhydrochlorid · Tolvon"
+{ "name_jp": ""N06AX05 · Trazodone PSYCHOANALEPTICS", "status": "PNP" },
+Azona · Azoneurax · Molipaxin · Trazodon · Trazodone · Trittico"
+{ "name_jp": ""N06AX11 · Mirtazapine PSYCHOANALEPTICS", "status": "PNP" },
+Auromirta · Combar · Emir · Míron · Mirtagen · Mirtazapin · Mirtazapine · Mirtin · Mirtor · Mirzaten · Punglydep · Remeron · Remeron-s · Remirta"
+{ "name_jp": ""N06AX16 · Venlafaxine PSYCHOANALEPTICS", "status": "PNP" },
+Alventa · Axyven · Efastad · Efectin · Efexor · Faxigen · Faxolet · Lafactin · Oriven · Panofen · Prefaxine · Symfaxin · Vefamyl · Velafax · Velaxin · Velocin · Venlafaksin · Venlafaxin · Venlafaxine · Venlazid · Venlectine · Venorion"
+{ "name_jp": ""N06AX18 · Reboxetine PSYCHOANALEPTICS", "status": "PNP" },
+Edronax · Reboksetin"
+{ "name_jp": ""N06AX21 · Duloxetine PSYCHOANALEPTICS", "status": "PNP" },
+Ariclaim · Aritavi · Aurodulox · Cymbalta · Depratal · Duciltia · Dulofor · Duloksetin · Duloxetin · Duloxetine · Dulsevia · Dulxetenon · Dutilox · Loxentia · Xeristar · Yentreve"
+{ "name_jp": ""N06AX22 · Agomelatine PSYCHOANALEPTICS", "status": "PNP" },
+Agodep · Agolek · Agomelatin · Agomelatine · Agomelatyna · Lamegom · Thymanax · Valdoxan"
+{ "name_jp": ""N06BA02 · Dexamfetamine PSYCHOANALEPTICS", "status": "PNP" },
+Adhesa · Attadex · Attentin · Deksamfetamin · Dexamfetamin · Dexamfetamine · Dexamfetaminsulfat · Dexatin · Dexedrine · Dexfarm · Dextroamphetamine · Metamina · Tentin"
+{ "name_jp": ""N06BA04 · Methylphenidate PSYCHOANALEPTICS", "status": "PNP" },
+Adehader · Atenza · Atexam · Cognimentin · Concerta · Delmosart · Equasym · Medanef · Medikinet · Methylphenidat · Methylphenidate · Methylphenidatehydrochlorid · Methylphenidathydrochlorid · Methyx · Metyfen · Metylfenidat · Metyrol · Mindetra · Motiron · Quillichew · Ritalin · Symkinet · Tuzulby"
+{ "name_jp": ""N06BA07 · Modafinil PSYCHOANALEPTICS", "status": "PNP" },
+Actimodan · Aspendos · Modafinil · Modapram · Modiodal · Myldamo"
+{ "name_jp": ""N06BA09 · Atomoxetine PSYCHOANALEPTICS", "status": "PNP" },
+Atofab · Atomoksetin · Atomoksetyna · Atomoxetin · Atomoxetin Beta · Atomoxetina · Atomoxetine · Auroxetyn · Kamaptin · Konaten · Strattera"
+{ "name_jp": ""N06BA12 · Lisdexamfetamine PSYCHOANALEPTICS", "status": "PNP" },
+Adixemin · Aduvanz · Balidax · Dexhility · Dilida · Eldefab · Elvanse · Lexaliz · Lisdeksamfetamin · Lisdexamfetamin · Lisdexamfetamindimesilat · Lisdexamfetamindimesylate · Lisdexamfetamine · Lissidexanz · Silarosa · Volidax · Volidexa · Vyvanse"
+{ "name_jp": ""N06BC01 · Caffeine PSYCHOANALEPTICS", "status": "PNP" },
+Caffeine · Coffeini Citras · Gencebok · Kofeiny · Koffein · Peyona"
+{ "name_jp": ""N06BX03 · Piracetam PSYCHOANALEPTICS", "status": "PNP" },
+Biotropil · Lucetam · Memoniq · Memotropil · Nootropil · Piracetam · Recodium"
+{ "name_jp": ""N06DA03 · Rivastigmine PSYCHOANALEPTICS", "status": "PNP" },
+Atmina · Evertas · Exelon · Nimvastid · Prometax · Rigmin · Ristidic · Rivaldo · Rivastigmin · Rivastigmine · Rivastor · Rywastigmina · Rywastygmina · Strivalon"
+{ "name_jp": ""N06DA04 · Galantamine PSYCHOANALEPTICS", "status": "PNP" },
+Galantamin · Galsya · Nivalin · Reminyl"
+{ "name_jp": ""N06DX01 · Memantine PSYCHOANALEPTICS", "status": "PNP" },
+Adaxor · Alsemora · Auromemo · Axura · Biomentin · Cognomem · Ebixa · Marbodin · Marixino · Memantin · Memantine · Memantinhydrochlorid · Memapax · Memigmin · Memolek · Mentixa · Mirvedol · Nemdatine · Nemedan · Polmatine · Zenmem"
+{ "name_jp": ""N07AA01 · Neostigmine OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Neostig · Neostigmin · Polstigminum"
+{ "name_jp": ""N07AA02 · Pyridostigmine OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Mestinon · Pyridostigmin · Pyridostigminbromid · Stygmistanon"
+{ "name_jp": ""N07AA30 · Ambenonium OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Ambenonium · Mytelase"
+{ "name_jp": ""N07AA51 · Neostigmine, Combinations OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Copneg · Glycostigmin · Neostigmin, Kombinasjoner · Novistig · Robinul-Neostigmin"
+{ "name_jp": ""N07AX01 · Pilocarpine OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Pilokarpin · Salagen"
+{ "name_jp": ""N07BA01 · Nicotine OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Nicolex · Nicorama · Nicorette · Nicotinell · Niko · Nikotin · Niquitin · Zonnic"
+{ "name_jp": ""N07BA03 · Varenicline OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Champix · Civarenix · Vareniclin · Varenicline · Varenikliini · Vareniklin"
+{ "name_jp": ""N07BB03 · Acamprosate OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Acamprosatcalcium · Akamprosat · Campral"
+{ "name_jp": ""N07BB04 · Naltrexone OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Adepend · Maltrecol · Naldix · Nalorex · Naltex · Naltrekson · Naltrexon · Naltrexon Vitaflo · Naltrexone"
+{ "name_jp": ""N07BC01 · Buprenorphine OTHER NERVOUS SYSTEM DRUGS", "status": "NP" },
+Buprenorfin · Buprenorphin · Buprenorphine · Buvidal · Espranor · Sixmo · Subutex"
+{ "name_jp": ""N07BC02 · Methadone OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Dolmed · Marlodon · Metadon · Methadon · Methadone · Misyo · Sublana"
+{ "name_jp": ""N07CA01 · Betahistine OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Apobetina · Aurobetina · Betahistin · Betahistindihydrochlorid · Betahistine · Betahistyna · Betanil Forte · Betaserc · Histigen · Lavistina · Menisy · Polvertic · Serc · Verticontrol · Vertisan · Vertix · Vestibo · Virtago"
+{ "name_jp": ""N07XX04 · Sodium Oxybate OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Arixobat · Natriumoksibaatti · Natriumoksybat · Natriumoxibat · Natriumoxybat · Oxiore · Sodium Oxybate · Xyrem"
+{ "name_jp": ""N07XX07 · Fampridine OTHER NERVOUS SYSTEM DRUGS", "status": "PNP" },
+Fampridin · Fampridine · Fampyra"
+{ "name_jp": ""P01AB01 · Metronidazole ANTIPROTOZOALS", "status": "PNP" },
+Arilin · Flagyl · Flagyl-s · Metronidazol · Trikozol"
+{ "name_jp": ""P01AB02 · Tinidazole ANTIPROTOZOALS", "status": "PNP" },
+Fasigyne · Tinidazol"
+{ "name_jp": ""P01AX06 · Atovaquone ANTIPROTOZOALS", "status": "PNP" },
+Atovakvon · Atovaquon · Atovaquone · Wellvone"
+{ "name_jp": ""P01BB01 · Proguanil ANTIPROTOZOALS", "status": "PNP" },
+Proguanil"
+{ "name_jp": ""P01BB51 · Proguanil and Atovaquone ANTIPROTOZOALS", "status": "PNP" },
+Falcimar · Malarone · Malastad · Proguanil / Atovaquone · Provaqomyl"
+{ "name_jp": ""P01CX01 · Pentamidine Isethionate ANTIPROTOZOALS", "status": "PNP" },
+Nebupent · Pentacarinat · Pentamidine · Pentamidine Diisetionate · Pentamidinisetionat"
+{ "name_jp": ""P01CX04 · Miltefosine ANTIPROTOZOALS", "status": "NP" },
+Impavido · Miltefosin"
+{ "name_jp": ""P02CA01 · Mebendazole ANTHELMINTICS", "status": "PNP" },
+Mebendazol · Vermox"
+{ "name_jp": ""P02CF01 · Ivermectin ANTHELMINTICS", "status": "PNP" },
+Ivermcetin · Ivermectin · Ivermectine · Ivermektin · Iverprasip · Mecveruum · Posela · Scatol · Scavertin · Stromectol · Vesarco"
+{ "name_jp": ""P02CX01 · Pyrvinium ANTHELMINTICS", "status": "NP" },
+Pyrvin"
+{ "name_jp": ""P02DA01 · Niclosamide ANTHELMINTICS", "status": "PNP" },
+Niklosamid · Yomesan"
+{ "name_jp": ""P03AC04 · Permethrin ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS", "status": "PNP" },
+Infectoscab · nix · Permethrin · Permetrin · Permetryna Scabinol · Permetryna Scabinol Forte · Perxine · Sora Forte"
+{ "name_jp": ""R01AA05 · Oxymetazoline NASAL PREPARATIONS", "status": "PNP" },
+Acatar · Afrin · Afrin Glicerol · Nasivin · Nasivin Vicks · Nezeril · Nosox · Oksymetazolin · Oxalin · Oxyrin · Rhinox · Sinuzolin · Vicks · Xylorin Protect"
+{ "name_jp": ""R01AA14 · Epinephrine NASAL PREPARATIONS", "status": "NP" },
+Adrenalin"
+{ "name_jp": ""R01AC01 · Cromoglicic Acid NASAL PREPARATIONS", "status": "PNP" },
+Cromohexal · Natriumkromoglikat · Polcrom"
+{ "name_jp": ""R01AC02 · Levocabastine NASAL PREPARATIONS", "status": "PNP" },
+Benaliv · Levokabastin · Livostin"
+{ "name_jp": ""R01AD01 · Beclometasone NASAL PREPARATIONS", "status": "NP" },
+Beclonasal · Beclonasal Forte · Beconase · Beklometason"
+{ "name_jp": ""R01AD02 · Prednisolone NASAL PREPARATIONS", "status": "PNP" },
+Prednisolon"
+{ "name_jp": ""R01AD05 · Budesonide NASAL PREPARATIONS", "status": "NP" },
+Benarhin · Budesonid · Livicort · Rhinocort · Tafen"
+{ "name_jp": ""R01AD08 · Fluticasone NASAL PREPARATIONS", "status": "NP" },
+Fanipos · Flixonase · Flixonase Nasule · Flurhin · Fluticasonpropionat · Flutide · Flutikason · Fluttasino · Nasofan · Otrason · Otriallergy"
+{ "name_jp": ""R01AD09 · Mometasone NASAL PREPARATIONS", "status": "NP" },
+Aleric · Aphiahsone · Eztom · Hitaxa Metmin-Spray · Kalmente · Ledercort · Metmin · Momenex · Momesonex · Momester · Mometason · Mometasone · Mometasonfuroat · Mometazon · Mommox · Nasometin · Nasonex · Nasopronal · Nenoxin · Niciane · Pronasal · Rinometasone · Zodgane"
+{ "name_jp": ""R01AD11 · Triamcinolone NASAL PREPARATIONS", "status": "NP" },
+Nasacort · Triamcinolon · Triamcinolone"
+{ "name_jp": ""R01AD12 · Fluticasone Furoate NASAL PREPARATIONS", "status": "PNP" },
+Alisade · Avamys · Dordask · Fluticasone · Fluticasonfuroaat · Fluticasonfuroat · Flutikasonfuroat · Furocort · Polaro"
+{ "name_jp": ""R01AX03 · Ipratropium Bromide NASAL PREPARATIONS", "status": "NP" },
+Atrovent · Ipratropium · Ipratropiumbromid · Iprazap · Lomuspray · Rinivent"
+{ "name_jp": ""R01BA01 · Phenylpropanolamine NASAL PREPARATIONS", "status": "NP" },
+Fenylpropanolamin · Rinexin"
+{ "name_jp": ""R02AD02 · Lidocaine THROAT PREPARATIONS", "status": "PNP" },
+Lidokain · Trachisan"
+{ "name_jp": ""R03AA01 · Epinephrine DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Adrenalin · Asthmanefrin · s2 Racepinephrine"
+{ "name_jp": ""R03AC02 · Salbutamol DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Airomir · Airsalb · Aspulmo · Buventol · Lerhasa · Sabumalin · Salamol · Salbu · Salbuair · Salbutamol · Sultanol · Sultanol Forte · Ventilastin · Ventolin · Ventoline"
+{ "name_jp": ""R03AC03 · Terbutaline DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Bricanyl · Terbutalin · Terbutalinsulfat"
+{ "name_jp": ""R03AC04 · Fenoterol DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Berotec · Fenoterol"
+{ "name_jp": ""R03AC12 · Salmeterol DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Asmetic · Pulmoterol · Pulveril · Salmeterol · Serevent"
+{ "name_jp": ""R03AC13 · Formoterol DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Atimos · Chemoterol · Foradil · Foramed · Forastmin · Formaxa · Formo · Formochem · Formoterol · Formotifi · Oxis · Oxodil · Zafiron"
+{ "name_jp": ""R03AK04 · Salbutamol and Sodium Cromoglicate DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Ipratropium /Salbutamol · Salbutamol og Natriumkromoglikat"
+{ "name_jp": ""R03AK06 · Salmeterol and Fluticasone DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Aerivio · Airexar · Airflusal · Asaris · Asaris Pmdi · Aurodisc · Aurospira · Bropair · Comboterol · Duexon · Flixodil · Flusacomb · Fluticomb · Fullhale · Neuair · Salflumix · Salmeterol / Fluticason · Salmeterol / Fluticasone · Salmeterol / Fluticasonpropionat · Salmeterol og Flutikason · Salmex · Seffalair · Serefarm · Seretide · Serkep · Symflusal · Veriflo"
+{ "name_jp": ""R03AK07 · Formoterol and Budesonide DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Airbufo · Biresp · Budesonid / Formoterolfumaratdihydrat · Bufar · Bufomix · Duoresp · Formoterol og Budesonid · Goresp · Oxodil · Pulmoton · Symbicort · Symbicort Forte"
+{ "name_jp": ""R03AK11 · Formoterol and Fluticasone DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Flutiform · Formoterol og Flutikason"
+{ "name_jp": ""R03BA01 · Beclometasone DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Aerobec · Beclomet · Beclometasondipropionat · Beklometason · Soprobec"
+{ "name_jp": ""R03BA02 · Budesonide DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+bds · Benodil · Budenova · Budesonid · Budesonide · Budezonid · Budiair · Budipulmi · Budixon · Giona · Miflonide · Nebbud · Nebulin · Novopulmon · Ondemet · Pulmicort · Resbud · Ribuspir · Spirocort"
+{ "name_jp": ""R03BA05 · Fluticasone DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Flixotide · Flurhinal · Fluticasonpropionat · Flutide · Flutikason · Flutixon · Icsori"
+{ "name_jp": ""R03BA07 · Mometasone DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Asmanex · Mometason"
+{ "name_jp": ""R03BB01 · Ipratropium Bromide DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Atrodil · Atrovent · Ipratropiumbromid · Ipravent · Ipraxa"
+{ "name_jp": ""R03BB04 · Tiotropium Bromide DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Acopair · Braltus · Gartior · Lungamo · Nuodil · Ontipria · Sirkava · Spiriva · Srivasso · Tiogiva · Tiotropium · Tiotropiumbromid"
+{ "name_jp": ""R03BC01 · Cromoglicic Acid DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Dncg · Lomudal · Natriumkromoglikat"
+{ "name_jp": ""R03CA02 · Ephedrine DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Efedrin · Ephedrinum"
+{ "name_jp": ""R03CC02 · Salbutamol DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Salbutamol · Ventilan · Ventolin · Ventoline"
+{ "name_jp": ""R03CC03 · Terbutaline DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "NP" },
+Bricanyl · Terbasmin · Terbutalin · Terbutaline"
+{ "name_jp": ""R03CC12 · Bambuterol DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Bambuterol"
+{ "name_jp": ""R03DA02 · Choline Theophyllinate DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Kolinteofyllinat"
+{ "name_jp": ""R03DA04 · Theophylline DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Bronchoretard · Euphyllin · Teofyllin · Teromol · Theo-dur · Theophyllinum · Theospirex · Unixan"
+{ "name_jp": ""R03DA05 · Aminophylline DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES", "status": "PNP" },
+Aminocont · Aminofilina · Aminofillina · Aminophylline · Teofyllinetylendiamin"
+{ "name_jp": ""R05CB01 · Acetylcysteine COUGH AND COLD PREPARATIONS", "status": "NP" },
+acc · acc Optima · Aceflucil · Acetylcystein · Acetylcysteinum Flegamina · Bisolaclar · Bronkyl · Bronkyl Forte · Fluimucil Forte · Fluimucil Muko · Granon · Meditus · Muccosinal · Mucoatac · Mucofortin · Mucolysin · Mucomyst · Mucoratio · Múkósín · n-Acetyl Cysteine · Respifortin · Tussicom"
+{ "name_jp": ""R05CB02 · Bromhexine COUGH AND COLD PREPARATIONS", "status": "PNP" },
+Bisolvon · Bromheksin · Bromhexin · Flegafortan · Flegamina · Flegtac · Medipekt · Sínex"
+{ "name_jp": ""R05CB13 · Dornase Alfa (Desoxyribonuclease) COUGH AND COLD PREPARATIONS", "status": "NP" },
+Dornase Alfa (Desoksyribonuklease) · Pulmozyme"
+{ "name_jp": ""R05DA04 · Codeine COUGH AND COLD PREPARATIONS", "status": "PNP" },
+Herbapini · Kodein · Neoazarina · Sirupus Pini Compositus"
+{ "name_jp": ""R06AA09 · Doxylamine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Benosen · Doksylamin · Doksylamina · Dormidina Doxilamina · Dorminox · Dormix · Doxylamina · Doxylamine · Doxypat · Nitedor · Noctis · Noctis Forte · Senamina · Senamina Forte · Sentino · Sentino Forte · Sonoxen · Sonoxen Forte · Zonat"
+{ "name_jp": ""R06AA59 · Doxylamine, Combinations ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Bonjesta · Doksylamin, Kombinasjoner · Embagyn · Xonvea"
+{ "name_jp": ""R06AD01 · Alimemazine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Alimemazin · Theralene"
+{ "name_jp": ""R06AD02 · Promethazine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Diphergan · Phenergan · Polfergan · Prometazin · Promethazin"
+{ "name_jp": ""R06AD03 · Thiethylperazine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Tietylperazin · Torecan"
+{ "name_jp": ""R06AE03 · Cyclizine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Cyclizine · Gotur · Marzine · Syklizin · Valoid"
+{ "name_jp": ""R06AE07 · Cetirizine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "NP" },
+Alermed · Alerzina · Allemax · Allertec · Alnok · Amertil · Amertil bio · Benaday · Cetalergin · Cetigran · Cetimax · Cetip · Cetiriva · Cetirizin · Cetirizindihydrochlorid · Cetirizine · Cetoalergedd · Cetririzinum · Cetrix · Cetyryzyna · Heinix · Histasín · Histec · Letizen · Vialerg · Zensitin · Zyrtec"
+{ "name_jp": ""R06AX13 · Loratadine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Aleric Lora · Claritine · Clarityn · Flonidan · Loratadin · Loratadine · Loratadyna · Loratadyna Pylox · Loratan · Lóritín · Mildin · Nasometin Alergia"
+{ "name_jp": ""R06AX22 · Ebastine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Ebastin · Evastix · Kestine · Kestox · Pollastin"
+{ "name_jp": ""R06AX25 · Mizolastine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Mizolastin"
+{ "name_jp": ""R06AX26 · Fexofenadine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Allegra · Allegra Telfast · Allertec Fexo · Alnodine · Alterfast · Altifex · Clarifast · Feksofenadin · Fexahist · Fexofast · Fexofenadin · Fexofenadine · Fexofenadinhydrochlorid · Fexofenadini · Histafast · Nefoxef · Telfast · Telfexo"
+{ "name_jp": ""R06AX27 · Desloratadine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Aerius · Alerdes · Alergoteva · Aleric Deslo · Azomyr · Caredin · Dasergin · Dasselta · Delortan · Desetax · Deslodyna · Desloratadin · Desloratadine · Desloratadyna · Deslox · Desmeradia · Destamin · Dynid · Dynid gem · Flynise · Goldesin Alerstop · Hitaxa · Jovesto · Kevenix · Neoclarityn · Teslor · Valora"
+{ "name_jp": ""R06AX28 · Rupatadine ANTIHISTAMINES FOR SYSTEMIC USE", "status": "PNP" },
+Alerprof · Rudavane · Rupafin · Rupaller · Rupatadin · Rupatadine · Rupatadinum · Rupaxa · Rupiron · Rupoclar · Rupurix · Urtimed"
+{ "name_jp": ""R07AA02 · Natural Phospholipids OTHER RESPIRATORY SYSTEM PRODUCTS", "status": "NP" },
+Curosurf · Naturlige Fosfolipider"
+{ "name_jp": ""S01AA01 · Chloramphenicol OPHTHALMOLOGICALS", "status": "PNP" },
+Kloramfenikol · Oftan Akvakol · Oftan Chlora"
+{ "name_jp": ""S01AA02 · Chlortetracycline OPHTHALMOLOGICALS", "status": "PNP" },
+Aureomycin · Klortetrasyklin"
+{ "name_jp": ""S01AA12 · Tobramycin OPHTHALMOLOGICALS", "status": "NP" },
+Tobral · Tobramycin · Tobrex · Tobrexan · Tobrosopt"
+{ "name_jp": ""S01AA13 · Fusidic Acid OPHTHALMOLOGICALS", "status": "NP" },
+Fucithalmic · Fusidic Acid · Fusidinsyre"
+{ "name_jp": ""S01AA20 · Antibiotics in Combination With Other Drugs OPHTHALMOLOGICALS", "status": "PNP" },
+Antibiotika i Kombinasjoner med Andre Midler"
+{ "name_jp": ""S01AD03 · Aciclovir OPHTHALMOLOGICALS", "status": "NP" },
+Aciclovir · Aciklovir · Okicare · Viru · Xorox"
+{ "name_jp": ""S01AD08 · Fomivirsen OPHTHALMOLOGICALS", "status": "NP" },
+Fomivirsen"
+{ "name_jp": ""S01AE03 · Ciprofloxacin OPHTHALMOLOGICALS", "status": "PNP" },
+Cilox · Ciloxan · Ciprofloksacin · Cipronex"
+{ "name_jp": ""S01AE07 · Moxifloxacin OPHTHALMOLOGICALS", "status": "NP" },
+Flomixa · Floxamic · Moksifloksacin · Monafox · Moxifloxacinum · Vamocin · Vigamox · Xiflodrop"
+{ "name_jp": ""S01AX05 · Bibrocathol OPHTHALMOLOGICALS", "status": "NP" },
+Bibrocathol · Bibrokatol · Posiforlid"
+{ "name_jp": ""S01BA01 · Dexamethasone OPHTHALMOLOGICALS", "status": "NP" },
+Axiumopto · Darazur · Deksametason · Demezon · Dexa-Sine · Dexafree · Dexamethason · Dexamethasone · Dexanova · Dexaprotect · Dexozed · Etafry · Isopto-Maxidex · Maxidex · Monopex · Oftan Dexa · Opnol · Oratoria · Ozurdex · Spersadex"
+{ "name_jp": ""S01BA02 · Hydrocortisone OPHTHALMOLOGICALS", "status": "NP" },
+Hydrokortison · Softacort"
+{ "name_jp": ""S01BA04 · Prednisolone OPHTHALMOLOGICALS", "status": "NP" },
+Pred Forte · Pred-Ophtalene · Predni · Prednisolon · Prednisolone · Provistopto · Ultracortenol"
+{ "name_jp": ""S01BA05 · Triamcinolone OPHTHALMOLOGICALS", "status": "NP" },
+Triamcinolon · Triesence"
+{ "name_jp": ""S01BA13 · Rimexolone OPHTHALMOLOGICALS", "status": "NP" },
+Rimeksolon"
+{ "name_jp": ""S01BC03 · Diclofenac OPHTHALMOLOGICALS", "status": "NP" },
+Diclo-Vision · Dicloabak · Diclofenac · Diclofitil · Difadol · Diklofenak · Naclof · Voltabak · Voltaren · Voltaren Ophtha"
+{ "name_jp": ""S01BC10 · Nepafenac OPHTHALMOLOGICALS", "status": "NP" },
+Nepafenak · Nevanac"
+{ "name_jp": ""S01BC11 · Bromfenac OPHTHALMOLOGICALS", "status": "NP" },
+Brofestill · Bromfenak · Infladrop · Yellox"
+{ "name_jp": ""S01CA01 · Dexamethasone and Antiinfectives OPHTHALMOLOGICALS", "status": "PNP" },
+Brazoflamin · Deksametason og Antiinfektiva · Dexamcol · Dexamytrex · Ducressa · Maxitrol · Netaxen · Oftan Dexa-Chlora · Oridecin · Spersadex Comp · Spersadex Kloramfenikol · Tobradex · Tobrasone · Tobrosopt-dex · Toflacort"
+{ "name_jp": ""S01CB02 · Prednisolone OPHTHALMOLOGICALS", "status": "PNP" },
+Prednisolon"
+{ "name_jp": ""S01EA01 · Epinephrine OPHTHALMOLOGICALS", "status": "NP" },
+Adrenalin"
+{ "name_jp": ""S01EA02 · Dipivefrine OPHTHALMOLOGICALS", "status": "NP" },
+Dipivefrin"
+{ "name_jp": ""S01EA03 · Apraclonidine OPHTHALMOLOGICALS", "status": "NP" },
+Apraklonidin · Iopidine"
+{ "name_jp": ""S01EA04 · Clonidine OPHTHALMOLOGICALS", "status": "NP" },
+Klonidin"
+{ "name_jp": ""S01EA05 · Brimonidine OPHTHALMOLOGICALS", "status": "NP" },
+Alphagan · Biprolast · Briglau · Briglau Free · Brimogen · Brimonidin · Brimonidintartrat · Brimozept · Brymont · Glaudin · Luxfen · Oculobrim"
+{ "name_jp": ""S01EB01 · Pilocarpine OPHTHALMOLOGICALS", "status": "PNP" },
+Dropilton · Isopto Carpine · Pilocarpin · Pilocarpina · Pilocarpine · Pilocarpinum · Pilokarpin · Pilomann"
+{ "name_jp": ""S01EB02 · Carbachol OPHTHALMOLOGICALS", "status": "PNP" },
+Karbakolin · Miostat"
+{ "name_jp": ""S01EB09 · Acetylcholine OPHTHALMOLOGICALS", "status": "NP" },
+Acetilcolina Cusi · Acetylkolin · Miochol-e · Miovisin"
+{ "name_jp": ""S01EC03 · Dorzolamide OPHTHALMOLOGICALS", "status": "PNP" },
+Delazo · Dorzolamid · Dorzolamide · Dorzoma · Dorzostill · Itoco · Nodofree · Nodom · Odyral · Oftidor · Rozalin · Trusopt · Trusopt-s · Vizidor"
+{ "name_jp": ""S01EC04 · Brinzolamide OPHTHALMOLOGICALS", "status": "PNP" },
+Azopt · Brinzolamid · Brinzolamide · Optilamid"
+{ "name_jp": ""S01ED01 · Timolol OPHTHALMOLOGICALS", "status": "NP" },
+Cusimolol · Eyopto · Oftan · Oftan Timolol · Oftensin · Optimol · Timo-Comod · Timogel · Timolol · Timoptic · Timoptol · Timosan · Vizioblok"
+{ "name_jp": ""S01ED02 · Betaxolol OPHTHALMOLOGICALS", "status": "NP" },
+Betaksolol · Betoptic · Optibetol"
+{ "name_jp": ""S01ED05 · Carteolol OPHTHALMOLOGICALS", "status": "NP" },
+Carteol · Karteolol"
+{ "name_jp": ""S01ED51 · Timolol, Combinations OPHTHALMOLOGICALS", "status": "PNP" },
+Akistan · Apleona · Arzotilol · Azarga · Betalataz · Bimabloc · Bimaroz · Bimatoprost · Bimatoprost / Timolol · Bimifree · Bimtim · Bitifrin · Brimonidine / Timolol · Brintox · Brinzolamid / Timolol · Brinzolamide / Timolol · Combigan · Cosopt · Costad · Dorlatim · Dorzolamid + Timolol · Dorzolamid / Timolol · Dorzolamid Comp · Dorzolamide / Timolol · Dorzolamidum + Timololum · Dorzolamidum+Timololum · Dualkopt · Dualux · Duelym · Duokopt · Duotrav · Eltenodo · Filiop · Fixapost · Fixaprost · Fixopost · Fotil · Galya · Ganfort · Ganzed · Glaukostad · Jokath · Kivizidiale · Latacom · Latacomp · Latanoprost / Timolol · Latanostad Comp · Lataxin · Latiotim · Lenigron · Nodofree · Nodom · Oculokom · Odyralduo · Oftastad Comp · Oftidorix · Rozacom · Rozaduo · Tafluprost / Timolol · Tafluprost Timolol · Taptiqom · Tavu · Tidimaz · Tilaprox · Timolol, Kombinasjoner · Tipifree · Tirzopt · Travabloc · Travoprost / Timolol · Trevicopto · Trevicopto Comp · Vizidor · Vizidorduo · Vizilatan · Vizilaticom · Vizimaco · Xalacom · Xalcom · Xalofree · Xaloptic · Xatabloc"
+{ "name_jp": ""S01EE01 · Latanoprost OPHTHALMOLOGICALS", "status": "NP" },
+Akistan · Catiolanze · Latadrop · Latalux · Latanoprost · Monoprost · Noviop · Oftastad · Rozaprost · Tanafra · Tanolux · Visiolatan · Vizilatan · Xalatan · Xalofree · Xaloptic · Xaloptic Free · Xatamont"
+{ "name_jp": ""S01EE04 · Travoprost OPHTHALMOLOGICALS", "status": "NP" },
+Izba · Rozatrav · Stavorio · Tipifree · Traglafka · Travatan · Travoprost · Trevicopto · Vizitrav"
+{ "name_jp": ""S01EE05 · Tafluprost OPHTHALMOLOGICALS", "status": "NP" },
+Saflutan · Taflotan · Tafluprost"
+{ "name_jp": ""S01FA01 · Atropine OPHTHALMOLOGICALS", "status": "NP" },
+Atropin · Atropine Sulphate · Atropinum Sulfuricum · Miofree · Ryjunea"
+{ "name_jp": ""S01FA04 · Cyclopentolate OPHTHALMOLOGICALS", "status": "PNP" },
+Cyclogyl · Cyclopentolat · Cyclopentolate · Cykloftyal · Cyklopentolat · Oftan Syklo · Zyklolat"
+{ "name_jp": ""S01FA06 · Tropicamide OPHTHALMOLOGICALS", "status": "PNP" },
+Mydriacyl · Oftan Tropicamid · Tropicamide · Tropicamidum · Tropikamid · Visumidriatic"
+{ "name_jp": ""S01FA56 · Tropicamide, Combinations OPHTHALMOLOGICALS", "status": "PNP" },
+Mydane · Mydrane · Mydriasert · Tropikamid, Kombinasjoner"
+{ "name_jp": ""S01FB01 · Phenylephrine OPHTHALMOLOGICALS", "status": "PNP" },
+Fenylefrin · Metaoxedrin · Neosynephrin · Oftan Metaoksedrin · Phenylephrine"
+{ "name_jp": ""S01GA01 · Naphazoline OPHTHALMOLOGICALS", "status": "PNP" },
+Cleareyes · Cleari · Cleye · Nafazolin"
+{ "name_jp": ""S01GA51 · Naphazoline, Combinations OPHTHALMOLOGICALS", "status": "PNP" },
+Antistina-Privin · Betadrin · Nafazolin, Kombinasjoner · Oculosan"
+{ "name_jp": ""S01GA55 · Phenylephrine, Combinations OPHTHALMOLOGICALS", "status": "NP" },
+Fenylefrin, Kombinasjoner"
+{ "name_jp": ""S01GX01 · Cromoglicic Acid OPHTHALMOLOGICALS", "status": "NP" },
+Allergo-Comod · Allergocrom · Cusicrom · Lecrolyn · Lomudal · Natriumkromoglikat · Polcrom · Vividrin"
+{ "name_jp": ""S01GX02 · Levocabastine OPHTHALMOLOGICALS", "status": "NP" },
+Benaliv · Levokabastin · Livostin"
+{ "name_jp": ""S01GX04 · Nedocromil OPHTHALMOLOGICALS", "status": "NP" },
+Nedokromil"
+{ "name_jp": ""S01GX06 · Emedastine OPHTHALMOLOGICALS", "status": "NP" },
+Emadine · Emedastin"
+{ "name_jp": ""S01GX07 · Azelastine OPHTHALMOLOGICALS", "status": "NP" },
+Allergodil · Allestin · Azel-Drop · Azel-Drop Free · Azelamed · Azelastin · Azelastin Comod · Azelastine · Lastin"
+{ "name_jp": ""S01GX08 · Ketotifen OPHTHALMOLOGICALS", "status": "NP" },
+Allergo-Vision · Ketazed · Ketotifen · Ocutifex · Zabak · Zaditen · Zaditen Ophtha · Zalerg"
+{ "name_jp": ""S01GX09 · Olopatadine OPHTHALMOLOGICALS", "status": "NP" },
+Oftahist · Olodon Free · Olopatadin · Olopatadine · Olpalan · Opatanol · Optamont · Starazolin · Toredin"
+{ "name_jp": ""S01HA02 · Oxybuprocaine OPHTHALMOLOGICALS", "status": "NP" },
+Novain · Obupro · Oftan Obucain · Oftasen · Oksybuprokain · Oxibuprokain · Oxybuprocaine · Oxybuprocainhydrochlorid · Oxybuprokain"
+{ "name_jp": ""S01HA03 · Tetracaine OPHTHALMOLOGICALS", "status": "NP" },
+Tetracaine · Tetrakain"
+{ "name_jp": ""S01HA06 · Cinchocaine OPHTHALMOLOGICALS", "status": "NP" },
+Cinkokain"
+{ "name_jp": ""S01JA01 · Fluorescein OPHTHALMOLOGICALS", "status": "PNP" },
+Anatera · Fluorescein · Fluoresceine · Fluoresceinnatrium · Fluorescite"
+{ "name_jp": ""S01JA51 · Fluorescein, Combinations OPHTHALMOLOGICALS", "status": "NP" },
+Combiflure · Fluorescein, Kombinasjoner · Lidocaine & Fluorescein · Lidocaine + Fluorescein · Oftan Flurekain"
+{ "name_jp": ""S01LA01 · Verteporfin OPHTHALMOLOGICALS", "status": "NP" },
+Verteporfin · Visudyne"
+{ "name_jp": ""S01LA04 · Ranibizumab OPHTHALMOLOGICALS", "status": "NP" },
+Byooviz · Epruvy · Lucentis · Ranibizumab · Ranivisio · Ranluspec · Rimmyrah · Ximluci"
+{ "name_jp": ""S01LA05 · Aflibercept OPHTHALMOLOGICALS", "status": "NP" },
+Afiveg · Aflibercept · Afqlir · Ahzantive · Baiama · Eiyzey · Eydenzelt · Eylea · Eyluxvi · Mynzepli · Opuviz · Pavblu · Vgenfli · Yesafili"
+{ "name_jp": ""S01XA20 · Artificial Tears and Other Indifferent Preparations OPHTHALMOLOGICALS", "status": "NP" },
+Artelac · Celluvisc · Davilose Forte · Hyprosan · Indifferente Midler · Lacrisert · Lakrimont · Methocel · Oculac · Oftagel · Øjensalve Ophtha · Posorutin · Refresh Celluvisc · Simplex · Tears Naturale · Vidisic · Visc-Ophtal · Viscotears · Viskøse Øjendråber Ophtha · Ziele Swietlika"
+{ "name_jp": ""S02BA03 · Prednisolone OTOLOGICALS", "status": "PNP" },
+Prednisolon"
+{ "name_jp": ""S02BA07 · Betamethasone OTOLOGICALS", "status": "PNP" },
+Betametason · Diprotit"
+{ "name_jp": ""S02CA02 · Flumetasone and Antiinfectives OTOLOGICALS", "status": "PNP" },
+Flumetason og Antiinfektiva · Locacorten-Vioform"
+{ "name_jp": ""S03BA01 · Dexamethasone OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS", "status": "NP" },
+Deksametason"
+{ "name_jp": ""S03BA02 · Prednisolone OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS", "status": "PNP" },
+Prednisolon"
+{ "name_jp": ""S03CA01 · Dexamethasone and Antiinfectives OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS", "status": "PNP" },
+Deksametason og Antiinfektiva · Sofradex"
+{ "name_jp": ""S03CA04 · Hydrocortisone and Antiinfectives OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS", "status": "PNP" },
+Cortinova b · Hydrocortison Terramycin Polymyxin b · Hydrocortisone / Terramycin / Polymyxin b · Hydrokortison og Antiinfektiva · Hydropol · Hydroterrapol · Terra-Cortril Polymyxin b · Terra-Cortril-p · Terraxin"
+{ "name_jp": ""V01AA · Allergen Extracts ALLERGENS", "status": "NP" },
+Allergenekstrakter · Catalet · Catalet c · Catalet d · Perosall c · Pharmalgen Hymenoptera Venoms · Phostal · Pollinex + rye · Venomenhal"
+{ "name_jp": ""V01AA02 · Grass Pollen ALLERGENS", "status": "PNP" },
+Aitgrys · alk · Alutard · Grass Pollen Extract · Grazax · Oralair · Perosall t13 · Timotei Pollen Ekstrakt"
+{ "name_jp": ""V01AA03 · House Dust Mites ALLERGENS", "status": "PNP" },
+Acarizax · Actair · Aitmyte · alk · Alutard · Husstøvmidd · Staloral"
+{ "name_jp": ""V01AA05 · Tree Pollen ALLERGENS", "status": "PNP" },
+alk · Allergovit · Alutard · Helisen · Itulazax · Perosall d · Purethal · Staloral · Sublivac · Trepollen"
+{ "name_jp": ""V03AB13 · Obidoxime ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Obidoksim · Toxogonin"
+{ "name_jp": ""V03AB15 · Naloxone ALL OTHER THERAPEUTIC PRODUCTS", "status": "PNP" },
+Forvel · Nalofarm · Nalokson · Naloxon · Naloxone · Naloxonum · Nexodal · Nyxoid · Prenoxad · Ventizolve"
+{ "name_jp": ""V03AB21 · Potassium Iodide ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Jodek Potasu · Jodix · Kaliumiodid · Kaliumjodid · Kaliumjodidi · Kalíumjoðíð"
+{ "name_jp": ""V03AB24 · Digitalis Antitoxin ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Digifab · Digitalisantitoksin"
+{ "name_jp": ""V03AB35 · Sugammadex ALL OTHER THERAPEUTIC PRODUCTS", "status": "PNP" },
+Bridion · Sugammadeks · Sugammadex"
+{ "name_jp": ""V03AC01 · Deferoxamine ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Deferoksamin · Deferoxaminmesilat · Desferal"
+{ "name_jp": ""V03AC02 · Deferiprone ALL OTHER THERAPEUTIC PRODUCTS", "status": "PNP" },
+Deferipron · Deferiprone · Ferriprox"
+{ "name_jp": ""V03AC03 · Deferasirox ALL OTHER THERAPEUTIC PRODUCTS", "status": "PNP" },
+Deferasiroks · Deferasirox · Defloxol · Exferana · Exjade · Zeoks"
+{ "name_jp": ""V03AE01 · Polystyrene Sulfonate ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Calcium Resonium · Calciumpolystyrensulfonat · Polystyrensulfonat · Resonium · Resonium a · Resonium Calcium · Resonium Natrium · Resonium-Calcium"
+{ "name_jp": ""V03AE02 · Sevelamer ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Lovtelar · Renagel · Renvela · Sevelamer · Sevelamer Hydrochloride · Sevelamercarbonat · Sevelamerkarbonat · Sevemed · Sewelameru · Tasermity"
+{ "name_jp": ""V03AE07 · Calcium Acetate ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Kalsiumacetat"
+{ "name_jp": ""V03AF01 · Mesna ALL OTHER THERAPEUTIC PRODUCTS", "status": "PNP" },
+Mesna · Uromitexan"
+{ "name_jp": ""V03AF03 · Calcium Folinate ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Antrex · Calcio Folinato · Calcium Folinate · Calciumfolinat · Calciumfolinate · Eurofolic · Folidar · Kalciumfolinat · Kalsiumfolinat · Rescuvolin"
+{ "name_jp": ""V03AF05 · Amifostine ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Amifostin"
+{ "name_jp": ""V03AF07 · Rasburicase ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Fasturtec · Rasburikase"
+{ "name_jp": ""V03AK · Tissue Adhesives ALL OTHER THERAPEUTIC PRODUCTS", "status": "NP" },
+Midler til Sammenføyning av vev"
+{ "name_jp": ""V04CD03 · Sermorelin DIAGNOSTIC AGENTS", "status": "NP" },
+Sermorelin"
+{ "name_jp": ""V04CF01 · Tuberculin DIAGNOSTIC AGENTS", "status": "NP" },
+Tuberculin · Tuberkulin"
+{ "name_jp": ""V04CH30 · Aminohippuric Acid DIAGNOSTIC AGENTS", "status": "NP" },
+Aminohippursyre"
+{ "name_jp": ""V04CJ01 · Thyrotropin DIAGNOSTIC AGENTS", "status": "NP" },
+Tyrotropin"
+{ "name_jp": ""V04CX · Other Diagnostic Agents DIAGNOSTIC AGENTS", "status": "NP" },
+Andre Diagnostika · Diabact · Helicobacter Test · Helicobacter Test hp-Plus · Icomas · Lithium · Lumeblue · Lung Test gas · Lunploro · Pylobactell · Veoplore"
+{ "name_jp": ""V08AA01 · Diatrizoic Acid CONTRAST MEDIA", "status": "PNP" },
+Diatrizoinsyre · Gastrografin · Gastrolux · Urografin"
+{ "name_jp": ""V08AB02 · Iohexol CONTRAST MEDIA", "status": "NP" },
+Joheksol · Omnipaque"
+{ "name_jp": ""V08AB03 · Ioxaglic Acid CONTRAST MEDIA", "status": "NP" },
+Joksaglinsyre"
+{ "name_jp": ""V08AB04 · Iopamidol CONTRAST MEDIA", "status": "NP" },
+Jopamidol"
+{ "name_jp": ""V08AB05 · Iopromide CONTRAST MEDIA", "status": "NP" },
+Jopromid · Ultravist"
+{ "name_jp": ""V08AB07 · Ioversol CONTRAST MEDIA", "status": "NP" },
+Joversol · Optiray"
+{ "name_jp": ""V08AB09 · Iodixanol CONTRAST MEDIA", "status": "NP" },
+Jodiksanol · Visipaque"
+{ "name_jp": ""V08AB10 · Iomeprol CONTRAST MEDIA", "status": "NP" },
+Iomeron · Jomeprol"
+{ "name_jp": ""V08AB11 · Iobitridol CONTRAST MEDIA", "status": "NP" },
+Jobitridol · Xenetix"
+{ "name_jp": ""V08BA01 · Barium Sulfate With Suspending Agents CONTRAST MEDIA", "status": "NP" },
+Barium Sulfuricum · Bariumsulfat med Suspensjonsmidler · e-z-cat · e-z-hd · ez-cat Bariumsulfat · Liquid Polibar Plus · Micropaque · Neulumex · Polibar Plus · Tagitol · Varibar"
+{ "name_jp": ""V08CA01 · Gadopentetic Acid CONTRAST MEDIA", "status": "NP" },
+Gadopentetsyre · Magnevist"
+{ "name_jp": ""V08CA03 · Gadodiamide CONTRAST MEDIA", "status": "NP" },
+Gadodiamid"
+{ "name_jp": ""V08CA09 · Gadobutrol CONTRAST MEDIA", "status": "NP" },
+Gadobutrol · Gadovist · Pixxoscan · Prohance"
+{ "name_jp": ""V08CA10 · Gadoxetic Acid CONTRAST MEDIA", "status": "PNP" },
+Gadoksetsyre · Primovist"
+{ "name_jp": ""V08DA01 · Perflutren, Human Albumin Microspheres CONTRAST MEDIA", "status": "NP" },
+Optison · Perflutren, Mikrosfærer av Humant Albumin"
+{ "name_jp": ""V08DA02 · Microparticles of Galactose CONTRAST MEDIA", "status": "NP" },
+Mikropartikler av Galaktose"
+{ "name_jp": ""V08DA05 · Sulfur Hexafluoride, Phospholipid Microspheres CONTRAST MEDIA", "status": "NP" },
+Sonovue · Svovelheksafluorid, Fosfolipidmikrosfærer"
+{ "name_jp": ""V09GA02 · Technetium (99mtc) Tetrofosmin DIAGNOSTIC RADIOPHARMACEUTICALS", "status": "PNP" },
+Myoview · Teknesium (99mtc) Tetrofosmin · Tetrofosmin"
+{ "name_jp": "", "status": "In cooperation with Ipnet" }]
