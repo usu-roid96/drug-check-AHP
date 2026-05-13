@@ -8,30 +8,32 @@
         :root { --primary-color: #007bff; --safe-color: #28a745; --danger-color: #dc3545; }
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 20px; background-color: #f8f9fa; color: #333; }
         .container { max-width: 600px; margin: auto; background: white; padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
-        h1 { font-size: 1.2em; text-align: center; margin-bottom: 25px; color: #222; line-height: 1.4; }
         
-        /* 検索エリア */
-        .search-box { position: sticky; top: 10px; background: white; z-index: 100; padding-bottom: 10px; }
-        input { width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #eee; border-radius: 12px; font-size: 16px; transition: all 0.3s; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
+        /* タイトル */
+        h1 { font-size: 1.2em; text-align: center; margin-bottom: 25px; color: #222; line-height: 1.5; }
+        
+        /* 検索ボックス（スクロールしても上部に固定） */
+        .search-box { position: sticky; top: 0; background: white; z-index: 100; padding: 10px 0; }
+        input { width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #eee; border-radius: 12px; font-size: 16px; transition: all 0.3s; }
         input:focus { border-color: var(--primary-color); outline: none; box-shadow: 0 0 8px rgba(0,123,255,0.2); }
         
-        .count-info { font-size: 0.85em; color: #666; margin: 10px 0; text-align: right; }
+        .count-info { font-size: 0.85em; color: #666; margin-top: 8px; text-align: right; }
 
-        /* リスト表示 */
+        /* リストのデザイン */
         .result-item, .drug-list li { padding: 12px 15px; border-bottom: 1px solid #f1f1f1; display: flex; justify-content: space-between; align-items: center; }
-        .status-badge { padding: 4px 12px; border-radius: 20px; font-weight: bold; font-size: 0.85em; color: white; min-width: 40px; text-align: center; }
+        .status-badge { padding: 4px 12px; border-radius: 20px; font-weight: bold; font-size: 0.85em; color: white; min-width: 45px; text-align: center; }
         .bg-np { background-color: var(--safe-color); }
         .bg-pnp { background-color: var(--danger-color); }
 
         .list-container { margin-top: 30px; }
-        .list-title { font-weight: bold; padding: 10px 0; border-bottom: 2px solid #eee; margin-bottom: 10px; }
+        .list-title { font-weight: bold; padding: 10px 0; border-bottom: 2px solid #eee; margin-bottom: 10px; color: #555; }
         .drug-list { list-style: none; padding: 0; margin: 0; }
 
         /* 上に戻るボタン */
         #backToTop { position: fixed; bottom: 30px; right: 20px; width: 50px; height: 50px; background: var(--primary-color); color: white; border: none; border-radius: 50%; cursor: pointer; display: none; box-shadow: 0 4px 10px rgba(0,0,0,0.2); font-size: 20px; z-index: 1000; }
 
         /* フッター */
-        .footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; font-size: 0.8em; color: #888; text-align: center; line-height: 1.8; }
+        .footer { margin-top: 50px; padding-top: 25px; border-top: 1px solid #eee; font-size: 0.8em; color: #777; text-align: center; line-height: 1.8; }
         .footer a { color: var(--primary-color); text-decoration: none; font-weight: bold; }
     </style>
 </head>
@@ -62,86 +64,12 @@
             個人の状態により判断が異なる場合があります。最終的な服用判断は必ず医師にご相談ください。
         </p>
     </div>
-   
+</div>
+
 <button id="backToTop" title="一番上に戻る">↑</button>
 
 <script>
     let drugData = [];
     const searchInput = document.getElementById('searchInput');
     const searchResults = document.getElementById('searchResults');
-    const countDisplay = document.getElementById('countDisplay');
-    const fullList = document.getElementById('fullList');
-    const listContainer = document.getElementById('listContainer');
-    const backToTopBtn = document.getElementById('backToTop');
-
-    // 1. データ読み込み
-    fetch('drugs.json')
-        .then(response => response.json())
-        .then(data => {
-            drugData = data.sort((a, b) => a.name_jp.localeCompare(b.name_jp, 'ja'));
-            countDisplay.textContent = `全 ${drugData.length} 件の薬剤を登録済み`;
-            displayFullList(drugData); 
-        })
-        .catch(err => {
-            countDisplay.textContent = "データの読み込みに失敗しました";
-            console.error(err);
-        });
-
-    // 2. 検索機能
-    searchInput.addEventListener('input', () => {
-        const query = searchInput.value.toLowerCase().trim();
-        searchResults.innerHTML = '';
-        
-        if (query) {
-            listContainer.style.display = 'none';
-            const filtered = drugData.filter(d => d.name_jp.toLowerCase().includes(query));
-            countDisplay.textContent = `検索結果: ${filtered.length} 件`;
-            
-            if (filtered.length > 0) {
-                filtered.forEach(d => {
-                    const div = document.createElement('div');
-                    div.className = 'result-item';
-                    div.innerHTML = `
-                        <span>${d.name_jp}</span>
-                        <span class="status-badge ${d.status === 'NP' ? 'bg-np' : 'bg-pnp'}">${d.status}</span>
-                    `;
-                    searchResults.appendChild(div);
-                });
-            } else {
-                searchResults.innerHTML = '<p style="text-align:center; color:gray; padding:20px;">該当する薬が見つかりません</p>';
-            }
-        } else {
-            listContainer.style.display = 'block';
-            countDisplay.textContent = `全 ${drugData.length} 件の薬剤を登録済み`;
-        }
-    });
-
-    // 3. 全件一覧表示
-    function displayFullList(data) {
-        fullList.innerHTML = '';
-        data.forEach(d => {
-            const li = document.createElement('li');
-            li.innerHTML = `
-                <span>${d.name_jp}</span>
-                <span style="font-weight:bold; color:${d.status === 'NP' ? '#28a745' : '#dc3545'}">${d.status}</span>
-            `;
-            fullList.appendChild(li);
-        });
-    }
-
-    // 4. 上に戻るボタン
-    window.onscroll = function() {
-        if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-            backToTopBtn.style.display = "block";
-        } else {
-            backToTopBtn.style.display = "none";
-        }
-    };
-
-    backToTopBtn.onclick = function() {
-        window.scrollTo({top: 0, behavior: 'smooth'});
-    };
-</script>
-
-</body>
-</html>
+    const countDisplay = document
