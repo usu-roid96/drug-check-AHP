@@ -3,77 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ポルフィリン症 薬剤判定</title>
+    <title>ポルフィリン症 薬剤判定検索 & セーフドラッグ一覧</title>
     <style>
-        body { font-family: sans-serif; margin: 20px; line-height: 1.6; background-color: #f4f4f9; color: #333; }
-        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        h1 { font-size: 1.2em; color: #333; text-align: center; margin-bottom: 20px; }
+        :root { --primary-color: #007bff; --safe-color: #28a745; --danger-color: #dc3545; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 20px; background-color: #f8f9fa; color: #333; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        h1 { font-size: 1.2em; text-align: center; margin-bottom: 25px; color: #222; line-height: 1.4; }
         
-        /* 検索窓 */
-        input { width: 100%; padding: 12px; box-sizing: border-box; margin-bottom: 20px; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; }
-        input:focus { border-color: #007bff; outline: none; }
+        /* 検索エリア */
+        .search-box { position: sticky; top: 10px; background: white; z-index: 100; padding-bottom: 10px; }
+        input { width: 100%; padding: 15px; box-sizing: border-box; border: 2px solid #eee; border-radius: 12px; font-size: 16px; transition: all 0.3s; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
+        input:focus { border-color: var(--primary-color); outline: none; box-shadow: 0 0 8px rgba(0,123,255,0.2); }
         
-        /* 検索結果のスタイル */
-        .result-item { padding: 15px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; background: #fff9f9; }
-        .status-np { color: white; background: #28a745; padding: 3px 10px; border-radius: 4px; font-weight: bold; font-size: 0.9em; }
-        .status-pnp { color: white; background: #dc3545; padding: 3px 10px; border-radius: 4px; font-weight: bold; font-size: 0.9em; }
+        .count-info { font-size: 0.85em; color: #666; margin: 10px 0; text-align: right; }
 
-        /* 一覧のスタイル */
-        .list-container { margin-top: 30px; border-top: 2px solid #eee; padding-top: 15px; }
-        .list-title { font-weight: bold; margin-bottom: 10px; color: #555; display: flex; align-items: center; gap: 8px; }
+        /* リスト表示 */
+        .result-item, .drug-list li { padding: 12px 15px; border-bottom: 1px solid #f1f1f1; display: flex; justify-content: space-between; align-items: center; }
+        .status-badge { padding: 4px 12px; border-radius: 20px; font-weight: bold; font-size: 0.85em; color: white; min-width: 40px; text-align: center; }
+        .bg-np { background-color: var(--safe-color); }
+        .bg-pnp { background-color: var(--danger-color); }
+
+        .list-container { margin-top: 30px; }
+        .list-title { font-weight: bold; padding: 10px 0; border-bottom: 2px solid #eee; margin-bottom: 10px; }
         .drug-list { list-style: none; padding: 0; margin: 0; }
-        .drug-list li { font-size: 0.9em; padding: 8px 0; border-bottom: 1px solid #f0f0f0; display: flex; justify-content: space-between; align-items: center; }
-        
-        /* フッター（出典情報） */
-        .footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.8em; color: #777; text-align: center; }
-        .footer a { color: #777; text-decoration: underline; }
+
+        /* 上に戻るボタン */
+        #backToTop { position: fixed; bottom: 30px; right: 20px; width: 50px; height: 50px; background: var(--primary-color); color: white; border: none; border-radius: 50%; cursor: pointer; display: none; box-shadow: 0 4px 10px rgba(0,0,0,0.2); font-size: 20px; z-index: 1000; }
+
+        /* フッター */
+        .footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; font-size: 0.8em; color: #888; text-align: center; line-height: 1.8; }
+        .footer a { color: var(--primary-color); text-decoration: none; font-weight: bold; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h1>ポルフィリン症薬剤判定検索 & セーフドラッグ一覧</h1>
+    <h1>ポルフィリン症 薬剤判定検索 &<br>セーフドラッグ一覧</h1>
     
-    <input type="text" id="searchInput" placeholder="薬の名前を入力（例：ロキソニン）">
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="薬の名前を入力してください...">
+        <div id="countDisplay" class="count-info">読み込み中...</div>
+    </div>
     
     <div id="searchResults"></div>
 
-    <div class="list-container">
-        <div class="list-title">📋 登録薬剤一覧（五十音・ABC順）</div>
+    <div class="list-container" id="listContainer">
+        <div class="list-title">📋 全登録薬剤一覧（五十音順）</div>
         <ul id="fullList" class="drug-list"></ul>
     </div>
 
     <div class="footer">
-        <p>データ出典: <a href="https://drugs-porphyria.org/" target="_blank">NAPOS (The Norwegian Porphyria Centre)</a></p>
-            <p>データ出典: <a href="https://porphyriadrugs.com/" target="_blank">PorphyriaDrugs.com</a></p>
+        <p>データ出典: <a href="https://drugs-porphyria.org/" target="_blank">NAPOS (Norwegian Porphyria Centre)</a></p>
         <p>最終データ更新日: 2026年5月14日</p>
-<p style="font-size: 0.9em; margin-top: 10px;">※本アプリはNAPOSの「Safe Drugs」データベースを参照していますが、最終的な服用判断は必ず医師にご相談ください。</p>
+        <p style="margin-top: 10px;">※本アプリはNAPOSのSafe Drugsリストに基づきますが、<br>最終的な服用判断は必ず医師にご相談ください。</p>
     </div>
 </div>
 
+<button id="backToTop" title="一番上に戻る">↑</button>
+
 <script>
     let drugData = [];
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
+    const countDisplay = document.getElementById('countDisplay');
+    const fullList = document.getElementById('fullList');
+    const listContainer = document.getElementById('listContainer');
+    const backToTopBtn = document.getElementById('backToTop');
 
-    // 1. drugs.jsonからデータを読み込む
+    // 1. データ読み込み
     fetch('drugs.json')
         .then(response => response.json())
         .then(data => {
-            // 日本語の五十音・アルファベット順にソート
             drugData = data.sort((a, b) => a.name_jp.localeCompare(b.name_jp, 'ja'));
+            countDisplay.textContent = `全 ${drugData.length} 件の薬剤を登録済み`;
             displayFullList(drugData); 
         })
-        .catch(err => console.error("データの読み込みに失敗しました:", err));
+        .catch(err => {
+            countDisplay.textContent = "データの読み込みに失敗しました";
+            console.error(err);
+        });
 
     // 2. 検索機能
-    const searchInput = document.getElementById('searchInput');
-    const searchResults = document.getElementById('searchResults');
-
     searchInput.addEventListener('input', () => {
         const query = searchInput.value.toLowerCase().trim();
         searchResults.innerHTML = '';
         
         if (query) {
+            listContainer.style.display = 'none';
             const filtered = drugData.filter(d => d.name_jp.toLowerCase().includes(query));
+            countDisplay.textContent = `検索結果: ${filtered.length} 件`;
             
             if (filtered.length > 0) {
                 filtered.forEach(d => {
@@ -81,29 +99,44 @@
                     div.className = 'result-item';
                     div.innerHTML = `
                         <span>${d.name_jp}</span>
-                        <span class="${d.status === 'NP' ? 'status-np' : 'status-pnp'}">${d.status}</span>
+                        <span class="status-badge ${d.status === 'NP' ? 'bg-np' : 'bg-pnp'}">${d.status}</span>
                     `;
                     searchResults.appendChild(div);
                 });
             } else {
-                searchResults.innerHTML = '<p style="font-size:0.8em; color:gray; text-align:center;">該当する薬が見つかりません</p>';
+                searchResults.innerHTML = '<p style="text-align:center; color:gray; padding:20px;">該当する薬が見つかりません</p>';
             }
+        } else {
+            listContainer.style.display = 'block';
+            countDisplay.textContent = `全 ${drugData.length} 件の薬剤を登録済み`;
         }
     });
 
-    // 3. 全件一覧表示機能
+    // 3. 全件一覧表示
     function displayFullList(data) {
-        const fullList = document.getElementById('fullList');
-        fullList.innerHTML = ''; // 初期化
+        fullList.innerHTML = '';
         data.forEach(d => {
             const li = document.createElement('li');
             li.innerHTML = `
                 <span>${d.name_jp}</span>
-                <span style="color: ${d.status === 'NP' ? '#28a745' : '#dc3545'}; font-weight:bold;">${d.status}</span>
+                <span style="font-weight:bold; color:${d.status === 'NP' ? '#28a745' : '#dc3545'}">${d.status}</span>
             `;
             fullList.appendChild(li);
         });
     }
+
+    // 4. 上に戻るボタン
+    window.onscroll = function() {
+        if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+            backToTopBtn.style.display = "block";
+        } else {
+            backToTopBtn.style.display = "none";
+        }
+    };
+
+    backToTopBtn.onclick = function() {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    };
 </script>
 
 </body>
