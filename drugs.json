@@ -1,7 +1,14 @@
 [
-  { "name_jp": "ロキソプロフェン", "status": "NP" },
-  { "name_jp": "リチウム", "status": "PNP" },
-  { "name_jp": "カロナール", "status": "NP" },
-  { "name_jp": "アスピリン", "status": "NP" },
-  { "name_jp": "イブプロフェン", "status": "NP" }
+  { "name_jp": "フッ化ナトリウム（口腔用製剤）", "status": "NP" },
+  { "name_jp": "クロルヘキシジン（口腔用製剤）", "status": "NP" },
+  { "name_jp": "アムホテリシンB（口腔用製剤）", "status": "NP" },
+  { "name_jp": "ミコナゾール（口腔用製剤）", "status": "NP" },
+  { "name_jp": "メトロニダゾール（口腔用製剤）", "status": "PNP" },
+  { "name_jp": "ドキシサイクリン（口腔用製剤）", "status": "PNP" },
+  { "name_jp": "炭酸リチウム（リーマスなど）", "status": "PNP" },
+  { "name_jp": "ロキソプロフェン（ロキソニン）", "status": "NP" },
+  { "name_jp": "アセトアミノフェン（カロナール）", "status": "NP" },
+  { "name_jp": "イブプロフェン（イブ）", "status": "NP" },
+  { "name_jp": "ジアトリゾ酸（造影剤）", "status": "PNP" },
+  { "name_jp": "イオヘキソール（造影剤）", "status": "NP" }
 ]
