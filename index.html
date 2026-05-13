@@ -2,40 +2,87 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>薬の安全検索</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ポルフィリン症 薬剤判定</title>
     <style>
-        body { font-family: sans-serif; padding: 20px; max-width: 600px; margin: auto; }
-        input { width: 100%; padding: 12px; margin-bottom: 20px; font-size: 16px; border: 2px solid #007bff; border-radius: 5px; }
-        .drug-item { padding: 15px; border-bottom: 1px solid #eee; background: #f9f9f9; margin-bottom: 5px; border-radius: 5px; }
-        .status-badge { font-weight: bold; padding: 2px 8px; border-radius: 3px; background: #ffcc00; }
+        body { font-family: sans-serif; margin: 20px; line-height: 1.6; background-color: #f4f4f9; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h1 { font-size: 1.2em; color: #333; text-align: center; }
+        input { width: 100%; padding: 10px; box-sizing: border-box; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 5px; }
+        
+        /* 検索結果のスタイル */
+        .result-item { padding: 15px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .status-np { color: white; background: #28a745; padding: 2px 8px; border-radius: 4px; font-weight: bold; }
+        .status-pnp { color: white; background: #dc3545; padding: 2px 8px; border-radius: 4px; font-weight: bold; }
+
+        /* 一覧のスタイル */
+        .list-container { margin-top: 30px; border-top: 2px solid #333; padding-top: 10px; }
+        .list-title { font-weight: bold; margin-bottom: 10px; color: #555; }
+        .drug-list { list-style: none; padding: 0; }
+        .drug-list li { font-size: 0.9em; padding: 5px 0; border-bottom: 1px solid #f0f0f0; display: flex; justify-content: space-between; }
     </style>
 </head>
 <body>
-    <h1>💊 薬の安全検索</h1>
-    <input type="text" id="searchInput" placeholder="薬の名前を入力してください...">
-    <div id="results"></div>
 
-    <script>
-        let drugs = [];
-        fetch('drugs.json')
-            .then(r => r.json())
-            .then(data => { drugs = data; })
-            .catch(e => console.error("データ読み込み失敗"));
+<div class="container">
+    <h1>薬剤判定検索 & 一覧</h1>
+    
+    <input type="text" id="searchInput" placeholder="薬の名前を入力（例：ロキソニン）">
+    <div id="searchResults"></div>
 
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            const q = e.target.value.toLowerCase();
-            const res = document.getElementById('results');
-            res.innerHTML = '';
-            if (q.length < 1) return;
+    <div class="list-container">
+        <div class="list-title">📋 登録薬剤一覧（あいうえお・ABC順）</div>
+        <ul id="fullList" class="drug-list"></ul>
+    </div>
+</div>
 
-            const filtered = drugs.filter(d => d.name_jp.includes(q));
+<script>
+    let drugData = [];
+
+    // 1. データを読み込む
+    fetch('drugs.json')
+        .then(response => response.json())
+        .then(data => {
+            // 名前順に並び替え
+            drugData = data.sort((a, b) => a.name_jp.localeCompare(b.name_jp, 'ja'));
+            displayFullList(drugData); // 最初は一覧を表示
+        });
+
+    // 2. 検索機能
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
+
+    searchInput.addEventListener('input', () => {
+        const query = searchInput.value.toLowerCase();
+        searchResults.innerHTML = '';
+        
+        if (query) {
+            const filtered = drugData.filter(d => d.name_jp.toLowerCase().includes(query));
             filtered.forEach(d => {
                 const div = document.createElement('div');
-                div.className = 'drug-item';
-                div.innerHTML = `<strong>${d.name_jp}</strong><br>判定: <span class="status-badge">${d.status}</span>`;
-                res.appendChild(div);
+                div.className = 'result-item';
+                div.innerHTML = `
+                    <span>${d.name_jp}</span>
+                    <span class="${d.status === 'NP' ? 'status-np' : 'status-pnp'}">${d.status}</span>
+                `;
+                searchResults.appendChild(div);
             });
+        }
+    });
+
+    // 3. 一覧表示機能
+    function displayFullList(data) {
+        const fullList = document.getElementById('fullList');
+        data.forEach(d => {
+            const li = document.createElement('li');
+            li.innerHTML = `
+                <span>${d.name_jp}</span>
+                <span style="color: ${d.status === 'NP' ? '#28a745' : '#dc3545'}; font-weight:bold;">${d.status}</span>
+            `;
+            fullList.appendChild(li);
         });
-    </script>
+    }
+</script>
+
 </body>
 </html>
